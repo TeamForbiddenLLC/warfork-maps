@@ -22024,7 +22024,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "753.999878 2953.999756 84.000008"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angles" "4.590765 -22.173269 -1.868293"
 "modelscale" "2.000000"
 }
@@ -22032,7 +22032,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "746.804871 2887.636963 76.000000"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angles" "4.590765 -74.547112 -1.868293"
 "modelscale" "2.000000"
 }
@@ -22040,7 +22040,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "816.498535 2917.602783 75.757042"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angles" "-3.423363 -125.247841 -13.187692"
 "modelscale" "1.300000"
 }
@@ -22056,7 +22056,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "1100.488892 2886.772949 64.636322"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angles" "-1.357844 -111.087929 -8.613088"
 "modelscale" "2.000000"
 }
@@ -22064,7 +22064,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "1099.186768 2827.193848 65.495003"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angles" "-12.794492 144.973160 -0.707406"
 "modelscale" "1.300000"
 }

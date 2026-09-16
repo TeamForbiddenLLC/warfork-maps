@@ -22652,7 +22652,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "818.287537 2166.878906 -80.625404"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-0.910891 94.505295 -22.439156"
 }
@@ -22669,7 +22669,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "878.374451 2174.887451 -48.836720"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-13.019885 99.608009 -23.061836"
 }
@@ -22677,7 +22677,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "930.281799 2186.919189 -8.679220"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-12.867354 96.982788 -18.028666"
 }
@@ -22685,7 +22685,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "947.087769 2155.171143 -30.695248"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-4.884149 113.281158 -28.024803"
 }
@@ -22693,7 +22693,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "989.379028 2182.508301 9.079523"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-5.924387 111.330009 -23.207281"
 }
@@ -23517,7 +23517,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-1056.315063 1772.483154 -112.438568"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-16.494406 -126.522957 -3.493987"
 }
@@ -23525,7 +23525,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-1064.897705 1693.655762 -109.258446"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-16.494406 178.533493 -3.493987"
 }
@@ -24305,7 +24305,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-1056.315063 1772.483154 -112.438568"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-16.494406 -126.522957 -3.493987"
 }
@@ -24313,7 +24313,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-1064.897705 1693.655762 -109.258446"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-16.494406 178.533493 -3.493987"
 }
@@ -24375,7 +24375,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "751.792053 1460.709106 -117.336540"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "1.353633 -127.595352 -3.350990"
 }
@@ -24499,7 +24499,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1231.791992 812.709106 -85.336540"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "1.353633 -127.595352 -3.350990"
 }
@@ -24507,7 +24507,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1140.255493 784.693359 -85.336533"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "1.353633 -164.175583 -3.350990"
 }
@@ -24848,7 +24848,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "169.719894 -948.803284 -85.763100"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-5.004338 -176.692688 1.624821"
 }
@@ -24865,7 +24865,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "113.158562 -959.187622 -48.640652"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-5.004338 -176.692688 1.624821"
 }
@@ -24873,7 +24873,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "65.688812 -972.837219 -3.784516"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-5.004338 -176.692688 1.624821"
 }
@@ -24881,7 +24881,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "44.783562 -942.966736 -32.925140"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-0.807846 178.979492 9.959875"
 }
@@ -24889,7 +24889,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "2.764967 -962.267212 11.570285"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-0.807846 178.979492 9.959875"
 }
@@ -25714,7 +25714,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "2048.314941 -556.483398 -112.438568"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angle" "-179.999985"
 }
@@ -25722,7 +25722,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "2056.897705 -477.655762 -109.258446"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angle" "-179.999985"
 }
@@ -26503,7 +26503,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "240.207947 -244.708984 -117.336540"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angle" "-179.999985"
 }
@@ -26629,7 +26629,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-239.792114 403.222626 -83.792717"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "0.000000 -179.999985 6.932856"
 }
@@ -26637,7 +26637,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-148.255615 431.033142 -87.174332"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "0.000000 -179.999985 6.932856"
 }
@@ -27205,7 +27205,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "593.647034 -1677.535889 -119.771141"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "3.729153 179.512756 -7.449639"
 }
@@ -27213,7 +27213,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "529.522034 -1725.105225 -126.186104"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "3.729153 179.512756 -7.449639"
 }
@@ -27228,7 +27228,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "457.338867 -1687.794189 -122.060310"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "3.729153 179.512756 -7.449639"
 }
@@ -27236,7 +27236,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "377.400574 -1682.736816 -122.656891"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "3.729153 179.512756 -7.449639"
 }
@@ -27244,7 +27244,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "172.182861 -2331.056396 -93.413834"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angle" "-179.999985"
 }
@@ -27546,7 +27546,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "141.659805 -2127.034424 -167.509933"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "11.714613 -149.225296 30.817753"
 }
@@ -27642,7 +27642,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "190.623245 -2436.030029 -93.421906"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-18.722795 -154.723038 0.000000"
 }
@@ -27998,7 +27998,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "400.596344 2870.173096 -115.970879"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "4.111875 1.840908 -6.567135"
 }
@@ -28006,7 +28006,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "462.744019 2920.337158 -122.071892"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "4.111875 1.840908 -6.567135"
 }
@@ -28021,7 +28021,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "536.372742 2885.857178 -118.995255"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "4.111875 1.840908 -6.567135"
 }
@@ -28029,7 +28029,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "616.442139 2883.980957 -120.193893"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "4.111875 1.840908 -6.567135"
 }
@@ -28037,7 +28037,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "819.817139 3539.460938 -117.987389"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "0.000003 0.000016 -10.059110"
 }
@@ -28569,7 +28569,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "420.923065 -2227.056396 -124.566147"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-14.019646 -179.999985 0.000000"
 }
@@ -30344,7 +30344,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-252.221756 -2089.635010 -142.270996"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-12.621232 158.708618 0.000000"
 }
@@ -30352,7 +30352,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-252.221756 -1977.635010 -142.270996"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-12.621250 158.708618 0.000000"
 }
@@ -30437,7 +30437,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-1009.459290 2797.848389 -114.429344"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "18.753899 -160.443085 -15.335790"
 }
@@ -30445,7 +30445,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "2005.091675 -1574.290649 -113.131393"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-13.976387 -119.717278 10.762728"
 }
@@ -30453,7 +30453,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1228.673584 3223.690918 -118.878250"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-18.523491 -19.577255 -10.614925"
 }
@@ -30461,7 +30461,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1237.739014 3157.540771 -118.878265"
-"model" "models/mapobjects/FERNBIG.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-18.523491 22.523405 -10.614924"
 }

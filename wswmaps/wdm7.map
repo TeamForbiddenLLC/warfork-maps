@@ -24884,7 +24884,7 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "376 -352 -128"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale_vec" "1.36364 1.36364 1.4"
 }
 // entity 120
@@ -24915,13 +24915,13 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "912 -912 56"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 }
 // entity 124
 {
 "classname" "misc_model"
 "origin" "1064 -912 56"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angle" "-25.2964"
 }
 // entity 125
@@ -25146,14 +25146,14 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "428 -352 -128"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angle" "43.7506"
 }
 // entity 155
 {
 "classname" "misc_model"
 "origin" "-672 -1104 216"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angles" "34.159 56.2559 47.7793"
 "modelscale_vec" "1 1 1.6"
 }
@@ -25209,7 +25209,7 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "0 -1736 168"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 }
 // entity 163
 {

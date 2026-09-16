@@ -33210,7 +33210,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-496.000061 2463.999756 378.999969"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "modelscale" "2.000000"
 "angles" "-3.414128 -43.866093 12.555404"
 }
@@ -33218,7 +33218,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-560.000366 2511.999756 371.999908"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angles" "1.778825 -77.555206 13.687731"
 "modelscale_vec" "1.388889 1.388889 1.333334"
 }
@@ -33226,7 +33226,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-580.000427 2448.000000 371.999878"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angles" "4.789918 -79.723480 15.972448"
 "modelscale_vec" "1.388889 1.388889 1.333334"
 }
@@ -33252,7 +33252,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-416.319427 1984.015991 367.981201"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angles" "4.776360 -127.528412 17.404142"
 "modelscale_vec" "1.388889 1.388889 1.333334"
 "spawnflags" "4"
@@ -33261,7 +33261,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-436.000336 1920.000366 363.999969"
-"model" "models/mapobjects/fernbig.md3"
+"model" "models/mapobjects/nateleaf1/fernbig.obj"
 "angles" "14.950603 -145.785309 3.132521"
 "modelscale_vec" "0.953592 0.976709 0.872727"
 "spawnflags" "4"
