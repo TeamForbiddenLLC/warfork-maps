@@ -7892,7 +7892,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-894.000000 -844.000000 562.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -7932,7 +7932,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-1062.000000 -408.000000 214.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -8339,7 +8339,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "130.000000 -492.000000 214.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "0.000016"
 }
@@ -8572,7 +8572,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-866.000000 -770.000000 150.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000015"
 }
@@ -8612,7 +8612,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-576.000000 -280.000000 338.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "0.000016"
 }
@@ -8698,7 +8698,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-1114.000000 768.000000 338.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -9019,7 +9019,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-908.000000 560.000000 214.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -9059,7 +9059,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-865.999878 -576.000122 150.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -9316,7 +9316,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-108.000000 308.000000 374.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -9450,7 +9450,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-236.000031 1344.000000 374.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -9490,7 +9490,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "459.999969 1344.000000 374.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -9576,7 +9576,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-176.000031 -276.000031 390.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-179.999985"
 }

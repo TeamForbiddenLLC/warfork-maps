@@ -18586,7 +18586,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "0.000000 256.000000 498.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "modelscale" "1.500000"
 "spawnflags" "4"
 }
@@ -18615,7 +18615,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "0.000000 0.000000 498.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "modelscale" "1.500000"
 "spawnflags" "4"
 }
@@ -18644,7 +18644,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "0.000000 -256.000000 498.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "modelscale" "1.500000"
 "spawnflags" "4"
 }
@@ -18702,7 +18702,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "160.000000 -624.000000 504.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "modelscale" "1.250000"
 "spawnflags" "4"
 }
@@ -18731,7 +18731,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "160.000000 -1104.000000 504.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "modelscale" "1.250000"
 "spawnflags" "4"
 }
@@ -18760,7 +18760,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-160.000000 -624.000000 504.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "modelscale" "1.250000"
 "spawnflags" "4"
 }
@@ -18789,7 +18789,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-160.000000 -1104.000000 504.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "modelscale" "1.250000"
 "spawnflags" "4"
 }
@@ -18886,7 +18886,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "0.000000 1600.000000 240.000000"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 51
@@ -18914,7 +18914,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "0.000000 1280.000000 240.000000"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 55
@@ -18942,7 +18942,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "0.000000 960.000000 240.000000"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 59
@@ -19091,7 +19091,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "1792.000000 1328.000000 240.000000"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 78
@@ -19112,7 +19112,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "1792.000000 944.000000 240.000000"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 81
@@ -19147,7 +19147,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "1792.000000 240.000000 240.000000"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 86
@@ -19175,7 +19175,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "1792.000000 -144.000000 240.000000"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 90
@@ -19196,7 +19196,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "1792.000000 -528.000000 240.000000"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 93
@@ -19231,7 +19231,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "1792.000000 -912.000000 240.000000"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 98
@@ -24004,7 +24004,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "574.000000 -1740.000000 829.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 }
@@ -24033,7 +24033,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "578.000000 -1988.000000 861.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 }
@@ -24062,7 +24062,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "254.000000 -1740.000000 829.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 }
@@ -24091,7 +24091,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "258.000000 -1988.000000 861.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 }
@@ -24120,7 +24120,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-66.000000 -1740.000000 829.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 }
@@ -24149,7 +24149,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-62.000000 -1988.000000 861.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 }
@@ -24178,7 +24178,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-386.000000 -1740.000000 829.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 }
@@ -24207,7 +24207,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-382.000000 -1988.000000 861.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 }
@@ -25545,7 +25545,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "1344.000000 -1536.000000 240.000000"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -26530,7 +26530,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-2016.000000 2208.000000 450.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "modelscale" "1.500000"
 "spawnflags" "4"
 }
@@ -26559,7 +26559,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-2016.000000 1888.000000 450.000000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "modelscale" "1.500000"
 "spawnflags" "4"
 }

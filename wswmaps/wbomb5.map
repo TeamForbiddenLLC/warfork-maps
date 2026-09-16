@@ -32634,7 +32634,7 @@ wsw_city1/wires1
 {
 "classname" "misc_model"
 "origin" "-639.999878 639.999878 1174.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.975000"
 }
 // entity 51
@@ -32666,7 +32666,7 @@ wsw_city1/wires1
 {
 "classname" "misc_model"
 "origin" "-703.999878 -0.000122 1174.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.975000"
 }
 // entity 55
@@ -33510,7 +33510,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-1863.999878 999.999878 166.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.975000"
 }
 // entity 92
@@ -33542,7 +33542,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-1726.058594 462.058990 165.999985"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.975000"
 "angle" "-45.000008"
 }
@@ -34183,7 +34183,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-1319.999878 3752.000000 902.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.975000"
 }
 // entity 177
@@ -34214,7 +34214,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-935.999878 3752.000000 902.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.975000"
 }
 // entity 181
@@ -34245,7 +34245,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-295.999878 3752.000000 902.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.975000"
 }
 // entity 185
@@ -34276,7 +34276,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "88.000122 3752.000000 902.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.975000"
 }
 // entity 189
@@ -34331,7 +34331,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-2304.000000 1951.999878 808.000061"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.650000"
 }
 // entity 196
@@ -34368,7 +34368,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-2304.000000 1695.999878 808.000061"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.650000"
 }
 // entity 201
@@ -35309,7 +35309,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "-1216.000000 63.999878 508.000061"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.650000"
 }
 // entity 259
@@ -35518,7 +35518,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "608.000122 -2176.000244 802.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.975000"
 "angle" "0.000003"
 }
@@ -35550,7 +35550,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "224.000122 -2176.000244 802.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "modelscale" "0.975000"
 "angle" "0.000003"
 }

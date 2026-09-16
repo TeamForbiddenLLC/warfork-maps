@@ -54508,7 +54508,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1024 2528 714.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 174
@@ -54557,7 +54557,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1024 1616 714.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 180
@@ -54588,7 +54588,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1024 1936 714.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 184
@@ -54619,7 +54619,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "704 2252 390.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 188
@@ -55542,7 +55542,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1024 2232 714.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 306
@@ -55625,7 +55625,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-776 1040 327.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 317
@@ -55638,7 +55638,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1256 1040 327.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 319
@@ -55754,7 +55754,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "416 2252 390.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 334
@@ -56993,7 +56993,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1952.000000 2272.000000 626.250000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 494
@@ -57454,7 +57454,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-656.000000 4096.000000 606.250000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 554
@@ -57868,7 +57868,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1244.000000 2900.000000 706.250000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 610

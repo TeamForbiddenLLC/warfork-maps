@@ -23983,7 +23983,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-1248 -4864 380"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "2.56349"
 "modelscale" "0.75"
@@ -23992,7 +23992,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-1504 -4864 380"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "2.56349"
 "modelscale" "0.75"
@@ -24001,7 +24001,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-1072 -4576 380"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "2.56348"
 "modelscale" "0.75"
@@ -24183,7 +24183,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-561.142 -4866.8 382"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-44.4068"
 "modelscale" "0.75"
@@ -24192,7 +24192,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-888 -4864 380"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "2.56349"
 "modelscale" "0.75"
@@ -24492,7 +24492,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "1760 -1800 508"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -24500,7 +24500,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "1760 -2050 508"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -24565,7 +24565,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "584.000000 -2912.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 88
@@ -24586,28 +24586,28 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "544.000000 -1808.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 91
 {
 "classname" "misc_model"
 "origin" "1248.000000 -1808.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 92
 {
 "classname" "misc_model"
 "origin" "608.000000 -1248.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 93
 {
 "classname" "misc_model"
 "origin" "1040.000000 -1576.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 94
@@ -25244,21 +25244,21 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-2280.000000 -2064.000000 218.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 188
 {
 "classname" "misc_model"
 "origin" "-1960 -2064 218"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 189
 {
 "classname" "misc_model"
 "origin" "-1624.000000 -2064.000000 218.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 190
@@ -25293,35 +25293,35 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-1808 -1696 506"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 195
 {
 "classname" "misc_model"
 "origin" "-1808.000000 -1280.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 196
 {
 "classname" "misc_model"
 "origin" "-1568.000000 -1040.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 197
 {
 "classname" "misc_model"
 "origin" "-1164 -1040 506"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 198
 {
 "classname" "misc_model"
 "origin" "-636 -1040 506"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 199
@@ -25336,7 +25336,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-352.000000 -1808.000000 442.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 201
@@ -25359,7 +25359,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-1294 -1672 455"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -25367,7 +25367,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "224.000000 -1248.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 205
@@ -25957,7 +25957,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-1688 -3092 474"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90"
 "modelscale" "0.75"
@@ -25966,7 +25966,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-1448 -3028 450"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90"
 "modelscale" "0.75"
@@ -25975,7 +25975,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-1632 -3508 346"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90"
 "modelscale" "0.75"
@@ -25984,14 +25984,14 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-72.000000 -2912.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 298
 {
 "classname" "misc_model"
 "origin" "248 -2912 506"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 299
@@ -26005,7 +26005,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-848 -2425 455"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -26013,14 +26013,14 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-712.000000 -2912.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 302
 {
 "classname" "misc_model"
 "origin" "96.000000 -2176.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 303
@@ -26033,7 +26033,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-160.000000 -2416.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 305
@@ -26593,7 +26593,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-1644 -4269 354"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "2.56349"
 }
@@ -26705,7 +26705,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-848 -1712 455"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -27097,7 +27097,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-848 -2063 455"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -27150,7 +27150,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "304.000000 -304.000000 506.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 "angle" "-90.000000"
@@ -27182,7 +27182,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-128.000000 -192.000000 418.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 "angle" "179.999985"
@@ -27214,7 +27214,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "192.000000 128.000000 418.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 "angle" "0.000016"
@@ -27246,7 +27246,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-248.000046 248.000122 486.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.750000"
 "angle" "90.000008"
@@ -28262,7 +28262,7 @@ concrete/concreteredandwhite
 {
 "classname" "misc_model"
 "origin" "-1153.142090 -4330.799805 446.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-44.406792"
 "modelscale" "0.750000"
@@ -28616,7 +28616,7 @@ concrete/concreteredandwhite
 {
 "classname" "misc_model"
 "origin" "1904.000000 -3368.000000 410.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 530

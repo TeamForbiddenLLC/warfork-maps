@@ -13907,7 +13907,7 @@ common/caulk
 {
 "classname" "misc_model"
 "origin" "-616 -848 686.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 83
@@ -13936,7 +13936,7 @@ common/caulk
 {
 "classname" "misc_model"
 "origin" "752 104 686.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 87

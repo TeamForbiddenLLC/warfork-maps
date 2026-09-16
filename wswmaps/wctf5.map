@@ -22542,7 +22542,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1732.000000 2435.999756 544.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -22576,7 +22576,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1732.000000 2067.999756 544.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -22900,7 +22900,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1320.000000 2655.999756 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -22934,7 +22934,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1320.000000 2175.999756 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -22968,7 +22968,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "892.000000 2367.999756 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -23002,7 +23002,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "412.000000 2367.999756 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -23086,7 +23086,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "332.000000 1487.999756 408.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -23120,7 +23120,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-32.000000 2735.999756 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -23193,7 +23193,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-960.000000 2735.999756 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -23227,7 +23227,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-1376.000000 2735.999756 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -23287,7 +23287,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-692.000000 2115.999756 640.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -23321,7 +23321,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-692.000000 1707.999756 640.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -23355,7 +23355,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-692.000000 1291.999756 640.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -23896,7 +23896,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1087.999634 1300.000000 704.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -23938,7 +23938,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1084.000000 1704.000244 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -24237,7 +24237,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1364.000000 1287.999756 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -24271,7 +24271,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1364.000000 851.999756 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -24383,7 +24383,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1631.999756 828.000000 712.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "179.999985"
 }
@@ -24417,7 +24417,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1712.000000 1279.999756 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -24451,7 +24451,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1364.000000 387.999756 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -24597,7 +24597,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "4.000000 851.999756 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -24631,7 +24631,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "4.000000 387.999756 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -24727,7 +24727,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-740.000122 -1219.999878 544.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -24761,7 +24761,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-740.000244 -851.999756 544.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25097,7 +25097,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-327.999756 -1439.999512 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25131,7 +25131,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-328.000000 -959.999512 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25165,7 +25165,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "100.000122 -1151.999512 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25199,7 +25199,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "580.000000 -1151.999756 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25283,7 +25283,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "660.000000 -271.999756 408.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25317,7 +25317,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1024.000000 -1519.999756 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25390,7 +25390,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1952.000000 -1519.999756 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25424,7 +25424,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "2367.999756 -1520.000000 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25484,7 +25484,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1684.000000 -899.999756 640.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25518,7 +25518,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1684.000000 -491.999756 640.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -25552,7 +25552,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1684.000000 -75.999756 640.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -26066,7 +26066,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-95.999634 -84.000000 704.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "0.000016"
 }
@@ -26108,7 +26108,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-92.000000 -488.000000 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -26408,7 +26408,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-372.000000 -71.999756 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -26442,7 +26442,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-372.000000 364.000488 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -26511,7 +26511,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-639.999634 388.000000 712.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "0.000010"
 }
@@ -26545,7 +26545,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-720.000000 -63.999512 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -26579,7 +26579,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-372.000122 828.000488 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -26727,7 +26727,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "987.999878 364.000244 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -26761,7 +26761,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "987.999878 828.000488 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -26966,7 +26966,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "904.000122 -1855.999756 540.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -27000,7 +27000,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "904.000000 -2312.000000 540.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -27034,7 +27034,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "896.000000 -2823.999756 540.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -27068,7 +27068,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "272.000244 -2823.999756 540.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -27102,7 +27102,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-95.999878 -2823.999512 540.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -27145,7 +27145,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-740.000244 -1587.999756 544.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -27516,7 +27516,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1296.000000 -1791.999878 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -27554,7 +27554,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "511.999512 -2416.000000 704.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -27650,7 +27650,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "399.999512 -1920.000000 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -27759,7 +27759,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "88.000000 3071.999756 540.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -27793,7 +27793,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "88.000000 3528.000000 540.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -27827,7 +27827,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "96.000000 4040.000000 540.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -27861,7 +27861,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "719.999756 4040.000000 540.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -27895,7 +27895,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1088.000000 4039.999512 540.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -27938,7 +27938,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1732.000488 2804.000000 544.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -28341,7 +28341,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-304.000000 3007.999756 720.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -28373,7 +28373,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "480.000610 3632.000000 704.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "0.000016"
 }
@@ -28459,7 +28459,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "592.000488 3136.000000 504.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "0.000016"
 }

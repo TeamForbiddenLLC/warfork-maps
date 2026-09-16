@@ -2607,67 +2607,67 @@
 {
 "classname" "misc_model"
 "origin" "1312 752 1078.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 6
 {
 "classname" "misc_model"
 "origin" "608 32 982.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 7
 {
 "classname" "misc_model"
 "origin" "800 32 982.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 8
 {
 "classname" "misc_model"
 "origin" "992 32 982.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 9
 {
 "classname" "misc_model"
 "origin" "784 368 1078.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 10
 {
 "classname" "misc_model"
 "origin" "976 368 1078.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 11
 {
 "classname" "misc_model"
 "origin" "384 368 1078.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 12
 {
 "classname" "misc_model"
 "origin" "736 752 1078.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 13
 {
 "classname" "misc_model"
 "origin" "1296 368 1078.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 14
 {
 "classname" "misc_model"
 "origin" "144 752 1078.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 15
 {
 "classname" "misc_model"
 "origin" "384 752 1078.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 }
 // entity 16
 {

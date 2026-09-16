@@ -13168,7 +13168,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "1036.000000 -1072.000000 404.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "2.563486"
 "modelscale" "0.750000"
@@ -13309,7 +13309,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "1036.000000 -1072.000000 596.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "2.563486"
 "modelscale" "0.750000"

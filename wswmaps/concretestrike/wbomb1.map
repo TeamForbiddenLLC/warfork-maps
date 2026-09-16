@@ -23870,21 +23870,21 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "1244 -196 632"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 24
 {
 "classname" "misc_model"
 "origin" "-256 -444 676"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 25
 {
 "classname" "misc_model"
 "origin" "1648 1916 760"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 26
@@ -23940,7 +23940,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "2024 1916 760"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 33
@@ -23987,7 +23987,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "1240 1916 760"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 39
@@ -24018,7 +24018,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "368 304 524"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.65"
 }
@@ -24043,7 +24043,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-552 -444 676"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 46
@@ -25167,7 +25167,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-96 1080 524"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.65"
 }
@@ -25191,7 +25191,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "208 1080 524"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.65"
 }
@@ -25215,7 +25215,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "368 912 524"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.65"
 }
@@ -25239,7 +25239,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "368 608 524"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale_vec" "0.65 0.65 0.65"
 }
@@ -25833,7 +25833,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-888 -444 676"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 175
@@ -28902,7 +28902,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "1652 1604 600"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 431

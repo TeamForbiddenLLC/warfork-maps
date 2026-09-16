@@ -10044,27 +10044,27 @@ baxandall/teleglow_02
 {
 "classname" "misc_model"
 "origin" "2048 -256 576"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 131
 {
 "classname" "misc_model"
 "origin" "1792 -256 576"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 132
 {
 "classname" "misc_model"
 "origin" "1152 -256 760"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 }
 // entity 133
 {
 "classname" "misc_model"
 "origin" "1152 0 760"
-"model" "models/mapobjects/lamp/lamp_blue.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 }
 // entity 134
 {

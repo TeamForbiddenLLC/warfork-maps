@@ -11291,7 +11291,7 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 {
 "classname" "misc_model"
 "origin" "452.000000 2.000000 1524.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -11321,7 +11321,7 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 {
 "classname" "misc_model"
 "origin" "452.000000 130.000000 1524.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -11351,7 +11351,7 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 {
 "classname" "misc_model"
 "origin" "452.000000 258.000000 1524.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }

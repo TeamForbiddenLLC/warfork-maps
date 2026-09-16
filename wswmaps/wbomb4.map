@@ -20164,7 +20164,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "-336.000000 -352.000000 272.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "0.000003"
 }
 // entity 50
@@ -20196,7 +20196,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "1128.000000 128.000000 456.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "-179.999985"
 }
 // entity 54
@@ -20236,7 +20236,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "184.000259 2528.000244 752.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -20267,7 +20267,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "2320.000000 1504.000000 752.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -20300,7 +20300,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "1712.000244 1511.999878 752.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "90.000000"
 }
@@ -20333,7 +20333,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "2168.000000 -40.000004 712.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "-89.999992"
 }
 // entity 71
@@ -22111,7 +22111,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "2760.000000 -40.000000 712.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "-89.999992"
 }
 // entity 354
@@ -22175,7 +22175,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "-752.000000 111.999992 688.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "-90.000000"
 }
 // entity 362
@@ -22206,7 +22206,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "-16.000000 -640.000000 264.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "0.000003"
 }
 // entity 366
@@ -22278,7 +22278,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "-208.000000 -1104.000000 688.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "-179.999985"
 }
 // entity 376
@@ -22317,7 +22317,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "960.000000 -1048.000000 640.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "-179.999985"
 }
 // entity 381
@@ -23020,7 +23020,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "-704.000000 1456.000000 640.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "90.000008"
 }
 // entity 477
@@ -23400,7 +23400,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "3904.000000 1056.000000 752.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "-90.000000"
 }
 // entity 540
@@ -23953,7 +23953,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "1280.000000 -1048.000000 640.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "-179.999985"
 }
 // entity 614
@@ -24737,7 +24737,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "183.999771 1943.999756 656.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-89.999992"
 }
@@ -25103,7 +25103,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "1008.000000 656.000000 712.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "0.000003"
 }
 // entity 780
@@ -25134,7 +25134,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "1872.000000 656.000000 712.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "-179.999985"
 }
 // entity 784
@@ -25165,7 +25165,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "208.000183 -760.000000 688.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "-90.000000"
 }
 // entity 788
@@ -25197,7 +25197,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "1727.999878 295.999939 712.000000"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "angle" "90.000015"
 }
 // entity 792

@@ -25257,14 +25257,14 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "-312 1912 512"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 170
 {
 "classname" "misc_model"
 "origin" "0 1912 512"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 171

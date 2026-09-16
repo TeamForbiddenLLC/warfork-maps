@@ -20424,28 +20424,28 @@ concrete/concretebunker0068_nobump
 {
 "classname" "misc_model"
 "origin" "-208.000000 1120.000000 294.250000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 48
 {
 "classname" "misc_model"
 "origin" "-208.000000 1376.000000 294.250000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 49
 {
 "classname" "misc_model"
 "origin" "-472.000000 1376.000000 294.250000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 50
 {
 "classname" "misc_model"
 "origin" "-472.000000 1120.000000 294.250000"
-"model" "models/mapobjects/lamp/lamp.lwo"
+"model" "models/mapobjects/lamp/lamp.obj"
 "spawnflags" "4"
 }
 // entity 51

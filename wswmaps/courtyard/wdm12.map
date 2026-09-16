@@ -20264,7 +20264,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "512 704 374.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 105
@@ -20293,7 +20293,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1088 992 374.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 109
@@ -20314,7 +20314,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1376 832 374.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -20331,7 +20331,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "2172 592 672"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -20559,7 +20559,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "288 -12 518.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 142
@@ -20610,7 +20610,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "400 -420 390.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 149
@@ -20708,7 +20708,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1072 448 574.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 161
@@ -20737,7 +20737,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "768 -420 390.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 165
@@ -20856,7 +20856,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "124 752 696"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -20946,7 +20946,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-640 1852 816"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 "angle" "2.50448e-006"
 }
@@ -21631,7 +21631,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "512 -12 518.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 277
@@ -21664,7 +21664,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "800 704 374.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 282
@@ -21766,7 +21766,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1088 704 374.25"
-"model" "models/mapobjects/lamp/lamp_yellow.lwo"
+"model" "models/mapobjects/lamp/lamp_yellow.obj"
 "spawnflags" "4"
 }
 // entity 295
