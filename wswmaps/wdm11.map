@@ -8761,7 +8761,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-937.800293 -174.573151 -372.316803"
-"model" "models/mapobjects/branch.md3"
+"model" "models/mapobjects/nateleaf1/branch.obj"
 "angles" "16.532644 -40.807392 46.149521"
 "modelscale" "0.750000"
 }
@@ -8769,14 +8769,14 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "416.119812 698.204590 -238.321747"
-"model" "models/mapobjects/nateleaf1/nateleaf1.md3"
+"model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "angles" "-43.830681 151.548203 38.041176"
 }
 // entity 174
 {
 "classname" "misc_model"
 "origin" "423.235779 643.101685 -255.283997"
-"model" "models/mapobjects/nateleaf1/nateleaf1.md3"
+"model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "angles" "-36.407768 -165.998718 0.940243"
 }
 // entity 175
@@ -9181,21 +9181,21 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-527.880188 378.204559 -406.321747"
-"model" "models/mapobjects/nateleaf1/nateleaf1.md3"
+"model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "angles" "-43.830681 151.548203 38.041176"
 }
 // entity 228
 {
 "classname" "misc_model"
 "origin" "-520.764221 323.101715 -423.283997"
-"model" "models/mapobjects/nateleaf1/nateleaf1.md3"
+"model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "angles" "-36.407768 -165.998718 0.940243"
 }
 // entity 229
 {
 "classname" "misc_model"
 "origin" "-189.575546 1002.327881 -189.253204"
-"model" "models/mapobjects/branch.md3"
+"model" "models/mapobjects/nateleaf1/branch.obj"
 "angles" "-0.634569 -123.453880 29.345255"
 "modelscale" "0.750000"
 }
@@ -9203,7 +9203,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-190.013336 998.847168 -188.316833"
-"model" "models/mapobjects/branch.md3"
+"model" "models/mapobjects/nateleaf1/branch.obj"
 "angles" "16.532650 147.461288 46.149529"
 "modelscale" "0.750000"
 }
@@ -9211,7 +9211,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-198.213028 1313.130005 -189.253189"
-"model" "models/mapobjects/branch.md3"
+"model" "models/mapobjects/nateleaf1/branch.obj"
 "angles" "-0.634542 -4.547612 29.345255"
 "modelscale" "0.750000"
 }
@@ -9219,7 +9219,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-186.013336 1322.847168 -188.316833"
-"model" "models/mapobjects/branch.md3"
+"model" "models/mapobjects/nateleaf1/branch.obj"
 "angles" "16.532650 147.461288 46.149529"
 "modelscale" "0.750000"
 }
@@ -9227,7 +9227,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "418.424438 1322.327881 -189.253204"
-"model" "models/mapobjects/branch.md3"
+"model" "models/mapobjects/nateleaf1/branch.obj"
 "angles" "-0.634569 -123.453880 29.345255"
 "modelscale" "0.750000"
 }
@@ -9235,7 +9235,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "417.986664 1318.847168 -188.316833"
-"model" "models/mapobjects/branch.md3"
+"model" "models/mapobjects/nateleaf1/branch.obj"
 "angles" "16.532650 147.461288 46.149529"
 "modelscale" "0.750000"
 }
@@ -9243,7 +9243,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "409.280640 951.790771 -189.252594"
-"model" "models/mapobjects/branch.md3"
+"model" "models/mapobjects/nateleaf1/branch.obj"
 "angles" "-0.630231 30.455164 29.348162"
 "modelscale" "0.750000"
 }
@@ -9251,7 +9251,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "417.986664 966.847168 -188.316833"
-"model" "models/mapobjects/branch.md3"
+"model" "models/mapobjects/nateleaf1/branch.obj"
 "angles" "16.532650 147.461288 46.149529"
 "modelscale" "0.750000"
 }

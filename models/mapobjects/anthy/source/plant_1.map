@@ -1014,7 +1014,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-20.000000 6.000000 52.000000"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "spawnflags" "6"
 "modelscale" "1.5"
 }
@@ -1022,7 +1022,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-0.000004 6.000023 80.000000"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "0.000010 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1031,7 +1031,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "20.517122 6.000000 75.188141"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "6.331246 0.000010 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1040,7 +1040,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "43.482872 6.000023 100.811859"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-6.331247 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1049,7 +1049,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-98.445877 5.999992 -6.121750"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-7.801787 0.000001 0.000002"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1058,7 +1058,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-82.431915 6.000023 24.334015"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "7.801817 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1067,7 +1067,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-61.451515 6.000000 22.351837"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-1.470557 0.000010 0.000012"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1076,7 +1076,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-42.176682 6.000023 50.855896"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "1.470564 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1085,7 +1085,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-60.301384 6.000008 -81.032806"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-86.071999 179.999878 -179.999847"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1094,7 +1094,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-89.605667 6.000015 -62.997879"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "86.071945 -0.000017 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1103,7 +1103,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-86.210602 5.999992 -42.199310"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-87.596779 0.000010 0.000056"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1112,7 +1112,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-113.347397 6.000031 -21.042816"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "87.596779 -179.999908 -179.999893"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1121,7 +1121,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-66.382256 6.000000 -105.016876"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "84.128540 -179.999802 -179.999817"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1130,7 +1130,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-40.575085 6.000015 -127.776260"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-84.128609 -0.000017 0.000067"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1139,7 +1139,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-47.460560 5.999992 -147.693542"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "77.797310 -179.999924 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1148,7 +1148,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-24.320538 6.000031 -173.160049"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-77.797287 -0.000017 0.000031"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1157,7 +1157,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-12.579473 5.999985 -85.549225"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-51.336536 0.000015 0.000008"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1166,7 +1166,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-21.947882 6.000008 -52.439804"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "51.336617 -179.999954 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1175,7 +1175,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-5.706052 5.999977 -39.472626"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-43.910652 0.000013 0.000023"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1184,7 +1184,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-10.716640 5.999992 -5.430084"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "43.910690 -179.999954 -179.999954"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1193,7 +1193,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-4.204870 5.999939 -183.113327"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-59.138393 0.000017 0.000008"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1202,7 +1202,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-17.981045 6.000008 -151.582108"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "59.138454 -179.999954 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1211,7 +1211,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-9.325890 6.000031 -132.438293"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-52.806995 0.000014 0.000028"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1220,7 +1220,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-21.540859 6.000015 -103.580185"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "52.807056 -179.999969 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1229,7 +1229,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "3.388654 5.999969 8.388046"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-34.443077 0.000013 0.000016"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1238,7 +1238,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "4.045937 5.999992 42.791077"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "34.443157 -179.999954 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1247,7 +1247,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "14.045937 5.999992 68.791077"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "34.443157 -179.999954 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1256,7 +1256,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "57.568810 6.000000 88.899384"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "37.216866 0.000001 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1265,7 +1265,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "90.431198 6.000031 99.100616"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-37.216869 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1274,7 +1274,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "103.568810 6.000000 88.899384"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "37.216866 0.000001 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1283,7 +1283,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "136.431198 6.000031 99.100616"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-37.216869 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1292,7 +1292,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "153.081879 5.999992 89.429718"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "24.585522 0.000002 0.000012"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1301,7 +1301,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "182.918137 6.000038 106.570282"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-24.585531 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1310,7 +1310,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "200.880615 5.999992 100.869781"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "14.151831 0.000002 0.000013"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1319,7 +1319,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "223.119415 6.000038 127.130219"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-14.151814 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1328,7 +1328,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "237.562149 5.999992 126.968964"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-27.391426 0.000010 0.000014"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1337,7 +1337,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "232.437866 6.000038 159.031097"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "27.391443 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1346,7 +1346,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "226.257538 6.000023 270.798706"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-59.880173 0.000097 -0.000099"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1355,7 +1355,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "212.074478 6.000015 302.148987"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "59.880173 179.999954 179.999954"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1364,7 +1364,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "226.532303 6.000046 317.481201"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-53.548943 0.000059 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1373,7 +1373,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "218.892731 5.999977 350.204285"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "53.548973 179.999939 179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1382,7 +1382,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "237.166656 6.000046 173.778717"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-67.682007 0.000131 -0.000099"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1391,7 +1391,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "218.859192 6.000038 202.913391"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "67.682060 179.999924 179.999924"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1400,7 +1400,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "231.101807 6.000008 220.066315"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-61.350769 0.000058 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1409,7 +1409,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "216.118774 6.000031 251.042419"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "61.350719 179.999939 179.999939"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1418,7 +1418,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "338.644867 6.000008 363.371216"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "32.103649 0.000010 -0.000072"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1427,7 +1427,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "370.467346 6.000023 376.460388"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-32.103630 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1436,7 +1436,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "385.289886 6.000092 361.480530"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "38.434883 0.000039 0.000011"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1445,7 +1445,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "418.361694 5.999954 370.980957"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-38.434856 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1454,7 +1454,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "241.305374 6.000023 355.827148"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "24.301838 0.000025 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1463,7 +1463,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "271.056335 6.000008 373.115051"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-24.301775 -179.999985 179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1472,7 +1472,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "287.775177 5.999969 360.285950"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "30.633068 0.000040 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1481,7 +1481,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "319.251373 6.000038 374.187744"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-30.633146 -179.999985 179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1490,7 +1490,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "320.783630 6.000099 375.494141"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-18.892567 0.000020 0.000000"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1499,7 +1499,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "330.639832 5.999954 408.461670"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "18.892612 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1508,7 +1508,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "348.979340 6.000099 411.225647"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-5.024141 0.000022 0.000002"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1517,7 +1517,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "366.450317 5.999954 440.869629"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "5.024175 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1526,7 +1526,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "385.035553 6.000099 436.529236"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "12.067147 0.000026 0.000005"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1535,7 +1535,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "410.447266 5.999947 459.729431"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-12.067103 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1544,7 +1544,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "389.035553 6.000099 450.529236"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "12.067147 0.000026 0.000005"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1553,7 +1553,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "387.035553 6.000099 464.529236"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "12.067147 0.000026 0.000005"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1562,7 +1562,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "383.035553 6.000099 480.529236"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "12.067147 0.000026 0.000005"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1571,7 +1571,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "378.964447 6.000099 501.470703"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-12.067131 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1580,7 +1580,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "426.447266 5.999947 467.729431"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-12.067103 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1589,7 +1589,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "450.119446 5.999947 467.491089"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-57.686317 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1598,7 +1598,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "465.674561 5.999939 459.590881"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-70.604530 0.000014 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1607,7 +1607,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "460.325470 5.999939 454.409241"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "70.604530 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1616,7 +1616,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "28.557064 6.000145 87.238068"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-57.788914 -0.000017 0.000027"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1625,7 +1625,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "15.527193 5.999969 119.084869"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "57.788975 179.999969 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1634,7 +1634,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "28.065056 6.000107 132.751740"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-43.920509 0.000042 0.000019"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1643,7 +1643,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "23.048506 5.999969 166.793304"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "43.920536 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1652,7 +1652,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "40.238441 6.000099 175.085327"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-26.829191 0.000011 0.000018"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1661,7 +1661,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "45.448242 5.999962 209.097961"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "26.829281 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1670,7 +1670,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "52.877502 5.999969 225.370850"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "26.829281 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1679,7 +1679,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "71.450851 5.999985 240.049377"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-18.789949 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1688,7 +1688,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "88.517815 5.999939 243.668060"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-70.499069 -179.999985 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1697,7 +1697,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "87.608353 5.999939 236.276459"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "70.499100 0.000030 0.000026"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1706,7 +1706,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "40.666931 6.000137 197.646210"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-83.197212 -179.999832 179.999832"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1715,7 +1715,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "10.494934 5.999931 214.188660"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "83.197182 -0.000099 -0.000099"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1724,7 +1724,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "11.633362 6.000130 232.700317"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-82.934387 -0.000154 0.000157"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1733,7 +1733,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-13.693954 5.999947 255.992554"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "82.934418 -179.999924 -179.999924"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1742,7 +1742,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-5.557236 6.000099 273.256592"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-65.843063 -0.000017 0.000043"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1751,7 +1751,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-22.920586 5.999954 302.963745"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "65.843132 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1760,7 +1760,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-18.408958 6.000107 280.099976"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-65.843063 -0.000017 0.000043"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1769,7 +1769,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-32.517365 6.000099 281.076538"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-65.843063 -0.000017 0.000043"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1778,7 +1778,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-49.000244 6.000099 280.516418"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-65.843063 -0.000017 0.000043"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1787,7 +1787,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-70.329895 6.000076 280.921692"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "65.843109 -179.999969 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1796,7 +1796,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-27.392029 5.999962 320.284424"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "65.843132 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1805,7 +1805,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-22.200943 5.999947 343.381653"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "20.223915 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1814,7 +1814,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-11.218102 5.999870 356.937134"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-31.485222 -179.999954 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1823,7 +1823,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-7.271721 5.999939 350.621399"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "31.485235 0.000010 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1832,7 +1832,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "78.078018 5.999969 257.191864"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "51.730289 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1841,7 +1841,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "88.744286 5.999985 278.326172"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "6.111062 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1850,7 +1850,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "102.700981 5.999931 288.794556"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-45.598061 -179.999969 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1859,7 +1859,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "104.988319 5.999939 281.707153"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "45.598091 0.000014 0.000008"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1868,7 +1868,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-273.971985 6.000008 -148.122360"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-69.495163 -179.999954 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1877,7 +1877,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-271.292175 5.999992 -169.025146"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "75.826485 0.000036 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1886,7 +1886,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-239.247253 6.000031 -181.560242"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-75.826530 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1895,7 +1895,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-291.109192 6.000015 -116.351181"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-82.536446 0.000081 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1904,7 +1904,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-298.545471 6.000000 -136.069443"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "76.205101 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1913,7 +1913,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-297.109192 6.000015 -100.351181"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-82.536446 0.000081 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1922,7 +1922,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-286.520966 6.000023 -65.253082"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-51.268700 0.000089 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1931,7 +1931,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-303.111694 6.000000 -78.247589"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "44.937366 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1940,7 +1940,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-286.390259 6.000008 -23.634155"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-65.370796 0.000081 0.000016"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1949,7 +1949,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-299.314880 6.000008 -40.279388"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "59.039467 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1958,7 +1958,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-298.219574 6.000015 17.336212"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-77.170662 0.000051 0.000045"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1967,7 +1967,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-307.467224 6.000008 -1.600266"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "70.839325 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1976,7 +1976,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-326.365021 6.000008 59.938934"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-89.873329 0.000000 0.000096"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1985,7 +1985,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-323.222412 6.000008 31.432526"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "83.541840 -179.999954 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -1994,7 +1994,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-233.455750 5.999916 -138.679993"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-65.436836 0.000112 -0.000099"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2003,7 +2003,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-246.361099 5.999985 -155.340118"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "59.105507 -179.999985 179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2012,7 +2012,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-232.602997 5.999924 -186.879303"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-59.105446 0.000070 -0.000099"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2021,7 +2021,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-223.066910 5.999962 -104.108871"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-37.468441 0.000086 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2030,7 +2030,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-242.278381 6.000008 -112.770721"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "31.137112 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2039,7 +2039,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-215.977402 5.999977 -88.560913"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-37.468441 0.000086 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2048,7 +2048,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-183.651764 6.000023 -71.268173"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-6.200709 0.000092 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2057,7 +2057,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-204.568604 6.000000 -68.700424"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-0.130638 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2066,7 +2066,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-154.095490 6.000076 -41.966629"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-20.302782 0.000114 0.000005"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2075,7 +2075,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-175.007645 6.000000 -44.572693"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "13.971471 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2084,7 +2084,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-133.445374 6.000160 -4.656067"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-32.102673 0.000111 0.000003"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2093,7 +2093,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-153.382675 6.000000 -11.483444"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "25.771332 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2102,7 +2102,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-123.176620 6.000206 34.044556"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-44.805321 0.000119 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2111,7 +2111,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-141.124634 6.000000 23.000336"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "38.473850 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2120,7 +2120,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "105.675461 6.000130 295.812012"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-75.719795 -0.000017 0.000050"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2129,7 +2129,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "83.473808 5.999939 322.100525"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "75.719826 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2138,7 +2138,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "91.195053 6.000130 338.963562"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-61.851364 -0.000017 0.000026"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2147,7 +2147,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "75.941803 5.999947 369.807312"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "61.851425 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2156,7 +2156,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "89.744080 6.000099 382.988770"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-44.760082 0.000017 0.000018"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2165,7 +2165,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "84.229279 5.999954 416.953247"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "44.760139 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2174,7 +2174,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "80.214355 6.000107 393.997070"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-44.760082 0.000017 0.000018"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2183,7 +2183,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "67.401657 6.000092 399.983337"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-44.760082 0.000017 0.000018"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2192,7 +2192,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "51.820652 6.000084 405.389954"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-44.760082 0.000017 0.000018"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2201,7 +2201,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "32.064571 6.000084 413.440796"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "44.760120 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2210,7 +2210,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "86.287743 5.999962 434.722961"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "44.760139 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2219,7 +2219,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "99.439857 5.999947 454.406738"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-0.859064 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2228,7 +2228,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "114.563675 5.999901 463.104065"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-52.568214 -179.999969 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2237,7 +2237,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "115.974022 5.999939 455.791565"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "52.568226 0.000014 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2246,7 +2246,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "422.874146 5.064674 361.480530"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "38.434879 20.108524 0.000018"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2255,7 +2255,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "452.554810 3.809151 370.980957"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-38.434883 159.891525 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2264,7 +2264,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "496.252991 -91.582184 350.280273"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "34.322750 -110.636620 -73.907425"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2273,7 +2273,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "500.913605 -75.923218 350.465271"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "31.880733 -102.954216 -45.897770"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2282,7 +2282,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "489.517090 -51.941895 349.709045"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "38.224167 -101.517448 -73.685600"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2291,7 +2291,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "491.525787 -35.885574 350.465271"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "31.880733 -93.156067 -45.897770"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2300,7 +2300,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "483.667725 -19.046894 349.330933"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "31.879139 -44.239643 -29.896137"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2309,7 +2309,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "476.617981 -5.753937 347.760193"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "10.285336 -48.378956 -19.827673"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2318,7 +2318,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "496.051941 -151.066223 362.582458"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "22.082655 -121.236748 -70.325203"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2327,7 +2327,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "503.329865 -137.545807 358.874695"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "25.148687 -118.714684 -44.839771"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2336,7 +2336,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "497.784546 -111.963669 353.424194"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "25.948624 -112.496101 -70.932243"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2345,7 +2345,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "511.826538 -171.700073 375.863464"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-31.127047 87.422440 172.643936"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2354,7 +2354,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "509.057434 -188.312286 360.285950"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "30.633101 -97.643959 -0.000127"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2363,7 +2363,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "507.437988 -218.886963 374.187744"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-30.633146 83.643143 179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2372,7 +2372,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "511.474640 -240.910507 379.034729"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-38.777950 88.062126 173.011673"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2381,7 +2381,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "509.290771 -255.376495 361.389832"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "38.285202 -97.029549 1.083343"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2390,7 +2390,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "507.437988 -287.509888 371.063843"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-38.285248 83.028709 -178.916565"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2399,7 +2399,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "507.471680 -295.230042 371.251282"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-57.075539 82.386513 -178.435257"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2408,7 +2408,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "507.782654 -202.116180 383.015442"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-17.204609 -103.508369 -2.101666"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2417,7 +2417,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "507.549957 -213.687088 414.502502"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "17.204561 89.507614 177.898392"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2426,7 +2426,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "511.474670 -224.383301 433.923340"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "9.389894 88.468864 171.547821"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2435,7 +2435,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "508.456146 -259.659973 435.250854"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "12.425415 -99.252144 -1.798543"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2444,7 +2444,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "507.676147 -284.669067 457.568420"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-12.425470 85.251320 178.201523"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2453,7 +2453,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "507.471649 -291.452820 461.106995"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-31.212042 85.169983 177.670273"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2462,7 +2462,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "509.290771 -247.376495 433.389832"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "38.285202 -97.029549 1.083343"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2471,7 +2471,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "508.301575 -258.328400 455.422119"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-54.583206 -93.559265 3.094505"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2480,7 +2480,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "510.754669 -246.995148 487.127930"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "54.583149 79.558571 -176.905380"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2489,7 +2489,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "509.290741 -255.149780 443.055359"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-28.893547 -96.299126 8.505257"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2498,7 +2498,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-363.316101 5.999916 76.598145"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "77.936066 0.000001 0.000023"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2507,7 +2507,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-363.879883 6.000175 95.136353"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-88.195389 -0.000345 0.000376"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2516,7 +2516,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-391.236267 5.999939 116.007935"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "88.195503 -179.999847 -179.999847"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2525,7 +2525,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-384.716949 6.000099 133.945404"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-71.104118 -0.000017 0.000039"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2534,7 +2534,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-404.731018 5.999969 161.935333"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "71.104218 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2543,7 +2543,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-410.771851 5.999969 178.773102"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "71.104218 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2552,7 +2552,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-407.720459 5.999992 202.249023"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "25.484995 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2561,7 +2561,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-398.026764 5.999947 216.754456"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-26.224119 -179.999969 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2570,7 +2570,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-393.517883 5.999939 210.827118"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "26.224155 0.000012 0.000004"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2579,7 +2579,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-400.159973 6.000114 150.398041"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-38.922260 -179.999985 179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2588,7 +2588,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-433.311401 5.999931 141.179321"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "38.922237 0.000010 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2597,7 +2597,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-445.419281 6.000114 155.228333"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-52.790661 -179.999985 179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2606,7 +2606,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-479.813965 5.999939 154.224365"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "52.790634 0.000010 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2615,7 +2615,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-486.040131 6.000114 172.265778"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-69.881981 -179.999939 179.999954"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2624,7 +2624,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-519.210938 5.999939 181.414581"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "69.881912 0.000010 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2633,7 +2633,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-500.019348 6.000122 168.193817"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-69.881981 -179.999939 179.999954"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2642,7 +2642,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-510.802673 6.000122 159.043884"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-69.881981 -179.999939 179.999954"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2651,7 +2651,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-522.213379 6.000130 147.136108"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-69.881981 -179.999939 179.999954"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2660,7 +2660,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-537.768311 6.000076 132.535980"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "69.881943 0.000023 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2669,7 +2669,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-534.504028 5.999954 190.694702"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "69.881912 0.000010 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2678,7 +2678,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-546.911499 5.999931 210.856201"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "64.498856 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2687,7 +2687,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-548.510925 5.999832 228.229004"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "12.789724 -179.999969 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2696,7 +2696,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-541.276245 5.999924 226.461914"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-12.789710 0.000024 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2705,7 +2705,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-414.942657 5.999969 219.149414"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "83.994759 -0.000072 -0.000017"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2714,7 +2714,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-422.059479 5.999992 241.727722"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "50.386009 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2723,7 +2723,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-419.374542 5.999901 258.966248"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-1.323107 -179.999969 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2732,7 +2732,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-412.789093 5.999939 255.488403"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "1.323143 0.000010 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2741,7 +2741,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-422.143738 6.000092 266.067200"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-60.005253 -179.999954 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2750,7 +2750,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-456.392151 5.999947 269.390747"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "60.005226 0.000000 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2759,7 +2759,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-462.635895 6.000130 286.854736"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-73.873650 -179.999969 179.999954"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2768,7 +2768,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-495.089294 5.999939 298.290466"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "73.873611 0.000010 0.000010"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2777,7 +2777,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-494.408905 6.000061 317.363770"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-89.034904 -0.000646 0.000655"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2786,7 +2786,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-522.068115 5.999931 337.832458"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "89.034904 179.999542 179.999527"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2795,7 +2795,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-508.917053 6.000053 318.593018"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-89.034904 -0.000646 0.000655"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2804,7 +2804,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-522.269897 6.000046 313.934631"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-89.034904 -0.000646 0.000655"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2813,7 +2813,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-537.200317 6.000046 306.928589"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-89.034904 -0.000646 0.000655"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2822,7 +2822,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-556.965942 6.000038 298.901245"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "89.035103 179.999557 179.999527"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2831,7 +2831,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-532.999390 5.999931 351.992554"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "89.034904 179.999542 179.999527"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2840,7 +2840,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-537.323792 5.999969 375.267578"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "43.415874 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2849,7 +2849,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-532.566772 5.999779 392.052856"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-8.293260 -179.999969 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2858,7 +2858,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-526.452148 5.999939 387.801636"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "8.293283 0.000009 0.000000"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2867,7 +2867,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-125.789177 6.000198 61.921997"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-86.092041 -0.000017 0.000138"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2876,7 +2876,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-151.057083 6.000168 92.981934"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-81.205246 -179.999939 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2885,7 +2885,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-152.675583 6.000000 71.970367"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "87.536850 -0.000181 -0.000181"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2894,7 +2894,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-183.057083 6.000168 124.981934"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-81.205246 -179.999939 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2903,7 +2903,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-184.675583 6.000000 103.970367"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "87.536850 -0.000181 -0.000181"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2912,7 +2912,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-186.974487 6.000168 172.006836"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-80.237144 0.000080 0.000027"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2921,7 +2921,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-195.195984 6.000000 152.602875"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "73.905563 -179.999969 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2930,7 +2930,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-194.974487 6.000168 220.006836"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-80.237144 0.000080 0.000027"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2939,7 +2939,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-203.195984 6.000000 200.602875"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "73.905563 -179.999969 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2948,7 +2948,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-194.974487 6.000168 268.006836"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-80.237144 0.000080 0.000027"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2957,7 +2957,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-203.195984 6.000000 248.602875"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "73.905563 -179.999969 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2966,7 +2966,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-194.974487 6.000168 308.006836"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-80.237144 0.000080 0.000027"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2975,7 +2975,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-203.195984 6.000000 288.602905"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "73.905563 -179.999969 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2984,7 +2984,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-394.366028 5.999565 210.765259"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-6.992765 0.000105 0.000007"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -2993,7 +2993,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-382.414856 6.000000 249.496155"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "19.183380 179.999969 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3002,7 +3002,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-364.089508 6.000061 252.353180"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-5.314779 0.000038 0.000019"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3011,7 +3011,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-346.769318 5.999962 282.085388"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "5.314939 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3020,7 +3020,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-328.162170 6.000053 277.839539"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "11.776442 0.000031 0.000022"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3029,7 +3029,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-302.868591 5.999962 301.168274"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-11.776329 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3038,7 +3038,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-286.909271 5.999969 309.249390"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-11.776329 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3047,7 +3047,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-263.236115 6.000008 309.131042"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-57.395569 179.999939 -179.999969"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3056,7 +3056,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-247.641220 5.999886 301.309937"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-70.895355 0.000153 -0.000099"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3065,7 +3065,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-252.964005 5.999939 296.101196"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "70.895294 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3074,7 +3074,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-313.750305 6.000084 295.202515"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-58.197086 0.000010 0.000047"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3083,7 +3083,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-327.006714 5.999931 326.955872"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "58.197140 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3092,7 +3092,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-314.566650 6.000084 340.711609"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-44.328766 0.000010 0.000030"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3101,7 +3101,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-319.825714 5.999939 374.716614"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "44.328796 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3110,7 +3110,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-302.695099 6.000076 383.130859"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-27.237417 0.000028 0.000022"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3119,7 +3119,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-297.727966 5.999947 417.179810"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "27.237524 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3128,7 +3128,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-308.468170 6.000084 396.497559"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-27.237417 0.000028 0.000022"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3137,7 +3137,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-318.884064 6.000076 406.063782"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-27.237417 0.000028 0.000022"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3146,7 +3146,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-332.114166 6.000084 415.910706"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-27.237417 0.000028 0.000022"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3155,7 +3155,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-348.529602 6.000084 429.536072"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "27.237492 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3164,7 +3164,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-290.414734 5.999954 433.505066"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "27.237524 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3173,7 +3173,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-271.946442 5.999977 448.315796"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-18.381723 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3182,7 +3182,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-254.905792 5.999916 452.055908"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-70.090820 -179.999985 -179.999954"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3191,7 +3191,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-255.762573 5.999962 444.658020"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "70.090843 0.000030 0.000031"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3200,7 +3200,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-247.361252 5.999977 318.392212"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "13.124679 179.999924 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3209,7 +3209,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-225.839020 5.999992 328.252441"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-32.494534 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3218,7 +3218,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-208.400650 5.999878 327.724731"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-84.203667 179.999741 -179.999695"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3227,7 +3227,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-211.035461 5.999947 320.759033"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "84.203667 0.000195 0.000193"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3236,7 +3236,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-201.697632 6.000130 331.352661"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-37.114201 0.000046 0.000006"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3245,7 +3245,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-202.644424 5.999916 365.748901"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "37.114201 179.999969 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3254,7 +3254,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-186.088898 6.000130 374.109009"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-23.245802 0.000013 0.000019"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3263,7 +3263,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-178.763580 5.999947 407.729492"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "23.245827 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3272,7 +3272,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-159.752975 6.000107 409.418274"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-6.154318 0.000017 0.000018"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3281,7 +3281,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-142.870178 6.000008 439.401123"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "6.154343 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3290,7 +3290,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-160.331329 6.000084 423.966919"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-6.154318 0.000017 0.000018"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3299,7 +3299,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-166.608704 6.000069 436.639526"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-6.154318 0.000017 0.000018"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3308,7 +3308,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-175.411194 6.000069 450.586426"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-6.154318 0.000017 0.000018"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3317,7 +3317,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-185.826370 6.000099 469.204773"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "6.154543 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3326,7 +3326,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-130.174042 6.000008 452.003113"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "6.154343 -179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3335,7 +3335,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-107.614372 5.999985 459.178833"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-39.464687 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3344,7 +3344,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-90.369011 5.999908 456.538818"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-88.826134 0.001128 -0.001110"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3353,7 +3353,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-93.829575 5.999947 449.944336"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "88.826134 179.999573 179.999573"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3362,7 +3362,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-121.302094 6.000130 50.523071"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-58.692787 0.000010 0.000014"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3371,7 +3371,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-134.832672 5.999939 82.160492"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "58.692814 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3380,7 +3380,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-122.512032 6.000122 96.023376"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-44.824364 0.000005 0.000012"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3389,7 +3389,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-128.064911 5.999947 129.981689"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "44.824413 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3398,7 +3398,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-111.007797 6.000099 138.543732"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-27.733070 0.000030 0.000012"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3407,7 +3407,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-106.335327 5.999947 172.634338"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "27.733130 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3416,7 +3416,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-116.896332 6.000114 151.860046"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-27.733070 0.000030 0.000012"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3425,7 +3425,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-127.394501 6.000099 161.335754"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-27.733070 0.000030 0.000012"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3434,7 +3434,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-140.709381 6.000099 171.067810"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-27.733070 0.000030 0.000012"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3443,7 +3443,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-157.242004 6.000084 184.550781"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "27.733109 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3452,7 +3452,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-99.163712 5.999947 189.022339"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "27.733130 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3461,7 +3461,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-80.824234 5.999947 203.992065"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-17.886070 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3470,7 +3470,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-63.816517 5.999901 207.879578"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-69.595215 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3479,7 +3479,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-64.609314 5.999947 200.474609"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "69.595245 0.000024 0.000000"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3488,7 +3488,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-329.422424 6.000114 62.223969"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-46.525707 0.000021 0.000007"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3497,7 +3497,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-335.981079 5.999939 96.002472"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "46.525723 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3506,7 +3506,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-321.015381 6.000114 106.957214"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-32.657284 0.000014 0.000008"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3515,7 +3515,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-319.286377 5.999947 141.323059"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "32.657322 179.999985 179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3524,7 +3524,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-300.807861 6.000099 146.097778"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-15.565990 0.000038 0.000011"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3533,7 +3533,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-289.055298 5.999939 178.437805"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "15.566039 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3542,7 +3542,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-303.757507 6.000114 160.356049"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-15.565990 0.000038 0.000011"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3551,7 +3551,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-312.022736 6.000107 171.831543"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-15.565990 0.000038 0.000011"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3560,7 +3560,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-322.987366 6.000099 184.151276"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-15.565990 0.000038 0.000011"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3569,7 +3569,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-336.306915 6.000084 200.815826"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "15.566020 -179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3578,7 +3578,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-278.590759 5.999931 192.946167"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "15.566039 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3587,7 +3587,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-257.508179 5.999954 203.714355"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-30.053154 179.999985 -179.999985"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3596,7 +3596,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-240.063171 5.999908 203.929932"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "-81.762291 179.999969 -179.999954"
 "spawnflags" "6"
 "modelscale" "1.5"
@@ -3605,7 +3605,7 @@ wood/woodplank04
 {
 "classname" "misc_model"
 "origin" "-242.398865 5.999947 196.858398"
-"model" "models/mapobjects/nateivy1.md3"
+"model" "models/mapobjects/nateleaf1/nateivy1.obj"
 "angles" "81.762337 0.000058 0.000035"
 "spawnflags" "6"
 "modelscale" "1.5"

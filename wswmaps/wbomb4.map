@@ -20545,14 +20545,14 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "656.000000 -1240.000000 88.000000"
-"model" "models/mapobjects/fern.md3"
+"model" "models/mapobjects/nateleaf1/fern.obj"
 "spawnflags" "6"
 }
 // entity 98
 {
 "classname" "misc_model"
 "origin" "672.000000 -1248.000000 88.000000"
-"model" "models/mapobjects/fern.md3"
+"model" "models/mapobjects/nateleaf1/fern.obj"
 "spawnflags" "6"
 }
 // entity 99

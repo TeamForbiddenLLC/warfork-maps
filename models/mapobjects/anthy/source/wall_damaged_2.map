@@ -413,21 +413,21 @@ terrain/rocks001_512x512
 {
 "classname" "misc_model"
 "origin" "-168.000000 356.000000 -0.000002"
-"model" "models/mapobjects/fern.md3"
+"model" "models/mapobjects/nateleaf1/fern.obj"
 "angles" "0.000000 0.000000 -18.838291"
 }
 // entity 2
 {
 "classname" "misc_model"
 "origin" "-172.000015 380.000031 -56.000011"
-"model" "models/mapobjects/nateleaf1/nateleaf1.md3"
+"model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "angles" "8.796816 147.399170 13.448254"
 }
 // entity 3
 {
 "classname" "misc_model"
 "origin" "-144.000015 380.000000 -36.000015"
-"model" "models/mapobjects/nateleaf1/nateleaf1.md3"
+"model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "angles" "28.452885 106.482208 12.678439"
 }
 // entity 4

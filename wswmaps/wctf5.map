@@ -27221,7 +27221,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "626.158752 -1779.747192 -78.398232"
-"model" "models/mapobjects/natebranch.md3"
+"model" "models/mapobjects/nateleaf1/natebranch.obj"
 "angles" "3.729153 179.512756 -7.449639"
 }
 // entity 568
@@ -28014,7 +28014,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "364.368225 2970.377686 -72.814636"
-"model" "models/mapobjects/natebranch.md3"
+"model" "models/mapobjects/nateleaf1/natebranch.obj"
 "angles" "4.111875 1.840908 -6.567135"
 }
 // entity 665

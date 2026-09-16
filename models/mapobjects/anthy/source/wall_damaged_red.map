@@ -300,7 +300,7 @@ terrain/rocks001_512x512
 {
 "classname" "misc_model"
 "origin" "-27.606096 21.999992 -0.832748"
-"model" "models/mapobjects/fern.md3"
+"model" "models/mapobjects/nateleaf1/fern.obj"
 "angles" "-41.184906 45.403679 -12.872028"
 "modelscale" "1.500000"
 }
@@ -308,7 +308,7 @@ terrain/rocks001_512x512
 {
 "classname" "misc_model"
 "origin" "-21.507730 -167.700485 -3.097305"
-"model" "models/mapobjects/fern.md3"
+"model" "models/mapobjects/nateleaf1/fern.obj"
 "angles" "-2.715537 9.180245 -5.191016"
 "modelscale" "1.500000"
 }
@@ -321,20 +321,20 @@ terrain/rocks001_512x512
 {
 "classname" "misc_model"
 "origin" "0.225462 -106.808044 -50.827881"
-"model" "models/mapobjects/nateleaf1/nateleaf1.md3"
+"model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "angles" "46.117302 -162.951309 0.000009"
 }
 // entity 5
 {
 "classname" "misc_model"
 "origin" "-2.845829 -98.559227 -50.810074"
-"model" "models/mapobjects/nateleaf1/nateleaf1.md3"
+"model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "angles" "51.518059 148.523788 -4.676730"
 }
 // entity 6
 {
 "classname" "misc_model"
 "origin" "-4.519127 -61.417088 -49.742218"
-"model" "models/mapobjects/nateleaf1/nateleaf1.md3"
+"model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "angles" "24.015696 128.024002 -27.395306"
 }
