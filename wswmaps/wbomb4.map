@@ -24641,7 +24641,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "-908.000000 1336.000000 378.000000"
-"model" "models/mapobjects/decor_misc/barrel.lwo"
+"model" "models/mapobjects/decor_misc/piratebarrel.obj"
 "modelscale" "1.500000"
 "spawnflags" "4"
 }
@@ -24712,7 +24712,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "936.000000 636.000000 59.000000"
-"model" "models/mapobjects/decor_misc/barrel.lwo"
+"model" "models/mapobjects/decor_misc/piratebarrel.obj"
 "modelscale" "1.500000"
 "spawnflags" "4"
 }
@@ -24720,7 +24720,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "536.000000 2958.000000 379.000000"
-"model" "models/mapobjects/decor_misc/barrel.lwo"
+"model" "models/mapobjects/decor_misc/piratebarrel.obj"
 "modelscale" "1.500000"
 "spawnflags" "4"
 }
@@ -24728,7 +24728,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "4104.000000 1104.000000 375.000000"
-"model" "models/mapobjects/decor_misc/barrel.lwo"
+"model" "models/mapobjects/decor_misc/piratebarrel.obj"
 "modelscale" "1.500000"
 "spawnflags" "4"
 "angle" "-180.000000"

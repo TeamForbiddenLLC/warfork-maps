@@ -27734,7 +27734,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "572.000000 -2224.000000 232.000000"
-"model" "models/mapobjects/decor_misc/barrel.lwo"
+"model" "models/mapobjects/decor_misc/piratebarrel.obj"
 "spawnflags" "2"
 }
 // entity 632
@@ -28543,7 +28543,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "420.000000 3440.000000 232.000000"
-"model" "models/mapobjects/decor_misc/barrel.lwo"
+"model" "models/mapobjects/decor_misc/piratebarrel.obj"
 "spawnflags" "2"
 "angle" "-179.999985"
 }

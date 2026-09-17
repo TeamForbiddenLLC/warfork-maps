@@ -28851,7 +28851,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "992 2520 399"
-"model" "models/mapobjects/decor_misc/barrel.lwo"
+"model" "models/mapobjects/decor_misc/piratebarrel.obj"
 }
 // entity 424
 {

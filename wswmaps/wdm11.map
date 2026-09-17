@@ -8821,7 +8821,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-367.000000 520.000000 -185.000000"
-"model" "models/mapobjects/decor_misc/barrel.lwo"
+"model" "models/mapobjects/decor_misc/piratebarrel.obj"
 "angle" "-90.000000"
 "spawnflags" "4"
 }
@@ -9668,7 +9668,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-31.000000 192.000000 103.000000"
-"model" "models/mapobjects/decor_misc/barrel.lwo"
+"model" "models/mapobjects/decor_misc/piratebarrel.obj"
 "angle" "-90.000000"
 "spawnflags" "4"
 }

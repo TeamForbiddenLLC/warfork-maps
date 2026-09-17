@@ -54384,7 +54384,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-736 2238 104"
-"model" "models/mapobjects/decor_misc/barrel.lwo"
+"model" "models/mapobjects/decor_misc/piratebarrel.obj"
 "angle" "-90"
 }
 // entity 158
