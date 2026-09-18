@@ -5,11 +5,11 @@
 "classname" "worldspawn"
 "_color" "0.611765 0.415686 1"
 "radiosity" "0.8"
-"ambient" "24"
+"ambient" "25"
 "colorCorrection" "gfx/correction/afternoon_orange.tga"
 "_lightingIntensity" "2.5"
 "message" "Concrete Strike"
-"ambient_testradius" "300"
+"ambient_testradius" "280"
 // brush 0
 {
 brushDef
@@ -4201,7 +4201,7 @@ brushDef
 brushDef
 {
 ( 688 131072 131072 ) ( 688 -131072 131072 ) ( 688 -131072 -131072 ) ( ( 0.0078125 0 -0 ) ( -0 0.00390625 0 ) ) concrete/plaster2uniform 0 0 0
-( 848 -131072 131072 ) ( 848 131072 131072 ) ( 848 131072 -131072 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( 848 -131072 131072 ) ( 848 131072 131072 ) ( 848 131072 -131072 ) ( ( 0.0078125 0 -0 ) ( -0 0.00390625 0 ) ) concrete/plaster2uniform 0 0 0
 ( -131072 1144 131072 ) ( 131072 1144 131072 ) ( 131072 1144 -131072 ) ( ( 0.0078125 0 -0 ) ( -0 0.00390625 0 ) ) concrete/plaster2uniform 0 0 0
 ( 131072 1448 131072 ) ( -131072 1448 131072 ) ( -131072 1448 -131072 ) ( ( 0.0078125 0 -0 ) ( -0 0.00390625 0 ) ) concrete/plaster2uniform 0 0 0
 ( 131072 -131072 512 ) ( 131072 131072 512 ) ( -131072 131072 512 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
@@ -35503,7 +35503,7 @@ exwsw/eX_trim_support_03_thin
 "_samples" "16"
 "_sun" "1"
 "target" "target_position17"
-"light" "400"
+"light" "300"
 "origin" "808.000000 -88.000000 808.000000"
 }
 // entity 418
