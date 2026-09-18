@@ -21989,7 +21989,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "560 -90 44"
-"model" "models/mapobjects/wsw_industrial1/tube_bundle.ase"
+"model" "models/mapobjects/wsw_industrial1/tube_bundle.obj"
 "_shadeangle" "25"
 "spawnflags" "4"
 "_samplesize" "4"
@@ -22062,7 +22062,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-932 -1396 432"
-"model" "models/mapobjects/bench/bench01.ase"
+"model" "models/mapobjects/decor_misc/bench.obj"
 "angle" "2.50448e-006"
 "modelscale" "1.5"
 }

@@ -1,0 +1,17 @@
+# Exported by Gskelview
+
+newmtl fromBlender:Noir_001
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/exwsw/eX_surf_metaldarkgrey
+
+newmtl old_wooden_window_front_only:Bois_001
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd models/mapobjects/decor_misc/bench/albedo.png

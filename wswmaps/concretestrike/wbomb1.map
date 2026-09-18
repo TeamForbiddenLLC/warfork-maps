@@ -25088,7 +25088,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-264 512 224"
-"model" "models/mapobjects/bench/bench01.ase"
+"model" "models/mapobjects/decor_misc/bench.obj"
 "angle" "-180"
 }
 // entity 62
@@ -26291,7 +26291,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-1760 1944 320"
-"model" "models/mapobjects/wsw_industrial1/tube_bundle.ase"
+"model" "models/mapobjects/wsw_industrial1/tube_bundle.obj"
 "_shadeangle" "25"
 "spawnflags" "4"
 "_samplesize" "4"

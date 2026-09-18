@@ -1,0 +1,33 @@
+# Exported by Gskelview
+
+newmtl tube_bundle:textures_exwsw_eX_metalSupp01_blue
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/exwsw/eX_metalSupp01_blue.png
+
+newmtl tube_bundle:textures_exwsw_eX_surf_metaldarkgrey
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/exwsw/eX_surf_metaldarkgrey.png
+
+newmtl tube_bundle:textures_exwsw_eX_surf_metallightgrey
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/exwsw/eX_surf_metallightgrey.png
+
+newmtl tube_bundle:textures_plastic_pvc_grey
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/plastic/pvc_grey.png

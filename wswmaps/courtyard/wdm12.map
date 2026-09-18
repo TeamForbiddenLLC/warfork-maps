@@ -19836,7 +19836,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "2496 360 16"
-"model" "models/mapobjects/bench/bench01.ase"
+"model" "models/mapobjects/decor_misc/bench.obj"
 "modelscale" "1.5"
 "angle" "-90"
 }
