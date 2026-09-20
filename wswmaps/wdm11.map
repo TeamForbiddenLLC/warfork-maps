@@ -7842,7 +7842,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-1063.999878 -295.999939 -223.999985"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 "angle" "2.111472"
@@ -7851,7 +7851,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-1056.000000 -288.000000 -160.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -7859,7 +7859,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-303.999939 -400.000000 -159.999969"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 "angle" "41.129932"
@@ -7868,7 +7868,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-456.000000 -80.000000 96.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -8204,7 +8204,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-1056.000000 -384.000000 -224.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -8371,7 +8371,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-992.000000 -296.000000 -224.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -8379,7 +8379,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-560.000000 -248.000000 -224.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -8387,7 +8387,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-312.000031 -656.000000 -159.999985"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 "angle" "3.071904"
@@ -8396,7 +8396,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-159.999985 -55.999996 -64.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 "angle" "-1.348539"
@@ -8405,7 +8405,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-320.000000 -672.000000 -224.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -8413,7 +8413,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-312.000000 -608.000000 -224.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -8421,7 +8421,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-288.000000 -416.000000 -224.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -8429,7 +8429,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-103.999992 -56.000000 -128.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 "angle" "-23.588457"
@@ -8438,7 +8438,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-184.000000 -64.000000 -128.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -9522,7 +9522,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "192.000076 799.000305 -182.000061"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "angles" "-1.236828 0.107930 -4.804018"
 }
@@ -9699,7 +9699,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "192.000076 639.000305 -214.000061"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 "angles" "-1.236828 0.107930 -4.804018"
@@ -9716,7 +9716,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-64.000000 840.000000 -184.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -9724,7 +9724,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "160.000000 832.000000 -80.000000"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }
@@ -9732,7 +9732,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "230.000046 768.000122 -80.000015"
-"model" "models/mapobjects/crates/crate_wood3.ase"
+"model" "models/mapobjects/crates/crate_wood3.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 "angles" "-2.350914 0.000000 0.000000"
@@ -9771,7 +9771,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "164.000000 768.000000 -80.000000"
-"model" "models/mapobjects/crates/crate_wood3.ase"
+"model" "models/mapobjects/crates/crate_wood3.obj"
 "spawnflags" "4"
 "modelscale" "0.500000"
 }

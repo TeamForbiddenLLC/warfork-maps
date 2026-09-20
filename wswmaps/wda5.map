@@ -16557,7 +16557,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "-472.000000 1120.000000 268.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "spawnflags" "6"
 "modelscale" "0.750000"
 "angle" "-90.000000"

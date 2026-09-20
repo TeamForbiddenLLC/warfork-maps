@@ -24544,7 +24544,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "39.999966 356.000122 24.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2_opt.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "angle" "91.515320"
 "spawnflags" "2"
 }
@@ -24552,14 +24552,14 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "2948.000000 -544.000000 24.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2_opt.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "angle" "-179.999985"
 }
 // entity 695
 {
 "classname" "misc_model"
 "origin" "1480.000122 -352.000000 24.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "angle" "-7.462453"
 }
 // entity 696
@@ -24610,7 +24610,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "2144.000000 720.000000 12.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2_opt.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "angle" "-7.462463"
 "spawnflags" "4"
 }

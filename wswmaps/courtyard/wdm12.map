@@ -19636,7 +19636,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "768 104 32"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-180"
 "spawnflags" "4"
@@ -19645,7 +19645,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "768 32 32"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-180"
 "spawnflags" "4"
@@ -19654,7 +19654,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "696 32 32"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-180"
 "spawnflags" "4"
@@ -19663,7 +19663,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-248 1440 224"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -19671,7 +19671,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-256 1504 224"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -19679,7 +19679,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-184 1504 224"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -19687,7 +19687,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1528 352 -64"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-180"
 "spawnflags" "4"
@@ -19696,7 +19696,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-248 1496 288"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -19745,7 +19745,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-184 -128 160"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -19753,7 +19753,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-192 -64 160"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -19761,7 +19761,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-184 -72 224"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -19769,7 +19769,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "760 40 96"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-180"
 "spawnflags" "4"
@@ -19778,7 +19778,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1384 264 -72"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.375"
 "angle" "-180"
 "spawnflags" "4"
@@ -19787,7 +19787,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1536 416 -64"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-180"
 "spawnflags" "4"
@@ -19940,7 +19940,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1536 360 0"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-180"
 "spawnflags" "4"
@@ -19957,7 +19957,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "450 784 -160"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "angle" "45"
 "spawnflags" "4"
@@ -19966,7 +19966,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "388 -914 -160"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "angle" "-22.5576"
 "spawnflags" "4"
@@ -19984,7 +19984,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "496 720 -160"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -19992,7 +19992,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "464 -692 192"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -20000,7 +20000,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "464 -912 -160"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -20008,7 +20008,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "464 -684 128"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -20016,7 +20016,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "304 -716 128"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -20024,7 +20024,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "560 -692 320"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -20032,7 +20032,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "584 -688 240"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -20040,7 +20040,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "192 -740 288"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -20048,7 +20048,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "576 -688 144"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -20056,7 +20056,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "144 -908 272"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -20064,7 +20064,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "384 -700 224"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }
@@ -20072,7 +20072,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "384 -708 144"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -20080,7 +20080,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "192 -732 368"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.5"
 "spawnflags" "4"
 }

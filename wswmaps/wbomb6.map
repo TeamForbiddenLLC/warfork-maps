@@ -53057,7 +53057,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-928 3600 144"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53066,7 +53066,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1759.999878 3984.000244 207.999054"
-"model" "models/mapobjects/crates/crate_wood3.ase"
+"model" "models/mapobjects/crates/crate_wood3.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 "angles" "-0.000000 -179.999985 -90.000000"
@@ -53087,7 +53087,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-16 2352 -48"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53095,7 +53095,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "96 1200 -48"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53103,7 +53103,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1072 2352 -48"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53111,7 +53111,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "464 1712 -48"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53119,7 +53119,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "848 1808 -48"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53127,7 +53127,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "848 1904 -48"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53135,7 +53135,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1232 3984 144"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53143,7 +53143,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1232 3984 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53151,7 +53151,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1168 3152 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53159,7 +53159,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1360 3152 144"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53167,7 +53167,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1168 3248 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53175,7 +53175,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1168 3248 144"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53191,7 +53191,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1264 3248 144"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53199,7 +53199,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1264 3248 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53233,7 +53233,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-16.000250 3408.000000 239.999939"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 "angles" "0.000010 90.000000 0.000016"
@@ -53242,7 +53242,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-16 3408 144"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53250,7 +53250,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "846.000000 3280.000000 304.000000"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 }
@@ -53258,7 +53258,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "846.000000 3280.000000 208.000000"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 }
@@ -53266,7 +53266,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1664 3984 208"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53275,7 +53275,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "688 4464 208"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53284,7 +53284,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-64.75 4050 128"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-45"
 "spawnflags" "4"
@@ -53293,7 +53293,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1872 3376 256"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "angle" "90"
 "spawnflags" "4"
@@ -53438,7 +53438,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1808 2608 16"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53447,7 +53447,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1808 2704 16"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53456,7 +53456,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-560 3440 144"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53464,7 +53464,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1264 3152 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53472,7 +53472,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1808 2704 112"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53509,7 +53509,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1120 1814.09 120.503"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angles" "9.18342e-006 -180 11.0681"
 "spawnflags" "4"
@@ -53518,7 +53518,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "848 1872 208"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53526,7 +53526,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "672 4544 192"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-90"
 "spawnflags" "4"
@@ -53564,7 +53564,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "768 4448 192"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-90"
 "spawnflags" "4"
@@ -53573,7 +53573,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1200 4368 208"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53581,7 +53581,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1888 3472 192"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "2.50448e-006"
 "spawnflags" "4"
@@ -53590,7 +53590,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1424 4160 192"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-90"
 "spawnflags" "4"
@@ -53599,7 +53599,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "2512 3952 624"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53607,7 +53607,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "336 1808 -48"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53615,7 +53615,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-176 1712 144"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53623,7 +53623,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "616.000000 2800.000000 144.000000"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 }
@@ -53631,7 +53631,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "2416 2832 400"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53640,7 +53640,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-110 3982 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "angle" "-45"
 "spawnflags" "4"
@@ -53649,7 +53649,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-110 3982 144"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "angle" "-45"
 "spawnflags" "4"
@@ -53658,7 +53658,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1008 3616 128"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.5"
 "angle" "-90"
 "spawnflags" "4"
@@ -53667,7 +53667,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-944 3696 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53676,7 +53676,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1024 3696 144"
-"model" "models/mapobjects/crates/crate_wood3.ase"
+"model" "models/mapobjects/crates/crate_wood3.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53685,7 +53685,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-928 3696 144"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53694,7 +53694,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1744 3984 304"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53703,7 +53703,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1328 2992 80"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53712,7 +53712,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "2512 2832 400"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.75"
 "angle" "-90"
 "spawnflags" "4"
@@ -53721,7 +53721,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1424 4080 208"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53729,7 +53729,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "2512 4048 528"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53737,7 +53737,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "2512 3952 528"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53773,7 +53773,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "2096.000000 2344.000000 304.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.750000"
 "angle" "-90.000000"
 "spawnflags" "4"
@@ -53794,7 +53794,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "496 5040 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53802,7 +53802,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "496 5136 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53810,7 +53810,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "400 5136 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53818,7 +53818,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "496 5136 144"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53826,7 +53826,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "400 5040 144"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53834,7 +53834,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "400 5040 240"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -53890,7 +53890,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "400 5136 144"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -54287,7 +54287,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1456 464 208"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 "angle" "13.8334"
@@ -54296,7 +54296,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1258 1729 346"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -54304,7 +54304,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-832 2420 148"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "spawnflags" "4"
 }
 // entity 148
@@ -54336,7 +54336,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1274 2067 91"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -54352,7 +54352,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1856 3384 172"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "spawnflags" "6"
 "modelscale" "0.75"
 }
@@ -54424,7 +54424,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1456 2352 408"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -54439,7 +54439,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-960 2456 -20"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -54454,7 +54454,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-832 2202 278"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -54484,7 +54484,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1258 1728 91"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -54725,7 +54725,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-568 -88 76"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 "angle" "-90"
@@ -54752,7 +54752,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-944 2352 112"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -54760,7 +54760,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1456 400 112"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -55251,7 +55251,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-832 2432 278"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -56543,7 +56543,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-808 1760 100"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "spawnflags" "4"
 }
 // entity 433
@@ -56758,7 +56758,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "79.999992 3664.000000 144.000015"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 "angles" "90.000000 0.000000 -0.000000"
@@ -56767,7 +56767,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "176.000000 3664.000000 240.000000"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 "angle" "-90.000000"
@@ -56776,7 +56776,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "176.000000 3664.000000 144.000000"
-"model" "models/mapobjects/crates/crate_wood3.ase"
+"model" "models/mapobjects/crates/crate_wood3.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 "angle" "-90.000000"
@@ -56785,7 +56785,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "272.000000 3664.000000 144.000000"
-"model" "models/mapobjects/crates/crate_wood.ase"
+"model" "models/mapobjects/crates/crate_wood.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 }
@@ -56793,7 +56793,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "176.000000 3648.000000 320.000000"
-"model" "models/mapobjects/crates/crate_wood3.ase"
+"model" "models/mapobjects/crates/crate_wood3.obj"
 "modelscale" "0.500000"
 "spawnflags" "4"
 }
@@ -57363,7 +57363,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "80.000000 3664.000000 240.000000"
-"model" "models/mapobjects/crates/crate_wood2.ase"
+"model" "models/mapobjects/crates/crate_wood2.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 }

@@ -1,0 +1,17 @@
+# Exported by Gskelview
+
+newmtl cx_decor_2:textures_exwsw_vertex_vertex_eX_surf_metaldarkgrey
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/exwsw/eX_surf_metaldarkgrey.jpg
+
+newmtl cx_decor_2:textures_wood_vertex_vertex_woodplank01
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/wood/woodplank02.jpg

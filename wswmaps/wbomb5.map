@@ -33721,28 +33721,28 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-2024.000000 -384.000000 624.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "angle" "5.334200"
 }
 // entity 118
 {
 "classname" "misc_model"
 "origin" "-2000.000000 -544.000000 624.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "angle" "-5.210562"
 }
 // entity 119
 {
 "classname" "misc_model"
 "origin" "448.000000 736.000000 464.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "angle" "-4.792624"
 }
 // entity 120
 {
 "classname" "misc_model"
 "origin" "424.000000 584.000000 464.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "angle" "0.839951"
 }
 // entity 121
@@ -33756,7 +33756,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "1036.000000 126.111931 63.060402"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.ase"
+"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
 "angles" "-0.000000 0.000000 13.585613"
 }
 // entity 123
