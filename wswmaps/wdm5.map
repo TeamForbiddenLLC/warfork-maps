@@ -24278,7 +24278,7 @@ brushDef
 "spawnflags" "4"
 "modelscale" "0.800000"
 "angle" "-90.000000"
-"model" "models/mapobjects/wsw_city1/light_ceil_2.ase"
+"model" "models/mapobjects/lights/light_ceil1blue.ase"
 "origin" "-160.000000 454.000000 320.000000"
 }
 // entity 84
@@ -24287,7 +24287,7 @@ brushDef
 "spawnflags" "13"
 "modelscale" "0.800000"
 "angle" "-45.000008"
-"model" "models/mapobjects/wsw_city1/light_ceil_2.ase"
+"model" "models/mapobjects/lights/light_ceil1blue.ase"
 "origin" "-10.523088 278.507019 432.000000"
 }
 // entity 85
@@ -24304,7 +24304,7 @@ brushDef
 "spawnflags" "4"
 "modelscale" "0.800000"
 "angle" "-45"
-"model" "models/mapobjects/wsw_city1/light_ceil_2.ase"
+"model" "models/mapobjects/lights/light_ceil1blue.ase"
 "origin" "45.101910 654.757019 432.000000"
 }
 // entity 87
