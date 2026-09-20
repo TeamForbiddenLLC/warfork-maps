@@ -17423,7 +17423,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "739.094116 -162.535034 532.000000"
-"model" "models/mapobjects/wsw_city1/barrel_1.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "spawnflags" "12"
 "angle" "-39.328247"
 }
@@ -17431,7 +17431,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "684.000000 -144.000000 532.000000"
-"model" "models/mapobjects/wsw_city1/barrel_1.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "spawnflags" "12"
 }
 // entity 196
@@ -18312,14 +18312,14 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "-988.000000 736.000000 292.000000"
-"model" "models/mapobjects/wsw_city1/barrel_1.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "spawnflags" "12"
 }
 // entity 306
 {
 "classname" "misc_model"
 "origin" "-956.853027 666.469116 292.000000"
-"model" "models/mapobjects/wsw_city1/barrel_1.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "spawnflags" "12"
 "angle" "38.117466"
 }

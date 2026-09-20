@@ -23793,7 +23793,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/barrel_1.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "origin" "1320.000000 116.000000 580.000000"
 "collisiontype" "none"
 }
@@ -24334,7 +24334,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/barrel_1.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "origin" "1336.000000 92.000000 500.000000"
 "collisiontype" "none"
 }
@@ -24342,7 +24342,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/barrel_1.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "origin" "1292.000000 136.000000 500.000000"
 "collisiontype" "none"
 }
@@ -24415,7 +24415,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "12"
 "angles" "90.000000 0.000000 -44.302589"
-"model" "models/mapobjects/wsw_city1/barrel_1.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "origin" "1439.931030 -597.656555 444.000031"
 "collisiontype" "none"
 }
@@ -24423,7 +24423,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/barrel_1.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "origin" "1284.000000 -820.000000 444.000000"
 "collisiontype" "none"
 }
@@ -24440,7 +24440,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/barrel_1.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "origin" "1464.000000 -672.000000 444.000000"
 "collisiontype" "none"
 }
@@ -24868,7 +24868,7 @@ brushDef
 "classname" "misc_model"
 "angle" "90.000008"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/barrel_1_nobackface.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "origin" "1232.000000 1580.000000 636.000000"
 }
 // entity 154
@@ -24930,7 +24930,7 @@ brushDef
 "classname" "misc_model"
 "angle" "90.000008"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/barrel_1_nobackface.ase"
+"model" "models/mapobjects/wsw_city1/barrel_1.obj"
 "origin" "1271.999756 1520.000244 636.000000"
 }
 // entity 161
