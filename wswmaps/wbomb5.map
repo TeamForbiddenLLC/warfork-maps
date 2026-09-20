@@ -32482,7 +32482,7 @@ wsw_city1/wires1
 {
 "classname" "misc_model"
 "origin" "-928.000000 -1440.000000 984.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "0.000003"
 }
@@ -32490,7 +32490,7 @@ wsw_city1/wires1
 {
 "classname" "misc_model"
 "origin" "-352.000000 -960.000000 1008.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "0.000003"
 }
@@ -32498,7 +32498,7 @@ wsw_city1/wires1
 {
 "classname" "misc_model"
 "origin" "800.000000 -544.000000 1008.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "0.000003"
 "modelscale" "2.000000"
@@ -33393,7 +33393,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "608.000000 1792.000000 952.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "0.000003"
 }
@@ -33465,7 +33465,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-1056.000000 1632.000000 1016.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "45"
 }
@@ -35582,7 +35582,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "-256.000000 -1440.000000 984.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "0.000003"
 }
@@ -35612,7 +35612,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "-256.000000 -2112.000000 984.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "0.000003"
 }
@@ -35642,7 +35642,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "-256.000000 -1776.000000 984.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "0.000003"
 }
@@ -36377,7 +36377,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "320.000000 1792.000000 952.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "0.000003"
 }

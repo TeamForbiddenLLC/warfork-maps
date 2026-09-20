@@ -21756,14 +21756,14 @@ plastic/grey35
 {
 "classname" "misc_model"
 "origin" "-780 1084 200"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 78
 {
 "classname" "misc_model"
 "origin" "-852 -108 552"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 79
@@ -21849,28 +21849,28 @@ plastic/grey35
 {
 "classname" "misc_model"
 "origin" "-1548 0 496"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 94
 {
 "classname" "misc_model"
 "origin" "-660 148 264"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 95
 {
 "classname" "misc_model"
 "origin" "-852 100 552"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 96
 {
 "classname" "misc_model"
 "origin" "-1348 -244 264"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 97

@@ -10976,7 +10976,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "252 -444 552"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -10984,7 +10984,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "580 -444 552"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -10998,7 +10998,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "-460 -380 352"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -11006,7 +11006,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "-460 172 352"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -11064,7 +11064,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "572 148 -16"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -11157,7 +11157,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "276 148 -16"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -11350,7 +11350,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "520.000000 812.000000 200.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -11384,7 +11384,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "1340 844 231"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "90"
 }
@@ -11392,7 +11392,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "1340 292 231"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "90"
 }
@@ -11476,7 +11476,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "864 996 -48"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -11491,7 +11491,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "864 772 -48"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -11546,7 +11546,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "-132 1144 -136"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -11561,7 +11561,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "340.000000 476.000000 200.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -11606,7 +11606,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "564 992 -72"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }
@@ -11712,7 +11712,7 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "572 476 200"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90"
 }

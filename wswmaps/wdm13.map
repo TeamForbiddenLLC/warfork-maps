@@ -16549,21 +16549,21 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-96 -2464 496"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 120
 {
 "classname" "misc_model"
 "origin" "-768 -1464 120"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 121
 {
 "classname" "misc_model"
 "origin" "32 -2464 496"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 122
@@ -16590,21 +16590,21 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-1184 -1616 376"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 127
 {
 "classname" "misc_model"
 "origin" "-664 -1536 504"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 128
 {
 "classname" "misc_model"
 "origin" "-144 -1800 -72"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 129
@@ -17496,7 +17496,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-144 -2048 -72"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 257
@@ -17561,7 +17561,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "144 -1800 -72"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 266
@@ -17591,7 +17591,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "1216 -2436 600"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 270
@@ -17680,7 +17680,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "160 -2464 496"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 282
@@ -17709,7 +17709,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "1120 -1644 216"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 286
@@ -17769,7 +17769,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "1120 -1356 216"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 294
@@ -17799,7 +17799,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "856 -1296 120"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 298
@@ -18050,7 +18050,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "896 -2712 600"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 332
@@ -18081,7 +18081,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "192 -1592 504"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 336
@@ -18112,7 +18112,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-944.000000 -2200.000000 344.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 340
@@ -18166,7 +18166,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-376 -1536 504"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 347
@@ -18202,7 +18202,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "576 -1984 504"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 352
@@ -18233,7 +18233,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "760.000000 -1664.000000 498.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 356
@@ -18307,7 +18307,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "72 -1920 504"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 366
@@ -18338,7 +18338,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "928.000000 -1232.000000 504.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 370
@@ -18369,7 +18369,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-744.000000 -2200.000000 472.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 374
@@ -18399,7 +18399,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "392.000000 -2856.000000 200.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 378
@@ -18430,7 +18430,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-944.000000 -2048.000000 344.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 382
@@ -18461,7 +18461,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-744.000000 -2392.000000 88.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 386
@@ -18492,7 +18492,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-232.000000 -720.000000 600.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 390
@@ -18547,7 +18547,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "928.000000 -1016.000000 504.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 397
@@ -18578,7 +18578,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-56.000000 -1352.000000 568.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 401
@@ -18609,7 +18609,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "192.000000 -720.000000 600.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 405
@@ -18624,7 +18624,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "0.000000 -720.000000 600.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 407
@@ -18647,7 +18647,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-744.000000 -2048.000000 472.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 410
@@ -18677,7 +18677,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "-264.000000 -2856.000000 200.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 414
@@ -18708,7 +18708,7 @@ hexagons/metalcollumn01
 {
 "classname" "misc_model"
 "origin" "96.000000 -2856.000000 200.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 418

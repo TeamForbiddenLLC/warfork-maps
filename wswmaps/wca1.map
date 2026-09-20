@@ -18391,7 +18391,7 @@ cha0s_ws/glass
 {
 "classname" "misc_model"
 "origin" "-1400 848 1080"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "2.50448e-006"
 }
@@ -18399,7 +18399,7 @@ cha0s_ws/glass
 {
 "classname" "misc_model"
 "origin" "-1064 -464 632"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "2.50448e-006"
 }
@@ -18407,7 +18407,7 @@ cha0s_ws/glass
 {
 "classname" "misc_model"
 "origin" "-1776 -1352 664"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "2.50448e-006"
 }
@@ -18415,7 +18415,7 @@ cha0s_ws/glass
 {
 "classname" "misc_model"
 "origin" "-1776 184 1080"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "2.50448e-006"
 }

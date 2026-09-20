@@ -25215,42 +25215,42 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "1168 528 248"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 164
 {
 "classname" "misc_model"
 "origin" "208 548 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 165
 {
 "classname" "misc_model"
 "origin" "284 480 272"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 166
 {
 "classname" "misc_model"
 "origin" "-752 412 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 167
 {
 "classname" "misc_model"
 "origin" "-72 276 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 168
 {
 "classname" "misc_model"
 "origin" "-308 276 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 169
@@ -25271,41 +25271,41 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "-524 548 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 172
 {
 "classname" "misc_model"
 "origin" "-1064 24 408"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 }
 // entity 173
 {
 "classname" "misc_model"
 "origin" "80 480 272"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 174
 {
 "classname" "misc_model"
 "origin" "-444 556 272"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 175
 {
 "classname" "misc_model"
 "origin" "-1064 392 408"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 176
 {
 "classname" "misc_model"
 "origin" "-764 -504 224"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 177
@@ -25320,56 +25320,56 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "-1064 208 408"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 179
 {
 "classname" "misc_model"
 "origin" "-1024 -948 408"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 180
 {
 "classname" "misc_model"
 "origin" "-892 -1508 580"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 181
 {
 "classname" "misc_model"
 "origin" "188 -920 320"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 182
 {
 "classname" "misc_model"
 "origin" "192 -16 48"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 183
 {
 "classname" "misc_model"
 "origin" "192 -496 40"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 184
 {
 "classname" "misc_model"
 "origin" "876 -888 304"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 185
 {
 "classname" "misc_model"
 "origin" "876 -1140 304"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 186
@@ -25404,14 +25404,14 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "-836 -1400 400"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 191
 {
 "classname" "misc_model"
 "origin" "-1008 -1220 400"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 192
@@ -28923,7 +28923,7 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "1216.000000 -160.000000 304.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 307
@@ -28953,7 +28953,7 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "736.000000 104.000000 224.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 311
@@ -28983,7 +28983,7 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "-440.000000 -336.000000 360.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90.000000"
 }
@@ -29015,7 +29015,7 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "188.000000 -1380.000000 384.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 319

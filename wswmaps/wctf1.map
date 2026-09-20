@@ -21347,7 +21347,7 @@
 {
 "classname" "misc_model"
 "origin" "1792.000000 48.000000 512.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 156
@@ -21378,7 +21378,7 @@
 {
 "classname" "misc_model"
 "origin" "1832.000000 -352.000000 479.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 160
@@ -21409,7 +21409,7 @@
 {
 "classname" "misc_model"
 "origin" "1484.000000 -520.000000 431.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 164
@@ -21440,7 +21440,7 @@
 {
 "classname" "misc_model"
 "origin" "868.000000 -712.000000 431.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 168
@@ -21471,7 +21471,7 @@
 {
 "classname" "misc_model"
 "origin" "360.000000 -616.000000 479.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 172
@@ -21502,7 +21502,7 @@
 {
 "classname" "misc_model"
 "origin" "132.000000 4.000000 559.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 176
@@ -21533,7 +21533,7 @@
 {
 "classname" "misc_model"
 "origin" "736.000000 416.000000 575.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 }
 // entity 180
 {
@@ -21563,7 +21563,7 @@
 {
 "classname" "misc_model"
 "origin" "-180.000000 444.000000 287.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 }
 // entity 184
 {
@@ -21593,7 +21593,7 @@
 {
 "classname" "misc_model"
 "origin" "124.000000 4.000000 119.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 188
@@ -21657,7 +21657,7 @@
 {
 "classname" "misc_model"
 "origin" "-88.000000 198.000000 129.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 196
@@ -21688,7 +21688,7 @@
 {
 "classname" "misc_model"
 "origin" "1464.000000 -638.000000 683.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 }
 // entity 200
 {
@@ -21718,7 +21718,7 @@
 {
 "classname" "misc_model"
 "origin" "776.000000 -618.000000 627.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 }
 // entity 204
 {
@@ -21748,7 +21748,7 @@
 {
 "classname" "misc_model"
 "origin" "40.000000 -458.000000 -25.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 208
@@ -21779,7 +21779,7 @@
 {
 "classname" "misc_model"
 "origin" "8.000000 -1106.000000 87.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 212
@@ -21938,7 +21938,7 @@
 {
 "classname" "misc_model"
 "origin" "-1215.999878 -2224.000000 512.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -21970,7 +21970,7 @@
 {
 "classname" "misc_model"
 "origin" "-1256.000000 -1823.999878 479.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -22002,7 +22002,7 @@
 {
 "classname" "misc_model"
 "origin" "-908.000000 -1656.000000 431.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -22034,7 +22034,7 @@
 {
 "classname" "misc_model"
 "origin" "-292.000061 -1464.000000 431.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -22066,7 +22066,7 @@
 {
 "classname" "misc_model"
 "origin" "216.000000 -1560.000000 479.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -22098,7 +22098,7 @@
 {
 "classname" "misc_model"
 "origin" "443.999878 -2180.000000 559.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -22130,7 +22130,7 @@
 {
 "classname" "misc_model"
 "origin" "-160.000000 -2592.000000 575.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "angle" "-179.999985"
 }
 // entity 256
@@ -22161,7 +22161,7 @@
 {
 "classname" "misc_model"
 "origin" "-340.000122 -2028.000000 135.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -22226,7 +22226,7 @@
 {
 "classname" "misc_model"
 "origin" "664.000000 -2374.000000 129.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -22258,7 +22258,7 @@
 {
 "classname" "misc_model"
 "origin" "-888.000000 -1538.000000 683.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "angle" "-179.999985"
 }
 // entity 272
@@ -22289,7 +22289,7 @@
 {
 "classname" "misc_model"
 "origin" "-200.000000 -1558.000000 627.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "angle" "-179.999985"
 }
 // entity 276
@@ -22303,7 +22303,7 @@
 {
 "classname" "misc_model"
 "origin" "451.999878 -2180.000000 119.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -22352,7 +22352,7 @@
 {
 "classname" "misc_model"
 "origin" "875.999878 -136.000000 135.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -22384,7 +22384,7 @@
 {
 "classname" "misc_model"
 "origin" "547.999878 -1100.000000 87.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -22416,7 +22416,7 @@
 {
 "classname" "misc_model"
 "origin" "479.999878 -1676.000000 -25.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }

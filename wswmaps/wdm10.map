@@ -11013,7 +11013,7 @@ blx_wtest3/blx_wt3_singlestripe
 {
 "classname" "misc_model"
 "origin" "416.000000 -96.000000 504.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 }
 // entity 54
 {
@@ -11096,7 +11096,7 @@ blx_wtest3/blx_wt3_singlestripe
 {
 "classname" "misc_model"
 "origin" "-832.000000 -424.000000 504.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 }
 // entity 64
 {
@@ -11157,7 +11157,7 @@ blx_wtest3/blx_wt3_singlestripe
 {
 "classname" "misc_model"
 "origin" "-32.000000 -608.000000 248.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 }
 // entity 72
 {
@@ -11319,7 +11319,7 @@ blx_wtest3/blx_wt3_singlestripe
 {
 "classname" "misc_model"
 "origin" "-288.000000 -864.000000 248.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 }
 // entity 92
 {
@@ -11341,7 +11341,7 @@ blx_wtest3/blx_wt3_singlestripe
 {
 "classname" "misc_model"
 "origin" "-288.000000 -1312.000000 248.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 }
 // entity 95
 {

@@ -20363,7 +20363,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "768.000000 2248.000000 572.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90.000000"
 "modelscale" "0.500000"
@@ -23621,7 +23621,7 @@ decals/graffityPERON32
 {
 "classname" "misc_model"
 "origin" "3488.000000 1344.000000 908.000000"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 "angle" "-90.000000"
 "modelscale" "0.500000"

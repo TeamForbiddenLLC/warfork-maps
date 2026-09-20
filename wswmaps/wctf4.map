@@ -20293,21 +20293,21 @@ cha0s_ws/trim19
 {
 "classname" "misc_model"
 "origin" "-760 -1504 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 85
 {
 "classname" "misc_model"
 "origin" "448 2752 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 86
 {
 "classname" "misc_model"
 "origin" "152 2752 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 87
@@ -20329,7 +20329,7 @@ cha0s_ws/trim19
 {
 "classname" "misc_model"
 "origin" "480 992 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 90
@@ -20344,7 +20344,7 @@ cha0s_ws/trim19
 {
 "classname" "misc_model"
 "origin" "-928 -288 472"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 92
@@ -20409,28 +20409,28 @@ cha0s_ws/trim19
 {
 "classname" "misc_model"
 "origin" "-464 -1504 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 101
 {
 "classname" "misc_model"
 "origin" "608 1504 472"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 102
 {
 "classname" "misc_model"
 "origin" "-608 -192 472"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 103
 {
 "classname" "misc_model"
 "origin" "288 1408 472"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 104
@@ -20458,7 +20458,7 @@ cha0s_ws/trim19
 {
 "classname" "misc_model"
 "origin" "-800 224 568"
-"model" "models/mapobjects/lights/light_tile_centered_halo.ase"
+"model" "models/mapobjects/lights/light_tile.ase"
 "spawnflags" "4"
 }
 // entity 108
