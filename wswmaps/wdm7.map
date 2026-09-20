@@ -25376,21 +25376,21 @@ wdm7/oil
 {
 "classname" "misc_model"
 "origin" "1316.000000 1008.000000 440.000000"
-"model" "models/mapobjects/lights/light_ceil1ultra.ase"
+"model" "models/mapobjects/lights/light_ceil1.ase"
 "spawnflags" "4"
 }
 // entity 187
 {
 "classname" "misc_model"
 "origin" "-756.000000 -120.000000 611.000000"
-"model" "models/mapobjects/lights/light_ceil1ultra.ase"
+"model" "models/mapobjects/lights/light_ceil1.ase"
 "spawnflags" "4"
 }
 // entity 188
 {
 "classname" "misc_model"
 "origin" "1164.000000 1284.000000 440.000000"
-"model" "models/mapobjects/lights/light_ceil1ultra.ase"
+"model" "models/mapobjects/lights/light_ceil1.ase"
 "spawnflags" "4"
 }
 // entity 189

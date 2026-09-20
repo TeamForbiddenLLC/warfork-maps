@@ -148,7 +148,7 @@ blx_wtest3/blx_wt3_grey
 {
 "classname" "misc_model"
 "origin" "0.000000 0.000000 -5.999939"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "12"
 "modelscale" "0.500000"
 "angle" "90.000008"

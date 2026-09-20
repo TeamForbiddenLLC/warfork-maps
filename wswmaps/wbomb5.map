@@ -34362,7 +34362,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-2176.000000 2528.000000 944.000000"
-"model" "models/mapobjects/lights/light_ceil1ultra.ase"
+"model" "models/mapobjects/lights/light_ceil1.ase"
 }
 // entity 200
 {
@@ -34391,7 +34391,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-2176.000000 2240.000000 944.000000"
-"model" "models/mapobjects/lights/light_ceil1ultra.ase"
+"model" "models/mapobjects/lights/light_ceil1.ase"
 }
 // entity 204
 {
@@ -34504,7 +34504,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-768.000000 352.000000 624.000000"
-"model" "models/mapobjects/lights/light_ceil1ultra.ase"
+"model" "models/mapobjects/lights/light_ceil1.ase"
 }
 // entity 219
 {
@@ -34534,7 +34534,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-384.000000 -256.000000 560.000000"
-"model" "models/mapobjects/lights/light_ceil1ultra.ase"
+"model" "models/mapobjects/lights/light_ceil1.ase"
 }
 // entity 223
 {
@@ -35458,7 +35458,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "512.000000 -1696.000000 624.000000"
-"model" "models/mapobjects/lights/light_ceil1ultra.ase"
+"model" "models/mapobjects/lights/light_ceil1.ase"
 }
 // entity 278
 {
@@ -35488,7 +35488,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "192.000000 -1696.000000 624.000000"
-"model" "models/mapobjects/lights/light_ceil1ultra.ase"
+"model" "models/mapobjects/lights/light_ceil1.ase"
 }
 // entity 282
 {

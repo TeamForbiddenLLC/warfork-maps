@@ -19728,7 +19728,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "612 1876 606"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -20141,7 +20141,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "648 -800 530"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -20149,7 +20149,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "400 -800 530"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -20180,7 +20180,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "152 -800 530"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -20388,7 +20388,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-212 1444 606"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -20420,7 +20420,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-144 -284 502"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -20461,7 +20461,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1636 644 510"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "90"
@@ -20502,7 +20502,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-264 324 298"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -20535,7 +20535,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1664 860 454"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -20649,7 +20649,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-288.735 958.894 630"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "136.014"
@@ -20682,7 +20682,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-864 1412 846"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -20781,7 +20781,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-76 708 630"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -20839,7 +20839,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-640 1412 846"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -20895,7 +20895,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-416 1412 846"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -20985,7 +20985,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-752 1884 422"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -21009,7 +21009,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-528 1884 422"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -21067,7 +21067,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "2204 704 278"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -21091,7 +21091,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "2064 844 278"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -21149,7 +21149,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "2204 480 278"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -21190,7 +21190,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "2064 340 278"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -21596,7 +21596,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "400 1496 450"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -21704,7 +21704,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1552 448 230"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -21736,7 +21736,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1360 448 230"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -21797,7 +21797,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "0 1496 450"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -21830,7 +21830,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "200 1496 450"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -21864,7 +21864,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "132 240 638"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "90"
@@ -21905,7 +21905,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "56 -100 502"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -21946,7 +21946,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-156 -104 502"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "90"
@@ -22040,7 +22040,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "612 1468 606"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -22080,7 +22080,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "796 1692 606"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -22114,7 +22114,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "732 448 678"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -22387,7 +22387,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "1664 324 358"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -22420,7 +22420,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-8 244 298"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"

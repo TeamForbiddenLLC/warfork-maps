@@ -24913,7 +24913,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "1088.000000 0.000000 432.000000"
-"model" "models/mapobjects/lights/light_ceil1ultra.ase"
+"model" "models/mapobjects/lights/light_ceil1.ase"
 }
 // entity 139
 {

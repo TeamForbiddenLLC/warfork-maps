@@ -92,7 +92,7 @@
 {
 "classname" "misc_model"
 "origin" "0 0 -18"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"

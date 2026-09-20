@@ -882,20 +882,20 @@ concrete/concretebunker0068
 {
 "classname" "misc_model"
 "origin" "640.000000 0.000000 32.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 }
 // entity 5
 {
 "classname" "misc_model"
 "origin" "-544.000000 0.000000 32.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 }
 // entity 6
 {
 "classname" "misc_model"
 "origin" "0.000000 0.000000 32.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 }
 // entity 7
 {

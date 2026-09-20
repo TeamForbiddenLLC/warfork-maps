@@ -17821,14 +17821,14 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1344.000000 -1848.000000 184.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "modelscale" "0.500000"
 }
 // entity 222
 {
 "classname" "misc_model"
 "origin" "-1344.000000 -2056.000000 184.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "modelscale" "0.500000"
 }
 // entity 223
@@ -17847,7 +17847,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1064 -1904 507"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "90"
 "modelscale" "0.5"
 }
@@ -17862,7 +17862,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1840.000000 -2424.000000 184.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-90.000000"
 "modelscale" "0.500000"
 }
@@ -17877,7 +17877,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2628.000000 -2424.000000 184.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-90.000000"
 "modelscale" "0.500000"
 }
@@ -17892,7 +17892,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-3016 -2468 472"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-180"
 "modelscale" "0.5"
 }
@@ -17907,7 +17907,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-3016 -2088 472"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-180"
 "modelscale" "0.5"
 }
@@ -17922,7 +17922,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-3016 -1704 472"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-180"
 "modelscale" "0.5"
 }
@@ -17937,7 +17937,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1857.696777 -1314.158325 424.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "51.541317"
 "modelscale" "0.500000"
 }
@@ -17952,7 +17952,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1929.541870 -870.721802 344.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-36.142071"
 "modelscale" "0.500000"
 }
@@ -17967,7 +17967,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1478.303345 -789.841553 424.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-128.458694"
 "modelscale" "0.500000"
 }
@@ -17982,7 +17982,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1024.000000 -2624.000000 272.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "90.000000"
 "modelscale" "0.500000"
 }
@@ -18012,7 +18012,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1608 -3080 244"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "90"
 "modelscale" "0.6"
 }
@@ -18027,7 +18027,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-824.000061 -2984.000000 272.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "0.000003"
 "modelscale" "0.500000"
 }
@@ -18042,7 +18042,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2055.999756 -3592.000244 272.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-179.999985"
 "modelscale" "0.500000"
 }
@@ -18057,7 +18057,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2055.999756 -3168.000244 272.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-179.999985"
 "modelscale" "0.500000"
 }
@@ -18151,7 +18151,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2680.000488 -3599.999512 272.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "0.000016"
 "modelscale" "0.500000"
 }
@@ -18166,7 +18166,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2680.000488 -3167.999512 272.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "0.000016"
 "modelscale" "0.500000"
 }
@@ -18181,7 +18181,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-3334 -4016 272"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-180"
 "modelscale" "0.5"
 }
@@ -18196,7 +18196,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-3334 -3632 272"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-180"
 "modelscale" "0.5"
 }
@@ -18211,7 +18211,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-3334 -3248 272"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-180"
 "modelscale" "0.5"
 }
@@ -18226,7 +18226,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-3159.999756 -4359.999023 272.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-90.000000"
 "modelscale" "0.500000"
 }
@@ -18241,7 +18241,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2728.000244 -4104.000488 256.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "90.000000"
 "modelscale" "0.500000"
 }
@@ -18256,7 +18256,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-512.000061 -3320.000244 432.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "90.000000"
 "modelscale" "0.500000"
 }
@@ -18432,7 +18432,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-3000 -2740 -18"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-180"
 "modelscale" "0.6"
 }
@@ -18492,7 +18492,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-3090.332520 -2717.646973 488.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "135.106567"
 "modelscale" "0.500000"
 }
@@ -18532,7 +18532,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1248.000488 -3207.999756 168.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-90.000000"
 "modelscale" "0.500000"
 }
@@ -18651,7 +18651,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-539.533081 -1418.091431 288.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-124.300659"
 "modelscale" "0.500000"
 }
@@ -18707,7 +18707,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "191.999756 -1784.000000 360.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "0.000003"
 "modelscale" "0.500000"
 }
@@ -18811,7 +18811,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "1016.000000 -2832.000000 568.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "0.000003"
 "modelscale" "0.500000"
 }
@@ -18851,7 +18851,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "807.999634 -3455.999756 360.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "0.000009"
 "modelscale" "0.500000"
 }
@@ -18944,7 +18944,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-235.999908 -3856.000244 68.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "90.000015"
 "modelscale" "0.500000"
 }
@@ -19031,7 +19031,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-183.648605 -990.817200 200.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.500000"
 }
@@ -19071,7 +19071,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-183.648605 -430.817200 200.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.500000"
 }
@@ -19110,7 +19110,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "64.351395 -638.817200 344.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.500000"
 }
@@ -19142,7 +19142,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "384.351379 -638.817200 344.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.500000"
 }
@@ -19174,7 +19174,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "768.351 -638.817 344"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.6"
 }
@@ -19206,7 +19206,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "1088.351318 -638.817200 344.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.500000"
 }
@@ -19239,7 +19239,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "720.456970 -1152.607056 160.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-90.748260"
 "modelscale" "0.500000"
 }
@@ -19278,7 +19278,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "207.543 -247.393 160"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "89.2517"
 "modelscale" "0.5"
 }
@@ -19358,7 +19358,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "1192.35 -1430.82 176"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.5"
 }
@@ -19391,7 +19391,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "1192.351318 -1926.817139 176.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.500000"
 }
@@ -19424,7 +19424,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "1688.35 -2054.82 176"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.5"
 }
@@ -19457,7 +19457,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "1688.35 -1798.82 176"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.5"
 }
@@ -19515,7 +19515,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "792.351013 -2054.820068 176.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.500000"
 }
@@ -19584,7 +19584,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "208.456970 -1152.607056 160.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-90.748260"
 "modelscale" "0.500000"
 }
@@ -19624,7 +19624,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "719.543 -247.393 160"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "89.2517"
 "modelscale" "0.5"
 }
@@ -19664,7 +19664,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "1720.351318 -2758.817139 192.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.500000"
 }
@@ -19790,7 +19790,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1088.605713 -776.433594 232.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "179.432938"
 "modelscale" "0.500000"
 }
@@ -19830,7 +19830,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1088.605713 -392.433594 232.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "179.432938"
 "modelscale" "0.500000"
 }
@@ -19870,7 +19870,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1088.605713 55.566406 232.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "179.432938"
 "modelscale" "0.500000"
 }
@@ -19910,7 +19910,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-752.433594 72.605743 232.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "89.432930"
 "modelscale" "0.500000"
 }
@@ -19950,7 +19950,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-368.433594 72.605743 232.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "89.432930"
 "modelscale" "0.500000"
 }
@@ -20144,7 +20144,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "191.999756 -2552.000000 360.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "0.000003"
 "modelscale" "0.500000"
 }
@@ -20229,7 +20229,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "15.566406 72.605743 232.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "89.432930"
 "modelscale" "0.500000"
 }
@@ -20269,7 +20269,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "1039.566406 72.605743 232.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "89.432930"
 "modelscale" "0.500000"
 }
@@ -20339,7 +20339,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2502.128174 -2943.770020 488.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-89.506042"
 "modelscale" "0.500000"
 }
@@ -20379,7 +20379,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "376.000214 -3224.000000 432.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-179.999985"
 "modelscale" "0.500000"
 }
@@ -20418,7 +20418,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1608.000488 -3511.999512 192.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "0.000016"
 "modelscale" "0.500000"
 }
@@ -20887,7 +20887,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2823.999756 -4359.999023 272.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-90.000000"
 "modelscale" "0.500000"
 }
@@ -21085,7 +21085,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1448.000000 -2440.000000 184.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-90.000000"
 "modelscale" "0.500000"
 }
@@ -21150,7 +21150,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2896.000000 -2468.000000 280.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-179.999985"
 "modelscale" "0.500000"
 }
@@ -21165,7 +21165,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2896.000000 -2088.000000 280.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-179.999985"
 "modelscale" "0.500000"
 }
@@ -21180,7 +21180,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-2896.000000 -1704.000000 280.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-179.999985"
 "modelscale" "0.500000"
 }
@@ -21277,7 +21277,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-1352.000000 -2296.000000 563.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "0.000003"
 "modelscale" "0.500000"
 }
@@ -21406,7 +21406,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "384.000214 -2760.000000 432.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-179.999985"
 "modelscale" "0.500000"
 }
@@ -21446,7 +21446,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "759.000000 -2424.000000 568.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "90.000000"
 "modelscale" "0.500000"
 }
@@ -21511,7 +21511,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "792.351013 -1798.819946 176.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-0.301775"
 "modelscale" "0.500000"
 }
@@ -22095,7 +22095,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "-924 -1564 588"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "-180"
 "modelscale" "0.5"
 }
@@ -23174,7 +23174,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "36.000092 -3320.000244 432.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "90.000015"
 "modelscale" "0.500000"
 }
@@ -23182,7 +23182,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "468.000092 -3824.000244 68.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "90.000015"
 "modelscale" "0.500000"
 }
@@ -23247,7 +23247,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "840.000000 -4032.000000 728.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "angle" "0.000003"
 "modelscale" "0.500000"
 }

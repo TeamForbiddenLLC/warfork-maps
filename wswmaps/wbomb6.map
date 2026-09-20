@@ -54028,7 +54028,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "368 5060 638"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -54067,7 +54067,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "160 1260 410"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -54110,7 +54110,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-320 5060 638"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -54149,7 +54149,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-368 5436 638"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -54851,7 +54851,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "672 466 398"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -54894,7 +54894,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-96 896 363.25"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -54927,7 +54927,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "224 466 398"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -55004,7 +55004,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-224 466 398"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -55203,7 +55203,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "728 -156 638"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -55363,7 +55363,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "2044 3856 1014"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -55404,7 +55404,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "444 -496 638"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -55413,7 +55413,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1504 3340 690"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -55446,7 +55446,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-532 784 538"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -56345,7 +56345,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "336 5500 638"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -56386,7 +56386,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "2044 3856 746"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -56427,7 +56427,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1680 4124 1282"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -56468,7 +56468,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1680 4124 1014"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -56847,7 +56847,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "252.000443 3728.000488 630.000061"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "-90.000000"
@@ -56888,7 +56888,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-863.999878 3404.000000 550.000061"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "179.999985"
@@ -57080,7 +57080,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-35.999413 2111.999756 334.000061"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "-90.000000"
@@ -57256,7 +57256,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "547.999939 3115.999756 646.000061"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "89.999992"
@@ -57595,7 +57595,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1184.000000 2252.000000 314.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "0.000003"
@@ -58092,7 +58092,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-35.999413 2879.999756 334.000061"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "-90.000000"
@@ -58141,7 +58141,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-35.999557 3480.000488 630.000061"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "-90.000000"
@@ -58701,7 +58701,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "335.999878 524.000122 570.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "-179.999985"
@@ -58742,7 +58742,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "623.999878 524.000122 570.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "-179.999985"
@@ -58777,7 +58777,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-76.000000 1088.000000 702.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "-90.000000"
@@ -58802,7 +58802,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-76.000000 704.000000 702.000000"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "-90.000000"
@@ -58952,7 +58952,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-131.999557 3224.000488 630.000061"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "-90.000000"
@@ -59001,7 +59001,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1231.999878 3180.000000 550.000061"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.400000"
 "angle" "179.999985"

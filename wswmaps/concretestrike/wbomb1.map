@@ -25856,7 +25856,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "2100 524 326"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -25897,7 +25897,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "224 2816 679"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "angle" "-90"
 "modelscale" "0.4"
@@ -26029,7 +26029,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-1540 1924 518"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "2.50448e-006"
@@ -26071,7 +26071,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-228 1636 614"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -26112,7 +26112,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "954.249 1293.99 518"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-126.063"
@@ -26326,7 +26326,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-1024 500 476"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "90"
@@ -26376,7 +26376,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-1244 1212 518"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
@@ -26561,7 +26561,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-36 1860 614"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -26604,7 +26604,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "1612 980 478"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-90"
@@ -26621,7 +26621,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "1396 524 470"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -26697,7 +26697,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "820 1836 654"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 }
@@ -26773,7 +26773,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-1244 1532 518"
-"model" "models/mapobjects/lights/light_bulb_lamp_with_halo.ase"
+"model" "models/mapobjects/lights/light_bulb_lamp.ase"
 "spawnflags" "4"
 "modelscale" "0.4"
 "angle" "-180"
