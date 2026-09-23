@@ -4424,7 +4424,7 @@ metal/orangewall
 }
 // brush 414
 {
-( -312 -680 0 ) ( -312 -704 0 ) ( -328 -680 0 ) decals/trafficline04orange 0 0 0 0.25 0.25 0 0 0
+( -312 -680 0 ) ( -312 -704 0 ) ( -328 -680 0 ) decals/trafficline04redandwhitestripes2 0 0 0 0.25 0.25 0 0 0
 ( -320 -680 136 ) ( -320 -680 -8 ) ( -320 -704 136 ) common/nodrawnonsolid 0 112 0 0.5 0.5 0 0 0
 ( -336 -704 -8 ) ( -320 -704 -8 ) ( -336 -680 -8 ) common/nodrawnonsolid 0 0 0 0.5 0.5 0 0 0
 ( -336 -704 -8 ) ( -336 -704 136 ) ( -320 -704 -8 ) common/nodrawnonsolid 0 112 0 0.5 0.5 0 0 0
@@ -4433,7 +4433,7 @@ metal/orangewall
 }
 // brush 415
 {
-( -400 -680 0 ) ( -400 -696 0 ) ( -440 -680 0 ) decals/trafficline04orange 32 0 0 0.25 0.25 0 0 0
+( -400 -680 0 ) ( -400 -696 0 ) ( -440 -680 0 ) decals/trafficline04redandwhitestripes2 32 0 0 0.25 0.25 0 0 0
 ( -424 -560 0 ) ( -424 -560 -8 ) ( -424 -576 0 ) common/nodrawnonsolid 0 112 0 0.5 0.5 0 0 0
 ( -440 -696 -8 ) ( -400 -696 -8 ) ( -440 -680 -8 ) common/nodrawnonsolid 0 0 0 0.5 0.5 0 0 0
 ( -440 -704 -8 ) ( -440 -704 0 ) ( -400 -704 -8 ) common/nodrawnonsolid 0 112 0 0.5 0.5 0 0 0
@@ -4442,7 +4442,7 @@ metal/orangewall
 }
 // brush 416
 {
-( -320 -560 0 ) ( -320 -576 0 ) ( -440 -560 0 ) decals/trafficline04orange 0 0 90 0.25 0.25 0 0 0
+( -320 -560 0 ) ( -320 -576 0 ) ( -440 -560 0 ) decals/trafficline04redandwhitestripes2 0 0 90 0.25 0.25 0 0 0
 ( -320 -560 0 ) ( -440 -560 0 ) ( -320 -560 -8 ) common/nodrawnonsolid 0 112 0 0.5 0.5 0 0 0
 ( -440 -576 -8 ) ( -320 -576 -8 ) ( -440 -560 -8 ) common/nodrawnonsolid 0 0 0 0.5 0.5 0 0 0
 ( -440 -576 -8 ) ( -440 -576 0 ) ( -320 -576 -8 ) common/nodrawnonsolid 0 112 0 0.5 0.5 0 0 0
