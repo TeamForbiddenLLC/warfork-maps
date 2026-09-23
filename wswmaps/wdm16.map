@@ -10048,7 +10048,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "344.151947 -1515.767578 -13.482925"
-"model" "models/mapobjects/wsw_city1/handrail_1.ase"
+"model" "models/mapobjects/handrails/handrail_1.ase"
 "angles" "13.143616 19.261398 -13.219056"
 "spawnflags" "6"
 }
@@ -10056,14 +10056,14 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "208.000000 -1552.000000 8.000000"
-"model" "models/mapobjects/wsw_city1/handrail_1.ase"
+"model" "models/mapobjects/handrails/handrail_1.ase"
 "spawnflags" "6"
 }
 // entity 199
 {
 "classname" "misc_model"
 "origin" "1264.000000 -1056.000000 -312.000000"
-"model" "models/mapobjects/wsw_city1/handrail_1.ase"
+"model" "models/mapobjects/handrails/handrail_1.ase"
 "spawnflags" "6"
 "angle" "-90.000000"
 }
@@ -10071,14 +10071,14 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "256.000000 -80.000000 -248.000000"
-"model" "models/mapobjects/wsw_city1/handrail_1.ase"
+"model" "models/mapobjects/handrails/handrail_1.ase"
 "spawnflags" "6"
 }
 // entity 201
 {
 "classname" "misc_model"
 "origin" "-48.000000 -384.000000 -248.000000"
-"model" "models/mapobjects/wsw_city1/handrail_1.ase"
+"model" "models/mapobjects/handrails/handrail_1.ase"
 "spawnflags" "6"
 "angle" "-90.000000"
 }

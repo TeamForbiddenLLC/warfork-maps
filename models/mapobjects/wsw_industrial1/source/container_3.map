@@ -507,7 +507,7 @@ exwsw/eX_trim_support_03_thin
 // entity 1
 {
 "classname" "misc_model"
-"model" "models/mapobjects/wsw_city1/handrail_1.ase"
+"model" "models/mapobjects/handrails/handrail_1.ase"
 "angles" "0.000003 -179.999985 0.000010"
 "origin" "8.000000 119.999992 -63.999996"
 "modelscale_vec" "0.700000 1.000000 1.000000"

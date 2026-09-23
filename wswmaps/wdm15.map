@@ -10771,7 +10771,7 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 {
 "classname" "misc_model"
 "origin" "-768 -2304 -640"
-"model" "models/mapobjects/wsw_city1/citadel_opt.ase"
+"model" "models/mapobjects/wdm15/citadel_opt.ase"
 "modelscale" "0.1"
 "_lightmapscale" "0.1"
 "spawnflags" "5"

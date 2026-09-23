@@ -33681,7 +33681,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-979.999939 624.000061 456.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_1.ase"
+"model" "models/mapobjects/handrails/cx_decor_1.ase"
 "angle" "-179.999985"
 "spawnflags" "2"
 }
@@ -33689,7 +33689,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-1168.000000 803.999878 456.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_1.ase"
+"model" "models/mapobjects/handrails/cx_decor_1.ase"
 "angle" "90.000015"
 "spawnflags" "2"
 }
@@ -33697,7 +33697,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-1168.000000 947.999878 456.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_1.ase"
+"model" "models/mapobjects/handrails/cx_decor_1.ase"
 "angle" "90.000015"
 "spawnflags" "2"
 }
@@ -33705,7 +33705,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-1810.000000 654.000000 645.500000"
-"model" "models/mapobjects/wsw_city1/cx_decor_1.ase"
+"model" "models/mapobjects/handrails/cx_decor_1.ase"
 "angle" "-45.109974"
 "modelscale" "0.850000"
 }
@@ -33713,7 +33713,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-1650.000000 494.000000 645.500000"
-"model" "models/mapobjects/wsw_city1/cx_decor_1.ase"
+"model" "models/mapobjects/handrails/cx_decor_1.ase"
 "angle" "-45.109974"
 "modelscale" "0.850000"
 }

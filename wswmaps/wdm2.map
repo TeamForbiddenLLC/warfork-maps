@@ -34849,7 +34849,7 @@ metal/metalbaseyellow0033
 {
 "classname" "misc_model"
 "origin" "-392.000000 688.000000 176.000000"
-"model" "models/mapobjects/boqu/fusebox.ase"
+"model" "models/mapobjects/boqu/fusebox.obj"
 "spawnflags" "4"
 "modelscale" "2.000000"
 }
@@ -34857,7 +34857,7 @@ metal/metalbaseyellow0033
 {
 "classname" "misc_model"
 "origin" "-440.000000 688.000000 176.000000"
-"model" "models/mapobjects/boqu/fusebox.ase"
+"model" "models/mapobjects/boqu/fusebox.obj"
 "spawnflags" "4"
 "modelscale" "2.000000"
 }
@@ -35064,7 +35064,7 @@ metal/metalbaseyellow0033
 {
 "classname" "misc_model"
 "origin" "24.000000 280.000000 852.000000"
-"model" "models/mapobjects/boqu/fusebox.ase"
+"model" "models/mapobjects/boqu/fusebox.obj"
 "spawnflags" "4"
 "modelscale" "2.000000"
 }

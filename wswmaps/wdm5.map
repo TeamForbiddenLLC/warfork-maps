@@ -23769,7 +23769,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "12"
 "angle" "3.243490"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1295.999756 111.999908 471.999969"
 "collisiontype" "none"
 }
@@ -23777,7 +23777,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1024.000000 -640.000000 416.000000"
 "collisiontype" "none"
 }
@@ -23785,7 +23785,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "960.000000 -640.000000 416.000000"
 "collisiontype" "none"
 }
@@ -23819,7 +23819,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1184.000000 -608.000000 416.000000"
 "collisiontype" "none"
 }
@@ -23829,7 +23829,7 @@ brushDef
 "angle" "27.656191"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "640.000000 -823.999939 371.999969"
 "collisiontype" "none"
 }
@@ -23839,7 +23839,7 @@ brushDef
 "angle" "-5.450618"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "616.000000 -728.000061 372.000031"
 "collisiontype" "none"
 }
@@ -23849,7 +23849,7 @@ brushDef
 "angle" "-59.495140"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "600.000061 -783.999939 371.999969"
 "collisiontype" "none"
 }
@@ -23859,7 +23859,7 @@ brushDef
 "angle" "24.358530"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "520.000000 -728.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23868,7 +23868,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "304.000000 -728.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23877,7 +23877,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "544.000000 -848.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23886,7 +23886,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "568.000000 -704.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23895,7 +23895,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "576.000000 -848.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23904,7 +23904,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "656.000000 -712.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23913,7 +23913,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "656.000000 -744.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23922,7 +23922,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "480.000000 -800.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23932,7 +23932,7 @@ brushDef
 "angle" "17.183821"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "133.999985 -821.999878 371.999969"
 "collisiontype" "none"
 }
@@ -23941,7 +23941,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "272.000000 -784.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23950,7 +23950,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "272.000000 -816.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23959,7 +23959,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "304.000000 -816.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23968,7 +23968,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "48.000000 -496.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23978,7 +23978,7 @@ brushDef
 "angles" "50.899265 0.000000 0.000000"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "-20.895830 -576.000000 386.522705"
 "collisiontype" "none"
 }
@@ -23988,7 +23988,7 @@ brushDef
 "angle" "-13.114417"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "73.999985 -724.000000 372.000000"
 "collisiontype" "none"
 }
@@ -23997,7 +23997,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "400.000000 -816.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24006,7 +24006,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "272.000000 -696.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24015,7 +24015,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "304.000000 -696.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24024,7 +24024,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "336.000000 -696.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24033,7 +24033,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "368.000000 -696.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24042,7 +24042,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "400.000000 -696.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24051,7 +24051,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "368.000000 -848.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24060,7 +24060,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "400.000000 -848.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24069,7 +24069,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "432.000000 -848.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24078,7 +24078,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "208.000000 -688.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24087,7 +24087,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "176.000000 -528.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24096,7 +24096,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "112.000000 -528.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24105,7 +24105,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "80.000000 -528.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24114,7 +24114,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "96.000000 -496.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24123,7 +24123,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "16.000000 -528.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24132,7 +24132,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "208.000000 -544.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24141,7 +24141,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "320.000000 -536.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24150,7 +24150,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "320.000000 -504.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24159,7 +24159,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "336.000000 -440.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24168,7 +24168,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "304.000000 -420.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24185,7 +24185,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "320.000000 -472.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24194,7 +24194,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "288.000000 -520.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24203,7 +24203,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "288.000000 -488.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24231,7 +24231,7 @@ brushDef
 "angle" "-22.702705"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "228.000000 -472.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24240,7 +24240,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "224.000000 -420.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24250,7 +24250,7 @@ brushDef
 "angle" "-25.916651"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "316.000000 -384.000000 371.999969"
 "collisiontype" "none"
 }
@@ -24568,7 +24568,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "72.000000 -760.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24628,7 +24628,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "12"
 "angle" "31.420807"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1328.000000 -584.000000 416.000000"
 "collisiontype" "none"
 }
@@ -24637,7 +24637,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "12"
 "angle" "44.963554"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "991.999939 159.999924 472.000061"
 "collisiontype" "none"
 }
@@ -24646,7 +24646,7 @@ brushDef
 "classname" "misc_model"
 "angles" "79.380013 179.378265 -0.614953"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1350.000122 -196.000580 496.000580"
 "collisiontype" "none"
 }
@@ -24655,7 +24655,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "12"
 "angle" "31.420807"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1235.500000 57.499969 472.000000"
 "collisiontype" "none"
 }
@@ -24664,7 +24664,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "12"
 "angle" "3.243490"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1331.999756 47.999912 471.999969"
 "collisiontype" "none"
 }
@@ -24673,7 +24673,7 @@ brushDef
 "classname" "misc_model"
 "angles" "79.380013 179.378265 -0.614953"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1364.000122 -222.000580 496.000580"
 "collisiontype" "none"
 }
@@ -24682,7 +24682,7 @@ brushDef
 "classname" "misc_model"
 "angles" "79.380013 179.378265 -0.614953"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1360.000122 -154.000580 496.000580"
 "collisiontype" "none"
 }
@@ -24719,7 +24719,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "32.000000 -720.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24728,7 +24728,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "-16.000000 -656.000000 372.000000"
 "collisiontype" "none"
 }
@@ -24738,7 +24738,7 @@ brushDef
 "angles" "50.899265 0.000000 0.000000"
 "modelscale" "0.500000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "-20.895830 -616.000000 386.522705"
 "collisiontype" "none"
 }
@@ -24876,7 +24876,7 @@ brushDef
 "classname" "misc_model"
 "angle" "-112.702698"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1123.999878 1440.000000 608.000000"
 "collisiontype" "none"
 }
@@ -24885,7 +24885,7 @@ brushDef
 "classname" "misc_model"
 "angle" "-90.000000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1304.000000 1296.000000 608.000000"
 "collisiontype" "none"
 }
@@ -24894,7 +24894,7 @@ brushDef
 "classname" "misc_model"
 "angle" "-115.916656"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1168.000244 1304.000366 608.000000"
 "collisiontype" "none"
 }
@@ -24938,7 +24938,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "90.000008"
-"model" "models/mapobjects/wsw_city1/firewalk_1_low.ase"
+"model" "models/mapobjects/wsw_city/firewalk_1.ase"
 "origin" "967.999878 1568.000000 968.000000"
 "collisiontype" "none"
 }
@@ -24957,7 +24957,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "90.000008"
-"model" "models/mapobjects/wsw_city1/firewalk_1_low.ase"
+"model" "models/mapobjects/wsw_city/firewalk_1.ase"
 "origin" "967.999878 1568.000000 1152.000000"
 }
 // entity 164
@@ -24965,7 +24965,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "90.000008"
-"model" "models/mapobjects/wsw_city1/firewalk_1_low.ase"
+"model" "models/mapobjects/wsw_city/firewalk_1.ase"
 "origin" "967.999878 1568.000000 1344.000000"
 }
 // entity 165
@@ -26541,7 +26541,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1280.000000 -672.000000 416.000000"
 "collisiontype" "none"
 }
@@ -26549,7 +26549,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1128.000000 -696.000000 416.000000"
 "collisiontype" "none"
 }
@@ -27135,7 +27135,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1152.000000 -512.000000 416.000000"
 "collisiontype" "none"
 }
@@ -27143,7 +27143,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/floor_tile_concrete_1.ase"
+"model" "models/mapobjects/wdm5/floor_tile_concrete_1.ase"
 "origin" "1216.000000 -512.000000 416.000000"
 "collisiontype" "none"
 }

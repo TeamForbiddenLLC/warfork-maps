@@ -38786,7 +38786,7 @@ brushDef
 // entity 475
 {
 "classname" "misc_model"
-"model" "models/mapobjects/wsw_city1/handrail_2.ase"
+"model" "models/mapobjects/handrails/handrail_2.ase"
 "origin" "1654.46 1784.53 30.55"
 "modelscale_vec" "2.45538 1.93333 1.81818"
 }

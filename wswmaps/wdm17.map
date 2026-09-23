@@ -12904,7 +12904,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "748.000000 -716.000061 240.000000"
-"model" "models/mapobjects/wdm17/m_handrail_smallcorner.ase"
+"model" "models/mapobjects/handrails/m_handrail_smallcorner.ase"
 "angle" "0.000003"
 "modelscale" "0.350000"
 "spawnflags" "6"
@@ -12944,7 +12944,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "144.000244 -832.000122 224.000015"
-"model" "models/mapobjects/wdm17/m_handrail1_long.ase"
+"model" "models/mapobjects/handrails/m_handrail1_long.ase"
 "modelscale" "0.350000"
 "angle" "-135.193192"
 "spawnflags" "6"
@@ -13118,7 +13118,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "883.999878 -939.999878 240.000000"
-"model" "models/mapobjects/wdm17/m_handrail_smallcorner.ase"
+"model" "models/mapobjects/handrails/m_handrail_smallcorner.ase"
 "angle" "-90.000000"
 "modelscale" "0.350000"
 }
@@ -13150,7 +13150,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "1128.000000 -832.000000 224.000000"
-"model" "models/mapobjects/wdm17/m_handrail_1small.ase"
+"model" "models/mapobjects/handrails/m_handrail_1small.ase"
 "angle" "-90.000000"
 "spawnflags" "4"
 "modelscale" "0.350000"
@@ -13159,7 +13159,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "524.000000 -692.000000 240.000000"
-"model" "models/mapobjects/wdm17/m_handrail_smallcorner.ase"
+"model" "models/mapobjects/handrails/m_handrail_smallcorner.ase"
 "angle" "90.000000"
 "modelscale" "0.350000"
 "spawnflags" "6"
@@ -13428,7 +13428,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "1044.000000 -772.000000 416.000000"
-"model" "models/mapobjects/wdm17/m_handrail1_long.ase"
+"model" "models/mapobjects/handrails/m_handrail1_long.ase"
 "modelscale" "0.330000"
 "spawnflags" "4"
 }
@@ -14243,7 +14243,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-932.000000 -1072.000000 160.000000"
-"model" "models/mapobjects/wdm17/m_handrail_1small.ase"
+"model" "models/mapobjects/handrails/m_handrail_1small.ase"
 "angle" "-90.000000"
 "modelscale" "0.330000"
 "spawnflags" "6"
@@ -14746,7 +14746,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-519.999939 -136.000122 128.000000"
-"model" "models/mapobjects/wdm17/m_handrail1_long.ase"
+"model" "models/mapobjects/handrails/m_handrail1_long.ase"
 "angle" "89.999992"
 "modelscale" "0.350000"
 "spawnflags" "4"
@@ -15279,7 +15279,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "671.999817 127.999771 416.000000"
-"model" "models/mapobjects/wdm17/m_handrail1_long.ase"
+"model" "models/mapobjects/handrails/m_handrail1_long.ase"
 "modelscale" "0.350000"
 "angle" "134.806808"
 "spawnflags" "4"
@@ -15443,7 +15443,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-741.000244 -901.000061 199.000000"
-"model" "models/mapobjects/wdm17/m_handrail_upwards.ase"
+"model" "models/mapobjects/handrails/m_handrail_upwards.ase"
 "angle" "-90.000000"
 "spawnflags" "4"
 "modelscale" "0.330000"
@@ -15452,7 +15452,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-662.000000 -826.000000 127.000000"
-"model" "models/mapobjects/wdm17/m_handrail_upwards.ase"
+"model" "models/mapobjects/handrails/m_handrail_upwards.ase"
 "angle" "-179.999985"
 "spawnflags" "4"
 "modelscale" "0.330000"
@@ -15461,7 +15461,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-329.999969 87.999969 167.000000"
-"model" "models/mapobjects/wdm17/m_handrail_upwards.ase"
+"model" "models/mapobjects/handrails/m_handrail_upwards.ase"
 "angle" "0.000009"
 "spawnflags" "4"
 "modelscale" "0.330000"
@@ -15470,7 +15470,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-329.999969 233.999969 167.000000"
-"model" "models/mapobjects/wdm17/m_handrail_upwards.ase"
+"model" "models/mapobjects/handrails/m_handrail_upwards.ase"
 "angle" "0.000009"
 "spawnflags" "4"
 "modelscale" "0.330000"
@@ -15479,7 +15479,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-275.313629 27.313446 208.000015"
-"model" "models/mapobjects/wdm17/m_handrail1_long.ase"
+"model" "models/mapobjects/handrails/m_handrail1_long.ase"
 "modelscale" "0.300000"
 "angle" "179.806824"
 "spawnflags" "4"
@@ -16073,7 +16073,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "56.000000 -1112.000000 240.000000"
-"model" "models/mapobjects/wdm17/m_handrail1_long.ase"
+"model" "models/mapobjects/handrails/m_handrail1_long.ase"
 "angle" "-90.000000"
 "modelscale" "0.350000"
 "spawnflags" "4"
