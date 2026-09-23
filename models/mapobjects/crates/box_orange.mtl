@@ -1,0 +1,17 @@
+# Exported by Gskelview
+
+newmtl textures/blx_wtest3/blx_wt3_floor4
+Ka 1.0 1.0 1.0
+Kd 1 1 1
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/blx_wtest3/blx_wt3_floor4
+
+newmtl textures/exwsw/eXmetal_plate01c
+Ka 1.0 1.0 1.0
+Kd 1 0.847309 0.669733
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/exwsw/eXmetal_plate01c

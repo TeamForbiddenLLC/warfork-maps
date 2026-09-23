@@ -22591,16 +22591,16 @@ bricks/redbricks_base_02
 // entity 399
 {
 "classname" "misc_model"
-"origin" "80.375 736 -181.625"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "80.375 736 -183.625"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "90"
 "spawnflags" "4"
 }
 // entity 400
 {
 "classname" "misc_model"
-"origin" "768 1296 202.375"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "768 1296 200.375"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-180"
 "spawnflags" "4"
 }
@@ -22635,8 +22635,8 @@ bricks/redbricks_base_02
 // entity 404
 {
 "classname" "misc_model"
-"origin" "208.375 96 -181.625"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "208.375 96 -183.625"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "90"
 "spawnflags" "4"
 }

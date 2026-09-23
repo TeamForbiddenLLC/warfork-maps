@@ -33598,8 +33598,8 @@ blx_wtest3/blx_wt3_pillar
 // entity 101
 {
 "classname" "misc_model"
-"origin" "-1064.000000 1640.000000 394.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-1064.000000 1640.000000 392.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "44.999985"
 }
 // entity 102
@@ -33721,28 +33721,28 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-2024.000000 -384.000000 624.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "angle" "5.334200"
 }
 // entity 118
 {
 "classname" "misc_model"
 "origin" "-2000.000000 -544.000000 624.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "angle" "-5.210562"
 }
 // entity 119
 {
 "classname" "misc_model"
 "origin" "448.000000 736.000000 464.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "angle" "-4.792624"
 }
 // entity 120
 {
 "classname" "misc_model"
 "origin" "424.000000 584.000000 464.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "angle" "0.839951"
 }
 // entity 121
@@ -33756,7 +33756,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "1036.000000 126.111931 63.060402"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "angles" "-0.000000 0.000000 13.585613"
 }
 // entity 123
@@ -34113,8 +34113,8 @@ blx_wtest3/blx_wt3_pillar
 // entity 168
 {
 "classname" "misc_model"
-"origin" "-1832.077026 2087.952637 7.896703"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-1832.077026 2087.952637 5.896703"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angles" "-1.923935 45.112785 2.806958"
 }
 // entity 169
@@ -35443,8 +35443,8 @@ exwsw/eX_trim_support_03_thin
 // entity 275
 {
 "classname" "misc_model"
-"origin" "-199.999756 -2200.000000 138.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-199.999756 -2200.000000 136.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-90.000000"
 }
 // entity 276

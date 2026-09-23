@@ -10903,8 +10903,8 @@ decals/poster_weapons
 // entity 3
 {
 "classname" "misc_model"
-"origin" "-243 64 -118.5"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-243 64 -120.5"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "90"
 "modelscale" "0.9375"
 }
@@ -10935,8 +10935,8 @@ decals/poster_weapons
 // entity 6
 {
 "classname" "misc_model"
-"origin" "632 636 -214.5"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "632 636 -216.5"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "2.50448e-006"
 "modelscale" "0.9375"
 }
@@ -10967,8 +10967,8 @@ decals/poster_weapons
 // entity 9
 {
 "classname" "misc_model"
-"origin" "1140.5 975 -262.5"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "1140.5 975 -264.5"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-90"
 "modelscale" "0.9375"
 }

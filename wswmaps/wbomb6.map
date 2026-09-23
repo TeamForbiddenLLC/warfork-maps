@@ -53534,8 +53534,8 @@ concrete/concreteclean
 // entity 54
 {
 "classname" "misc_model"
-"origin" "1680 2272 -85.625"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "1680 2272 -87.625"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-90"
 "spawnflags" "4"
 }
@@ -54336,7 +54336,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1274 2067 91"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -54352,7 +54352,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "1856 3384 172"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "spawnflags" "6"
 "modelscale" "0.75"
 }
@@ -54360,7 +54360,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1268 2069 163"
-"model" "models/mapobjects/depot/metal_plates.ase"
+"model" "models/mapobjects/industrial/metalplaques_2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -54439,7 +54439,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-960 2456 -20"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -54484,7 +54484,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1258 1728 91"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 }
@@ -54492,7 +54492,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-948 2454 52"
-"model" "models/mapobjects/depot/metal_plates.ase"
+"model" "models/mapobjects/industrial/metalplaques_2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 }
@@ -54725,7 +54725,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-568 -88 76"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "spawnflags" "4"
 "modelscale" "0.75"
 "angle" "-90"
@@ -54734,7 +54734,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-570 -100 148"
-"model" "models/mapobjects/depot/metal_plates.ase"
+"model" "models/mapobjects/industrial/metalplaques_2.obj"
 "modelscale" "0.75"
 "spawnflags" "4"
 "angle" "-90"
@@ -56543,7 +56543,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-808 1760 100"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "spawnflags" "4"
 }
 // entity 433
@@ -58285,7 +58285,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1596.000000 3654.000000 132.000000"
-"model" "models/mapobjects/depot/metal_plates.ase"
+"model" "models/mapobjects/industrial/metalplaques_2.obj"
 "modelscale" "0.750000"
 "spawnflags" "4"
 }

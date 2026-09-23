@@ -24081,8 +24081,8 @@ common/fullclip
 // entity 50
 {
 "classname" "misc_model"
-"origin" "1048 -568 -38"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "1048 -568 -40"
+"model" "models/mapobjects/jumppad1/models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-90"
 }
 // entity 51
@@ -24794,8 +24794,8 @@ common/fullclip
 // entity 57
 {
 "classname" "misc_model"
-"origin" "-1144 -600 32"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-1144 -600 30"
+"model" "models/mapobjects/jumppad1/models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-180"
 }
 // entity 58
@@ -26511,7 +26511,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-1792.000000 2260.000000 224.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "modelscale" "0.750000"
 "angle" "5.059147"
 }
@@ -29167,14 +29167,14 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-1792.000000 2152.000000 272.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "modelscale" "0.750000"
 }
 // entity 450
 {
 "classname" "misc_model"
 "origin" "-1792.000000 2152.000000 224.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "modelscale" "0.750000"
 }
 // entity 451

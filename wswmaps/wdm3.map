@@ -12237,16 +12237,16 @@ blx_wtest3/blx_wt3_dgrey
 // entity 48
 {
 "classname" "misc_model"
-"origin" "1040 -288 -22"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "1040 -288 -24"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "90"
 "spawnflags" "4"
 }
 // entity 49
 {
 "classname" "misc_model"
-"origin" "-708 -48 18"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-708 -48 16"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "90"
 "spawnflags" "4"
 }

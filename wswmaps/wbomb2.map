@@ -24571,8 +24571,8 @@ terrain/rocks006_512x512
 // entity 88
 {
 "classname" "misc_model"
-"origin" "1040 -1584 43"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "1040 -1584 41"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "3e-006"
 }
 // entity 89
@@ -24613,8 +24613,8 @@ terrain/rocks006_512x512
 // entity 94
 {
 "classname" "misc_model"
-"origin" "592.000000 -1248.000000 42.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "592.000000 -1248.000000 40.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-90.000000"
 }
 // entity 95
@@ -25913,8 +25913,8 @@ terrain/rocks006_512x512
 // entity 287
 {
 "classname" "misc_model"
-"origin" "-2224 -2368 43"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-2224 -2368 41"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-90"
 }
 // entity 288
@@ -25997,8 +25997,8 @@ terrain/rocks006_512x512
 // entity 299
 {
 "classname" "misc_model"
-"origin" "-512 -2912 43"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-512 -2912 41"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-90"
 }
 // entity 300
@@ -26506,8 +26506,8 @@ terrain/rocks006_512x512
 // entity 370
 {
 "classname" "misc_model"
-"origin" "-1920 -3368 43"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-1920 -3368 41"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-180"
 }
 // entity 371

@@ -6357,7 +6357,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "-300.000000 -360.000000 28.000000"
-"model" "models/mapobjects/wsw_city1/barrel_1.obj"
+"model" "models/mapobjects/industrial/barrel_2.obj"
 "spawnflags" "12"
 }
 // entity 56
@@ -6799,7 +6799,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "-815.999939 -648.000000 44.000122"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "modelscale" "1.500000"
 "angle" "-82.857971"
 "spawnflags" "12"

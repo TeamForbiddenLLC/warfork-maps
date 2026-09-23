@@ -22891,7 +22891,7 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "760.000000 -1864.000122 16.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "angle" "0.000010"
 }
 // entity 895
@@ -22914,14 +22914,14 @@ wsw_city1/wires3
 {
 "classname" "misc_model"
 "origin" "760.000000 -2216.000244 -144.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "angle" "0.000003"
 }
 // entity 898
 {
 "classname" "misc_model"
 "origin" "760.000000 -2024.000122 16.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "angle" "0.000003"
 }
 // entity 899

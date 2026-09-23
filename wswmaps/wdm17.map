@@ -14129,8 +14129,8 @@ common/fullclip
 // entity 225
 {
 "classname" "misc_model"
-"origin" "-824.000000 -591.999817 8.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-824.000000 -591.999817 6.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "modelscale" "0.900000"
 "spawnflags" "4"
 "angle" "90.000000"

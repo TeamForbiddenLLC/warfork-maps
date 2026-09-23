@@ -17752,16 +17752,16 @@ brushDef
 // entity 113
 {
 "classname" "misc_model"
-"origin" "-323.000000 1015.000000 10.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-323.000000 1015.000000 8.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "spawnflags" "4"
 "angle" "45.000000"
 }
 // entity 114
 {
 "classname" "misc_model"
-"origin" "638.000000 -191.000000 -310.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "638.000000 -191.000000 -312.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "spawnflags" "4"
 "angles" "0 90 0"
 }
@@ -17857,8 +17857,8 @@ brushDef
 // entity 126
 {
 "classname" "misc_model"
-"origin" "-1128.000000 840.000000 -310.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-1128.000000 840.000000 -312.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angles" "0 45 0"
 "spawnflags" "4"
 }

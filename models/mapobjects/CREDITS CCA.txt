@@ -1,0 +1,44 @@
+A series of models in this directory are used under the Creative Commons Attribution License which grants permission to use and modify them for non commercial purposes as long as proper credit to the original author is given.
+
+https://creativecommons.org/licenses/by/4.0/
+
+This is the list of models and the corresponding credit:
+
+
+- models/mapobjects/industrial/barrel_1
+"DOOM Barrels" (https://skfb.ly/6ACYJ) by Ilya Ostrovsky is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+The model texture maps have been modified to adapt to the game.
+
+- models/mapobjects/industrial/barrel_2
+- models/mapobjects/industrial/canister_1
+- models/mapobjects/industrial/crate_color
+- models/mapobjects/industrial/crate_dark
+- models/mapobjects/industrial/propanebottlebig
+- models/mapobjects/industrial/portector_harness_cyllinder
+"LowPoly SciFi Containers Pack" (https://skfb.ly/6YBZX) by Raoul_in_Red is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+The models have been isolated and their texture maps have been modified to adapt to the game.
+
+- models/mapobjects/crates/crate_wood
+"Crate" (https://skfb.ly/pIZqL) by Arch1bold is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+The model texture maps have been modified to adapt to the game.
+
+- models/mapobjects/crates/crate_wood2
+"Random Abandoned Crate" (https://skfb.ly/p9TIq) by joshuagoldenburgh is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+The model texture maps have been modified to adapt to the game.
+
+- models/mapobjects/crates/crate_wood3
+"Wooden Box (game ready asset)" (https://skfb.ly/oMQ8A) by Aparicio Silva 3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+The model texture maps have been modified to adapt to the game.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -16791,8 +16791,8 @@ hexagons/metalcollumn01
 // entity 162
 {
 "classname" "misc_model"
-"origin" "1088 -2104 8"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "1088 -2104 6"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-180"
 "spawnflags" "4"
 }

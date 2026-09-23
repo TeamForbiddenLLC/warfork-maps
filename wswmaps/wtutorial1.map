@@ -24236,7 +24236,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "256.000000 -1603.999878 41.000000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "angle" "-2.585135"
 "spawnflags" "4"
 }
@@ -24244,7 +24244,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "242.000000 -1544.000000 41.000000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "angle" "3.306569"
 "spawnflags" "4"
 }
@@ -24559,7 +24559,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "1376.000000 2272.000000 29.000000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "spawnflags" "4"
 }
 // entity 227
@@ -25453,14 +25453,14 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-56.000000 -1616.000000 41.000000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "spawnflags" "4"
 }
 // entity 239
 {
 "classname" "misc_model"
 "origin" "264.000000 -1556.000000 97.000000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "angle" "-25.147516"
 "spawnflags" "4"
 }
@@ -26287,7 +26287,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-1848.000000 1484.000000 43.500000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "modelscale" "1.500000"
 "angle" "13.477033"
 "spawnflags" "4"
@@ -26320,7 +26320,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-2016.000000 1500.000122 29.000000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "angle" "-2.585135"
 "spawnflags" "4"
 }
@@ -27011,8 +27011,8 @@ plastic/grey50
 // entity 432
 {
 "classname" "misc_model"
-"origin" "-2298.000488 2848.000000 10.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-2298.000488 2848.000000 8.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "90.000000"
 "spawnflags" "4"
 }
@@ -27020,7 +27020,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-2231.999756 2034.000244 29.000000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "spawnflags" "4"
 "angle" "93.306564"
 }
@@ -27036,7 +27036,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-2220.000000 2056.000000 85.000000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "spawnflags" "4"
 "angle" "64.852478"
 }
@@ -27060,7 +27060,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-2154.818848 2008.709473 85.000000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "spawnflags" "4"
 "angle" "73.689072"
 }
@@ -27316,7 +27316,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "-1792.000000 2908.000000 29.000000"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "spawnflags" "4"
 "angle" "-2.585135"
 }

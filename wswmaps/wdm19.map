@@ -10197,8 +10197,8 @@ exwsw/eX_wall_01_big
 // entity 110
 {
 "classname" "misc_model"
-"origin" "-432 1088 -118"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-432 1088 -120"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "90"
 "spawnflags" "4"
 }
@@ -10650,8 +10650,8 @@ exwsw/eX_wall_01_big
 // entity 170
 {
 "classname" "misc_model"
-"origin" "-31.999992 -312.000000 -120.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-31.999992 -312.000000 -122.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-179.999985"
 }
 // entity 171

@@ -16549,7 +16549,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "-776.000000 1072.000000 285.000122"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "angle" "-86.627312"
 "spawnflags" "12"
 }
@@ -16557,7 +16557,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "-472.000000 1120.000000 268.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2.obj"
+"model" "models/mapobjects/industrial/metalplaques_1.obj"
 "spawnflags" "6"
 "modelscale" "0.750000"
 "angle" "-90.000000"
@@ -16566,7 +16566,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "-474.000000 1108.000000 340.000000"
-"model" "models/mapobjects/depot/metal_plates.ase"
+"model" "models/mapobjects/industrial/metalplaques_2.obj"
 "modelscale" "0.750000"
 "spawnflags" "6"
 "angle" "-90.000000"
@@ -16896,7 +16896,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "-336.000000 -24.000000 77.000122"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "angle" "-82.857971"
 "spawnflags" "12"
 }
@@ -16904,7 +16904,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "-304.000000 -88.000000 77.000122"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "angle" "-82.857971"
 "spawnflags" "12"
 }
@@ -16912,7 +16912,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "-320.000000 -48.000000 133.000122"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "angle" "-82.857971"
 "spawnflags" "12"
 }
@@ -17423,7 +17423,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "739.094116 -162.535034 532.000000"
-"model" "models/mapobjects/wsw_city1/barrel_1.obj"
+"model" "models/mapobjects/industrial/barrel_2.obj"
 "spawnflags" "12"
 "angle" "-39.328247"
 }
@@ -17431,7 +17431,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "684.000000 -144.000000 532.000000"
-"model" "models/mapobjects/wsw_city1/barrel_1.obj"
+"model" "models/mapobjects/industrial/barrel_2.obj"
 "spawnflags" "12"
 }
 // entity 196
@@ -17524,7 +17524,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "1016.000000 456.000000 533.000122"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "angle" "-82.857971"
 "spawnflags" "12"
 }
@@ -17532,7 +17532,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "1016.000061 384.000122 533.000122"
-"model" "models/mapobjects/crates/box_orange.ase"
+"model" "models/mapobjects/industrial/crate_color.obj"
 "angle" "-149.666992"
 "spawnflags" "12"
 }
@@ -18312,14 +18312,14 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "-988.000000 736.000000 292.000000"
-"model" "models/mapobjects/wsw_city1/barrel_1.obj"
+"model" "models/mapobjects/industrial/barrel_2.obj"
 "spawnflags" "12"
 }
 // entity 306
 {
 "classname" "misc_model"
 "origin" "-956.853027 666.469116 292.000000"
-"model" "models/mapobjects/wsw_city1/barrel_1.obj"
+"model" "models/mapobjects/industrial/barrel_2.obj"
 "spawnflags" "12"
 "angle" "38.117466"
 }

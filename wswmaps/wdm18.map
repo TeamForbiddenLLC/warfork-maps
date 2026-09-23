@@ -11790,8 +11790,8 @@ wdm9/item_indi_1
 // entity 1
 {
 "classname" "misc_model"
-"origin" "1208.000000 8.000000 -54.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "1208.000000 8.000000 -56.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-90.000000"
 }
 // entity 2
@@ -12161,8 +12161,8 @@ wdm9/item_indi_1
 // entity 56
 {
 "classname" "misc_model"
-"origin" "200.000000 448.000000 -54.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "200.000000 448.000000 -56.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "90.000000"
 }
 // entity 57
@@ -12191,8 +12191,8 @@ wdm9/item_indi_1
 // entity 59
 {
 "classname" "misc_model"
-"origin" "-120.000000 48.000000 -54.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "-120.000000 48.000000 -56.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "0.000003"
 }
 // entity 60
@@ -12226,8 +12226,8 @@ wdm9/item_indi_1
 // entity 63
 {
 "classname" "misc_model"
-"origin" "55.999992 -1152.000000 -88.000000"
-"model" "models/mapobjects/jumppad1/jumppad1.md3"
+"origin" "55.999992 -1152.000000 -90.000000"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "angle" "-90.000000"
 }
 // entity 64

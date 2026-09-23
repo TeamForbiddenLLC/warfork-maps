@@ -18732,7 +18732,7 @@ scifi_interior/basesilver
 {
 patchDef2
 {
-concrete/concretebunker0068_nobump
+concrete/concreteclean
 ( 9 3 0 0 0 )
 (
 ( ( -988 -2535 -640 0 0 ) ( -988 -2535 -529 0 -0.43359375 ) ( -988 -2535 -418 0 -0.8671875 ) )
@@ -18762,7 +18762,7 @@ concrete/concretebunker0068_nobump
 {
 patchDef2
 {
-concrete/concretebunker0068_nobump
+concrete/concreteclean
 ( 9 3 0 0 0 )
 (
 ( ( -988 -2279 -640 0 0 ) ( -988 -2279 -529 0 -0.43359375 ) ( -988 -2279 -418 0 -0.8671875 ) )
@@ -18792,7 +18792,7 @@ concrete/concretebunker0068_nobump
 {
 patchDef2
 {
-concrete/concretebunker0068_nobump
+concrete/concreteclean
 ( 9 3 0 0 0 )
 (
 ( ( -988 -2071 -640 0 0 ) ( -988 -2071 -529 0 -0.43359375 ) ( -988 -2071 -418 0 -0.8671875 ) )
@@ -18822,7 +18822,7 @@ concrete/concretebunker0068_nobump
 {
 patchDef2
 {
-concrete/concretebunker0068_nobump
+concrete/concreteclean
 ( 9 3 0 0 0 )
 (
 ( ( -988 -1943 -640 0 0 ) ( -988 -1943 -529 0 -0.43359375 ) ( -988 -1943 -418 0 -0.8671875 ) )
@@ -18852,7 +18852,7 @@ concrete/concretebunker0068_nobump
 {
 patchDef2
 {
-concrete/concretebunker0068_nobump
+concrete/concreteclean
 ( 9 3 0 0 0 )
 (
 ( ( -988 -2727 -640 0 0 ) ( -988 -2727 -529 0 -0.43359375 ) ( -988 -2727 -418 0 -0.8671875 ) )
@@ -18882,7 +18882,7 @@ concrete/concretebunker0068_nobump
 {
 patchDef2
 {
-concrete/concretebunker0068_nobump
+concrete/concreteclean
 ( 9 3 0 0 0 )
 (
 ( ( -988 -2919 -640 0 0 ) ( -988 -2919 -529 0 -0.43359375 ) ( -988 -2919 -418 0 -0.8671875 ) )
@@ -19322,7 +19322,7 @@ scifi_interior/basesilver
 {
 patchDef2
 {
-concrete/concretebunker0068_nobump
+concrete/concreteclean
 ( 9 3 0 0 0 )
 (
 ( ( -1127 -2148 -704 0 0 ) ( -1127 -2148 -529 0 -0.43359375 ) ( -1127 -2148 -354 0 -0.8671875 ) )
@@ -19352,7 +19352,7 @@ concrete/concretebunker0068_nobump
 {
 patchDef2
 {
-concrete/concretebunker0068_nobump
+concrete/concreteclean
 ( 9 3 0 0 0 )
 (
 ( ( -1319 -2148 -704 0 0 ) ( -1319 -2148 -529 0 -0.43359375 ) ( -1319 -2148 -354 0 -0.8671875 ) )
@@ -19409,7 +19409,7 @@ concrete/concretebunker0068_nobump
 {
 patchDef2
 {
-concrete/concretebunker0068_nobump
+concrete/concreteclean
 ( 9 3 0 0 0 )
 (
 ( ( -1527 -2148 -704 0 0 ) ( -1527 -2148 -529 0 -0.43359375 ) ( -1527 -2148 -354 0 -0.8671875 ) )
@@ -20127,7 +20127,7 @@ scifi_interior/basesilver
 {
 patchDef2
 {
-concrete/concretebunker0068_nobump
+concrete/concreteclean
 ( 9 3 0 0 0 )
 (
 ( ( -847 -2148 -704 0 0 ) ( -847 -2148 -529 0 -0.43359375 ) ( -847 -2148 -354 0 -0.8671875 ) )
