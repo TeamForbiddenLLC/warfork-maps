@@ -1,0 +1,10 @@
+newmtl doordouble01right:Door_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd models/mapmodels2026/doordouble01/door_right
+bump  -bm 1 door_right_norm.als.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 20.00

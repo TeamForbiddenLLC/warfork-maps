@@ -299,7 +299,7 @@
 }
 // brush 32
 {
-( 790 676 206 ) ( 790 328 206 ) ( 766 676 206 ) wsw_city1/tech_concrete_tiles 0 0 0 0.5 0.5 0 0 0
+( 790 676 206 ) ( 790 328 206 ) ( 766 676 206 ) tiles/concrete_tiles 0 0 0 0.5 0.5 0 0 0
 ( 776 520 -32 ) ( 752 520 -32 ) ( 776 520 -176 ) blx_grey/blx_grey_grid 0 0 0 0.5 0.5 0 0 0
 ( 808 676 16 ) ( 808 676 -128 ) ( 808 328 16 ) concrete/concretebunker0068 0 0 0 0.5 0.5 0 0 0
 ( 784 328 -208 ) ( 808 328 -208 ) ( 784 676 -208 ) blx_grey/blx_grey_grid 0 0 0 0.5 0.5 0 0 0
@@ -9674,7 +9674,7 @@ wsw_flareshalos/flare_sphere_white
 }
 // brush 1075
 {
-( 790 676 -208 ) ( 790 328 -208 ) ( 766 676 -208 ) wsw_city1/tech_concrete_tiles 0 0 0 0.5 0.5 0 0 0
+( 790 676 -208 ) ( 790 328 -208 ) ( 766 676 -208 ) tiles/concrete_tiles 0 0 0 0.5 0.5 0 0 0
 ( 776 520 -32 ) ( 752 520 -32 ) ( 776 520 -176 ) blx_grey/blx_grey_grid 0 0 0 0.5 0.5 0 0 0
 ( 808 676 16 ) ( 808 676 -128 ) ( 808 328 16 ) concrete/concretebunker0068 0 0 0 0.5 0.5 0 0 0
 ( 784 328 -224 ) ( 808 328 -224 ) ( 784 676 -224 ) blx_grey/blx_grey_grid 0 0 0 0.5 0.5 0 0 0

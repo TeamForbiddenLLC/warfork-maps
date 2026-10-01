@@ -7,11 +7,11 @@
 		*MATERIAL_CLASS "Multi/Sub-Object"
 		*NUMSUBMTLS 2
 		*SUBMATERIAL 0 {
-			*MATERIAL_NAME "textures/metal_vertex/vertex_metalbaseyellow0033"
+			*MATERIAL_NAME "textures/metal/metalbaseyellow0033"
 			*MATERIAL_CLASS "Standard"
 			*MAP_DIFFUSE {
 				*MAP_CLASS "Bitmap"
-				*BITMAP "textures/metal_vertex/vertex_metalbaseyellow0033"
+				*BITMAP "textures/metal/metalbaseyellow0033"
 				*UVW_U_OFFSET 0.0
 				*UVW_V_OFFSET 0.0
 				*UVW_U_TILING 1.0
@@ -19,11 +19,11 @@
 			}
 		}
 		*SUBMATERIAL 1 {
-			*MATERIAL_NAME "textures/metal_vertex/vertex_metalbaseyellow0033dirt"
+			*MATERIAL_NAME "textures/metal/metalbaseyellow0033dirt"
 			*MATERIAL_CLASS "Standard"
 			*MAP_DIFFUSE {
 				*MAP_CLASS "Bitmap"
-				*BITMAP "textures/metal_vertex/vertex_metalbaseyellow0033dirt"
+				*BITMAP "textures/metal/metalbaseyellow0033dirt"
 				*UVW_U_OFFSET 0.0
 				*UVW_V_OFFSET 0.0
 				*UVW_U_TILING 1.0

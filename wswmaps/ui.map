@@ -1397,7 +1397,7 @@ metal/metalrust_iron6
 {
 patchDef2
 {
-wsw_city1/tech_concrete_tiles
+tiles/concrete_tiles
 ( 3 3 0 0 0 )
 (
 ( ( 320 880 32 0 2 ) ( 320 880 184 0 1 ) ( 200 880 184 0 0 ) )
@@ -1436,7 +1436,7 @@ wsw_city1/tech_concrete1
 {
 patchDef2
 {
-wsw_city1/tech_concrete_tiles
+tiles/concrete_tiles
 ( 3 3 0 0 0 )
 (
 ( ( 200 880 184 0 0 ) ( 72 880 184 0 1 ) ( 72 880 32 0 2 ) )
@@ -1452,7 +1452,7 @@ wsw_city1/tech_concrete_tiles
 ( 352 896 0 ) ( 320 896 32 ) ( 320 896 0 ) wsw_city1/tech_concrete1 288 64 0 -0.5 0.5 0 0 0
 ( 352 880 -8 ) ( 320 896 -8 ) ( 320 880 -8 ) wsw_city1/tech_concrete1 160 224 90 0.5 0.5 0 0 0
 ( 352 880 32 ) ( 352 896 32 ) ( 352 896 0 ) wsw_city1/tech_concrete1 160 64 0 0.5 0.5 0 0 0
-( 352 880 32 ) ( 320 880 0 ) ( 320 880 32 ) wsw_city1/tech_concrete_tiles 384 128 0 -0.25 0.25 0 0 0
+( 352 880 32 ) ( 320 880 0 ) ( 320 880 32 ) tiles/concrete_tiles 384 128 0 -0.25 0.25 0 0 0
 }
 // brush 144
 {
@@ -1470,7 +1470,7 @@ wsw_city1/tech_concrete_tiles
 ( 40 896 32 ) ( 40 896 0 ) ( 72 896 32 ) wsw_city1/tech_concrete1 256 64 0 -0.5 0.5 0 0 0
 ( 72 880 -8 ) ( 72 896 -8 ) ( 40 880 -8 ) wsw_city1/tech_concrete1 160 256 90 0.5 0.5 0 0 0
 ( 72 880 0 ) ( 72 880 32 ) ( 72 896 0 ) wsw_city1/tech_concrete1 160 64 0 0.5 0.5 0 0 0
-( 72 880 0 ) ( 40 880 0 ) ( 72 880 32 ) wsw_city1/tech_concrete_tiles 288 128 0 -0.25 0.25 0 0 0
+( 72 880 0 ) ( 40 880 0 ) ( 72 880 32 ) tiles/concrete_tiles 288 128 0 -0.25 0.25 0 0 0
 }
 // brush 146
 {
@@ -1760,7 +1760,7 @@ exwsw/eX_wall_b01
 }
 // brush 166
 {
-( 72 1080 16 ) ( 128 1080 16 ) ( 72 952 16 ) wsw_city1/tech_concrete_tiles 176.8733215332 255.9991607666 90 0.21484375 0.28125 134217728 0 0
+( 72 1080 16 ) ( 128 1080 16 ) ( 72 952 16 ) tiles/concrete_tiles 176.8733215332 255.9991607666 90 0.21484375 0.28125 134217728 0 0
 ( 72 1080 48 ) ( 72 952 48 ) ( 72 1080 0 ) wsw_city1/tech_concrete1 160 96 0 0.5 0.5 134217728 0 0
 ( 72 1392 48 ) ( 72 1392 0 ) ( 128 1392 48 ) wsw_city1/tech_concrete1 256 96 0 -0.5 0.5 134217728 0 0
 ( 128 952 -8 ) ( 128 1080 -8 ) ( 72 952 -8 ) common/caulk 32 0 90 0.5 0.5 134217728 0 0
@@ -1784,7 +1784,7 @@ refly_bricks/bricksdark1
 {
 patchDef2
 {
-wsw_city1/tech_concrete_tiles
+tiles/concrete_tiles
 ( 3 3 0 0 0 )
 (
 ( ( -48 1392 16 -0.09765625 0 ) ( -48 1392 16 -0.09765625 2 ) ( -48 1392 16 -0.09765625 4 ) )

@@ -1,0 +1,16 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.27 0.27 0.27
+Tf 1.00 1.00 1.00
+map_Kd tag_light
+Ni 1.00
+newmtl walllamp1:textures_boqu_models_walllamp1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd models/mapobjects/lights/boqu/walllamp1
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00
