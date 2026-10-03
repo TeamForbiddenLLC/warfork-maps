@@ -12,17 +12,17 @@
 *MATERIAL_LIST	{
 	*MATERIAL_COUNT	6
 	*MATERIAL	0	{
-		*MATERIAL_NAME	"textures/billboard_001/PorkyPie"
+		*MATERIAL_NAME	"textures/billboard_001/neon1"
 		*MATERIAL_CLASS	"Standard"
 		*MATERIAL_DIFFUSE	1.000000	0.250955	0.191464
 		*MATERIAL_SHADING Phong
 		*MAP_DIFFUSE	{
-			*MAP_NAME	"textures/billboard_001/PorkyPie"
+			*MAP_NAME	"textures/billboard_001/neon1"
 			*MAP_CLASS	"Bitmap"
 			*MAP_SUBNO	1
 			*MAP_AMOUNT	1.0
 			*MAP_TYPE	Screen
-			*BITMAP	"textures/billboard_001/PorkyPie"
+			*BITMAP	"textures/billboard_001/neon1"
 			*BITMAP_FILTER	Pyramidal
 		}
 	}
@@ -5073,3 +5073,4 @@
 	*PROP_RECVSHADOW	1
 	*MATERIAL_REF	4
 }
+

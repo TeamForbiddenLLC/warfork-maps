@@ -6529,7 +6529,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "-1328.000000 -776.000061 48.000000"
-"model" "models/mapobjects/wsw_darkcity1/building_gothic.ase"
+"model" "models/mapobjects/wsw_darkcity1/building_gothic_complete.ase"
 "angle" "90.000008"
 "spawnflags" "4"
 "modelscale" "0.750000"
@@ -6989,3 +6989,4 @@ metal/orangewall
 "_color" "1 0.2 0.3"
 "_extradist" "100"
 }
+
