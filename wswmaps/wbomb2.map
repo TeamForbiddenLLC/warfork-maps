@@ -26667,7 +26667,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "-745 -4640 224"
-"model" "models/mapobjects/handrails/handrail_1.ase"
+"model" "models/mapobjects/handrails/handrail_1.obj"
 "angle" "-90"
 }
 // entity 389
@@ -29031,3 +29031,4 @@ concrete/concreteredandwhite
 "angle" "-6.654370"
 "modelscale" "0.750000"
 }
+

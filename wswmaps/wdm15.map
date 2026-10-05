@@ -11283,7 +11283,7 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 {
 "classname" "misc_model"
 "origin" "384.000000 0.000000 1344.000000"
-"model" "models/mapobjects/wsw_darkcity1/lamp_post_single.ase"
+"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -11313,7 +11313,7 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 {
 "classname" "misc_model"
 "origin" "384.000000 128.000000 1344.000000"
-"model" "models/mapobjects/wsw_darkcity1/lamp_post_single.ase"
+"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -11343,7 +11343,7 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 {
 "classname" "misc_model"
 "origin" "384.000000 256.000000 1344.000000"
-"model" "models/mapobjects/wsw_darkcity1/lamp_post_single.ase"
+"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -11416,3 +11416,4 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 "model" "models/mapobjects/wdm6/wdm6_whiteceilinglight1.ase"
 "spawnflags" "4"
 }
+

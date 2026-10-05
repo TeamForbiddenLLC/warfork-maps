@@ -6529,7 +6529,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "-1328.000000 -776.000061 48.000000"
-"model" "models/mapobjects/wsw_darkcity1/building_gothic_complete.ase"
+"model" "models/mapobjects/wsw_darkcity1/building_gothic_complete.obj"
 "angle" "90.000008"
 "spawnflags" "4"
 "modelscale" "0.750000"
@@ -6766,7 +6766,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "-528.000122 -320.000061 368.000000"
-"model" "models/mapobjects/wsw_darkcity1/dmodel_pipe_rusted_2.ase"
+"model" "models/mapobjects/wsw_darkcity1/dmodel_pipe_rusted.ase"
 "angles" "90.000000 0.000000 0.000010"
 "modelscale" "0.500000"
 "spawnflags" "4"
@@ -6989,4 +6989,6 @@ metal/orangewall
 "_color" "1 0.2 0.3"
 "_extradist" "100"
 }
+
+
 
