@@ -72,17 +72,17 @@
 		}
 	}
 	*MATERIAL	4	{
-		*MATERIAL_NAME	"textures/wsw_city1/lighthalo1_high"
+		*MATERIAL_NAME	"textures/halo_large"
 		*MATERIAL_CLASS	"Standard"
 		*MATERIAL_DIFFUSE	1.000000	1.000000	1.000000
 		*MATERIAL_SHADING Phong
 		*MAP_DIFFUSE	{
-			*MAP_NAME	"textures/wsw_city1/lighthalo1_high"
+			*MAP_NAME	"textures/halo_large"
 			*MAP_CLASS	"Bitmap"
 			*MAP_SUBNO	1
 			*MAP_AMOUNT	1.0
 			*MAP_TYPE	Screen
-			*BITMAP	"textures/wsw_city1/lighthalo1_high"
+			*BITMAP	"textures/halo_large"
 			*BITMAP_FILTER	Pyramidal
 		}
 	}
@@ -2346,3 +2346,4 @@
 	*PROP_RECVSHADOW	1
 	*MATERIAL_REF	1
 }
+

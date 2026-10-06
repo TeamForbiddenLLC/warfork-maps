@@ -27,32 +27,32 @@
 		}
 	}
 	*MATERIAL	1	{
-		*MATERIAL_NAME	"textures/wsw_city1/metal1_vertex"
+		*MATERIAL_NAME	"textures/metal/orangewall_vertex"
 		*MATERIAL_CLASS	"Standard"
 		*MATERIAL_DIFFUSE	1.000000	0.493141	0.355252
 		*MATERIAL_SHADING Phong
 		*MAP_DIFFUSE	{
-			*MAP_NAME	"textures/wsw_city1/metal1_vertex"
+			*MAP_NAME	"textures/metal/orangewall_vertex"
 			*MAP_CLASS	"Bitmap"
 			*MAP_SUBNO	1
 			*MAP_AMOUNT	1.0
 			*MAP_TYPE	Screen
-			*BITMAP	"textures/wsw_city1/metal1_vertex"
+			*BITMAP	"textures/metal/orangewall_vertex"
 			*BITMAP_FILTER	Pyramidal
 		}
 	}
 	*MATERIAL	2	{
-		*MATERIAL_NAME	"textures/wsw_city1/metal1_vertex"
+		*MATERIAL_NAME	"textures/metal/orangewall_vertex"
 		*MATERIAL_CLASS	"Standard"
 		*MATERIAL_DIFFUSE	1.000000	0.493141	0.355252
 		*MATERIAL_SHADING Phong
 		*MAP_DIFFUSE	{
-			*MAP_NAME	"textures/wsw_city1/metal1_vertex"
+			*MAP_NAME	"textures/metal/orangewall_vertex"
 			*MAP_CLASS	"Bitmap"
 			*MAP_SUBNO	1
 			*MAP_AMOUNT	1.0
 			*MAP_TYPE	Screen
-			*BITMAP	"textures/wsw_city1/metal1_vertex"
+			*BITMAP	"textures/metal/orangewall_vertex"
 			*BITMAP_FILTER	Pyramidal
 		}
 	}
@@ -13044,3 +13044,4 @@
 	*PROP_RECVSHADOW	1
 	*MATERIAL_REF	3
 }
+

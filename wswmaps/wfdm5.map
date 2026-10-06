@@ -23060,7 +23060,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "135.000000"
-"model" "models/mapobjects/wdm5/wdm5_RedSignThinBrokenPorkyPie1.ase"
+"model" "models/mapobjects/wdm5/wdm5_RedSignThinBrokenPorkyPie1.obj"
 "origin" "897.500000 137.249954 1339.000000"
 }
 // entity 336
@@ -28179,3 +28179,4 @@ brushDef
 "collisiontype" "none"
 "modelscale" "2"
 }
+

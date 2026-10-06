@@ -60,7 +60,7 @@
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 46.6666641235 0 -28 0 0 ) ( 46.6666641235 -46.7009887695 -28 0 -0.1824257374 ) ( 0 -46.7009887695 -28 0 -0.3647173941 ) )
@@ -79,7 +79,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 0 46.6666641235 -28 0 0 ) ( 46.700843811 46.6666641235 -28 0 -0.1824251711 ) ( 46.700843811 0 -28 0 -0.3647168279 ) )
@@ -98,7 +98,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 0 -46.7009887695 -28 0 0 ) ( -46.6666641235 -46.7009887695 -28 0 -0.1822916567 ) ( -46.6666641235 0 -28 0 -0.3647173941 ) )
@@ -117,7 +117,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( -46.700843811 0 -28 0 0 ) ( -46.700843811 46.6666641235 -28 0 -0.1822916567 ) ( 0 46.6666641235 -28 0 -0.3647168279 ) )
@@ -136,7 +136,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 52 0 16.1015815735 0 0 ) ( 46.6666641235 -8.6666660309 -0.084186554 0 -0.0746834427 ) ( 52 0 -32 0 -0.2055384219 ) )
@@ -155,7 +155,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 0 -46.7009887695 52 0 0 ) ( -46.6666641235 -46.7009887695 52 0 -0.1822916567 ) ( -46.6666641235 0 52 0 -0.3647173941 ) )
@@ -174,7 +174,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 52 0 -31.8930740356 0 0 ) ( 46.6666641235 -8.6666660309 -46.6967773438 0 -0.0701718628 ) ( 52 0 -64 0 -0.1485851109 ) )
@@ -193,7 +193,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( -46.700843811 0 52 0 0 ) ( -46.700843811 46.6666641235 52 0 -0.1822916567 ) ( 0 46.6666641235 52 0 -0.3647168279 ) )
@@ -212,7 +212,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 0 46.6666641235 52 0 -0.1822916567 ) ( 46.700843811 46.6666641235 52 0.1824251711 -0.1822916567 ) ( 46.700843811 0 52 0.1824251711 -0 ) )
@@ -231,7 +231,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 46.6666641235 0 52 0.1822916567 -0 ) ( 46.6666641235 -46.7009887695 52 0.1822916567 0.1824257374 ) ( 0 -46.7009887695 52 0 0.1824257374 ) )
@@ -250,7 +250,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 46.6666641235 0 20 0 0 ) ( 46.6666641235 -46.7009887695 20 0 -0.1824257374 ) ( 0 -46.7009887695 20 0 -0.3647173941 ) )
@@ -269,7 +269,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 0 46.6666641235 20 0 0 ) ( 46.700843811 46.6666641235 20 0 -0.1824251711 ) ( 46.700843811 0 20 0 -0.3647168279 ) )
@@ -288,7 +288,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 0 -46.7009887695 20 0 0 ) ( -46.6666641235 -46.7009887695 20 0 -0.1822916567 ) ( -46.6666641235 0 20 0 -0.3647173941 ) )
@@ -307,7 +307,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( -46.700843811 0 20 0 0 ) ( -46.700843811 46.6666641235 20 0 -0.1822916567 ) ( 0 46.6666641235 20 0 -0.3647168279 ) )
@@ -326,7 +326,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 52 0 48.1069221497 0 0 ) ( 46.6666641235 -4.6666660309 33.3032226562 0 -0.0641115159 ) ( 52 0 16 0 -0.1371514797 ) )
@@ -345,7 +345,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 0 -46.7009887695 -60 0 0 ) ( -46.6666641235 -46.7009887695 -60 0 -0.1822916567 ) ( -46.6666641235 0 -60 0 -0.3647173941 ) )
@@ -364,7 +364,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( -46.700843811 0 -60 0 0 ) ( -46.700843811 46.6666641235 -60 0 -0.1822916567 ) ( 0 46.6666641235 -60 0 -0.3647168279 ) )
@@ -383,7 +383,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 0 46.6666641235 -60 0 0 ) ( 46.700843811 46.6666641235 -60 0 -0.1824251711 ) ( 46.700843811 0 -60 0 -0.3647168279 ) )
@@ -402,7 +402,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 9 3 0 0 0 )
 (
 ( ( 46.6666641235 0 -60 0 0 ) ( 46.6666641235 -46.7009887695 -60 0 -0.1824257374 ) ( 0 -46.7009887695 -60 0 -0.3647173941 ) )
@@ -421,7 +421,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 3 5 0 0 0 )
 (
 ( ( 52 0 48.1069221497 0 0 ) ( 52 -52 48.1176452637 0 0.25 ) ( 0 -52 48.1176452637 0 0.5 ) ( -52 -52 48.1176452637 0 0.75 ) ( -52 0 48.1069221497 0 1 ) )
@@ -434,7 +434,7 @@ wsw_city1/metal1_vertex
 {
 patchDef2
 {
-wsw_city1/metal1_vertex
+metal/orangewall_vertex
 ( 3 5 0 0 0 )
 (
 ( ( 52 0 -64 0 0 ) ( 52 52 -64 0 0.25 ) ( 0 52 -64 0 0.5 ) ( -52 52 -64 0 0.75 ) ( -52 0 -64 0 1 ) )
@@ -449,3 +449,4 @@ wsw_city1/metal1_vertex
 "classname" "info_player_deathmatch"
 "origin" "768.000000 -768.000000 -768.000000"
 }
+

@@ -1,0 +1,17 @@
+# Exported by Gskelview
+
+newmtl MD3_[default][teleporter_01.001]
+Ka 1.0 1.0 1.0
+Kd 1 1 1
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd teleporter_01_a
+
+newmtl MD3_[default][teleporter_01_glo]
+Ka 1.0 1.0 1.0
+Kd 1 1 1
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd teleporter_01_glow
