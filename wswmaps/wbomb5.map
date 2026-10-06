@@ -36783,7 +36783,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "640.000000 -528.000000 64.000000"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "spawnflags" "4"
 "modelscale" "0.350000"
 }
@@ -36807,7 +36807,7 @@ exwsw/eX_trim_support_03_thin
 {
 "classname" "misc_model"
 "origin" "-2128.000000 -1368.000000 192.000000"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "spawnflags" "4"
 "modelscale" "0.400000"
 }

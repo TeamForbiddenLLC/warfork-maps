@@ -14603,7 +14603,7 @@ refly_bricks/bricks2
 {
 "classname" "misc_model"
 "origin" "-568.000000 600.000000 -160.000000"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.2"
 "spawnflags" "4"
 }
@@ -14775,7 +14775,7 @@ refly_bricks/bricks2
 {
 "classname" "misc_model"
 "origin" "728.000000 -200.000000 -180.000000"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.200000"
 "spawnflags" "4"
 }
@@ -15330,7 +15330,7 @@ refly_bricks/bricks2
 {
 "classname" "misc_model"
 "origin" "57.999996 272.000000 384.000000"
-"model" "models/mapobjects/wsw_adverts/advertframe_standard.ase"
+"model" "models/mapobjects/wsw_adverts/advertframe_standard.obj"
 "angle" "-179.999985"
 "modelscale" "0.750000"
 "spawnflags" "4"
@@ -15339,7 +15339,7 @@ refly_bricks/bricks2
 {
 "classname" "misc_model"
 "origin" "118.000000 272.000031 384.000000"
-"model" "models/mapobjects/wsw_adverts/advertframe_standard.ase"
+"model" "models/mapobjects/wsw_adverts/advertframe_standard.obj"
 "angle" "0.000016"
 "modelscale" "0.750000"
 "spawnflags" "4"
@@ -15565,7 +15565,7 @@ refly_bricks/bricks2
 {
 "classname" "misc_model"
 "origin" "-32.000000 764.000000 -180.000000"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.200000"
 "spawnflags" "4"
 }

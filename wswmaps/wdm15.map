@@ -9503,7 +9503,7 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 {
 "classname" "misc_model"
 "origin" "-608 -608 512"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.4"
 "angle" "135"
 "spawnflags" "4"
@@ -9803,7 +9803,7 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 {
 "classname" "misc_model"
 "origin" "96 1056 384"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.4"
 "angle" "135"
 "spawnflags" "4"

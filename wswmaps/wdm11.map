@@ -7479,7 +7479,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-1024.000000 -640.000000 -256.000000"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "spawnflags" "4"
 "modelscale" "0.250000"
 }

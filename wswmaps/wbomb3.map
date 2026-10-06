@@ -26201,14 +26201,14 @@ brushDef
 // Entity 851
 {
 "angle" "-179.999985"
-"model" "models/mapobjects/wsw_adverts/advertframe_standard.ase"
+"model" "models/mapobjects/wsw_adverts/advertframe_standard.obj"
 "origin" "-779.999939 -3040.000000 500.000000"
 "classname" "misc_model"
 }
 // Entity 852
 {
 "angle" "-90.000000"
-"model" "models/mapobjects/wsw_adverts/advertframe_standard.ase"
+"model" "models/mapobjects/wsw_adverts/advertframe_standard.obj"
 "origin" "52.000000 -1156.000000 620.000000"
 "classname" "misc_model"
 }
@@ -26223,21 +26223,21 @@ brushDef
 // Entity 854
 {
 "angle" "90.000000"
-"model" "models/mapobjects/wsw_adverts/advertframe_standard.ase"
+"model" "models/mapobjects/wsw_adverts/advertframe_standard.obj"
 "origin" "52.000000 -1140.000000 620.000000"
 "classname" "misc_model"
 }
 // Entity 855
 {
 "angle" "90.000000"
-"model" "models/mapobjects/wsw_adverts/advertframe_standard.ase"
+"model" "models/mapobjects/wsw_adverts/advertframe_standard.obj"
 "origin" "-1288.000000 -4224.000000 144.000000"
 "classname" "misc_model"
 }
 // Entity 856
 {
 "angle" "90.000000"
-"model" "models/mapobjects/wsw_adverts/advertframe_standard.ase"
+"model" "models/mapobjects/wsw_adverts/advertframe_standard.obj"
 "origin" "-840.000000 -4224.000000 144.000000"
 "classname" "misc_model"
 }

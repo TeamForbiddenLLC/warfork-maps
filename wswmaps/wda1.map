@@ -10340,7 +10340,7 @@ blx_wtest3/blx_wt3_pillar3
 {
 "classname" "misc_model"
 "origin" "584.000000 -160.000000 0.000000"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.175"
 "spawnflags" "4"
 }
@@ -10443,7 +10443,7 @@ blx_wtest3/blx_wt3_pillar3
 {
 "classname" "misc_model"
 "origin" "127.999985 -712.867004 335.268616"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.200000"
 "spawnflags" "4"
 "angles" "-0.000000 0.000000 -50.137512"

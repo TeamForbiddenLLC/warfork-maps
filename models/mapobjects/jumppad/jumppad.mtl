@@ -1,0 +1,36 @@
+newmtl jumppad:MD3__default__glow_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd models/mapobjects/jumppad/flame.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl jumppad:MD3__default__jumppad_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd models/mapobjects/jumppad/jumppad1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl jumppad:MD3__default__lower_ring_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd models/mapobjects/jumppad/l_ring.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl jumppad:MD3__default__upper_ring_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd models/mapobjects/jumppad/u_ring.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00

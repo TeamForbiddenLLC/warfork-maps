@@ -9825,7 +9825,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "1250.000000 248.000000 -320.000000"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.250000"
 "spawnflags" "4"
 }

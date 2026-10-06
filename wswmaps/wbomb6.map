@@ -54368,7 +54368,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-656 4304 96"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.25"
 "angle" "45"
 "spawnflags" "4"
@@ -55549,7 +55549,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-832 2080 64"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.25"
 "angle" "45"
 "spawnflags" "4"

@@ -29475,7 +29475,7 @@ metal/metalbaseyellow0033
 {
 "classname" "misc_model"
 "origin" "16 -912 0"
-"model" "models/mapobjects/jumppad/jumppad.md3"
+"model" "models/mapobjects/jumppad/jumppad.obj"
 "modelscale" "0.25"
 "angle" "45"
 "spawnflags" "4"
