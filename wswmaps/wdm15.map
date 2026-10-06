@@ -11251,8 +11251,8 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 // entity 262
 {
 "classname" "misc_model"
-"origin" "224.000000 -624.000000 440.000000"
-"model" "models/mapobjects/teleporter/teleporter_01_a.md3"
+"origin" "224.000000 -624.000000 429.667"
+"model" "models/mapobjects/teleporter/teleporter_01_a.obj"
 "spawnflags" "4"
 }
 // entity 263
@@ -11416,4 +11416,5 @@ blx_wtest3/blx_wt3_floor4_nonsolid
 "model" "models/mapobjects/wdm6/wdm6_whiteceilinglight1.ase"
 "spawnflags" "4"
 }
+
 

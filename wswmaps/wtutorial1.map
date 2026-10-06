@@ -27441,8 +27441,8 @@ plastic/grey50
 // entity 485
 {
 "classname" "misc_model"
-"origin" "0.000000 -376.000000 232.000000"
-"model" "models/mapobjects/teleporter/teleporter_01_a.md3"
+"origin" "0.000000 -376.000000 221.667"
+"model" "models/mapobjects/teleporter/teleporter_01_a.obj"
 "spawnflags" "4"
 }
 // entity 486
@@ -29691,3 +29691,4 @@ plastic/grey50
 "spawnflags" "4"
 "helpmessage" "badass_jumping_dash"
 }
+

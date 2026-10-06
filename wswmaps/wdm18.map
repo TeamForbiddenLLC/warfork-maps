@@ -14097,7 +14097,8 @@ wdm9/item_indi_1
 {
 "classname" "misc_model"
 "origin" "384.000000 -536.000000 96.000000"
-"model" "models/mapobjects/teleporter/telenode.ase"
+"model" "models/mapobjects/teleporter/tteleporter_01_a.obj"
+"modelscale" "0.65"
 }
 // entity 323
 {
@@ -14327,3 +14328,4 @@ wdm9/item_indi_1
 "origin" "1376.000000 -128.000000 312.000000"
 "message" "^8 Hidden RG Squad"
 }
+

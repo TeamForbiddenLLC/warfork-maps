@@ -9227,8 +9227,8 @@ common/fullclip
 // entity 94
 {
 "classname" "misc_model"
-"origin" "1952.000000 -1324.000122 -24.000000"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
+"origin" "1952.000000 -1324.000122 -34.32"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
 "angle" "-179.999985"
 "spawnflags" "4"
 }
@@ -9495,8 +9495,8 @@ common/fullclip
 // entity 127
 {
 "classname" "misc_model"
-"origin" "1887.999878 -147.999924 -502.000000"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
+"origin" "1887.999878 -147.999924 -512.32"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
 "angle" "0.000009"
 "spawnflags" "4"
 }
@@ -13016,4 +13016,5 @@ metal/aluminium
 "model" "models/mapobjects/wdm2/crate.ase"
 "spawnflags" "4"
 }
+
 

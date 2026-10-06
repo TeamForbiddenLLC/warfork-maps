@@ -11136,8 +11136,8 @@ blx_wtest3/blx_wt3_pillar3
 // entity 106
 {
 "classname" "misc_model"
-"origin" "-312.000000 0.000000 10.375000"
-"model" "models/mapobjects/teleporter/teleporter_01_a.md3"
+"origin" "-312.000000 0.000000 0.042"
+"model" "models/mapobjects/teleporter/teleporter_01_a.obj"
 "angle" "-90.000000"
 "spawnflags" "4"
 }
@@ -12486,3 +12486,4 @@ blx_wtest3/blx_wt3_pillar3
 "_extradist" "100"
 "_color" "0.927687 0.963027 0.740475"
 }
+

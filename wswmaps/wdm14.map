@@ -21710,8 +21710,8 @@ plastic/grey35
 // entity 70
 {
 "classname" "misc_model"
-"origin" "964.000000 64.000000 2.000000"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
+"origin" "964.000000 64.000000 -8.32"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
 "angle" "-90.000000"
 "spawnflags" "4"
 }
@@ -22432,8 +22432,8 @@ plastic/grey35
 // entity 170
 {
 "classname" "misc_model"
-"origin" "-380.000000 1064.000000 -62.000000"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
+"origin" "-380.000000 1064.000000 -72.32"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
 "angle" "-90.000000"
 "spawnflags" "4"
 }
@@ -22675,3 +22675,4 @@ plastic/grey35
 "radius" "1500"
 "_extradist" "100"
 }
+

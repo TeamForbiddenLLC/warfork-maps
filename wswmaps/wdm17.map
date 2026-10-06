@@ -15030,8 +15030,8 @@ common/fullclip
 // entity 326
 {
 "classname" "misc_model"
-"origin" "749.999878 -1044.000000 8.999938"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
+"origin" "749.999878 -1044.000000 -1.320062"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
 "angle" "-90.000000"
 "spawnflags" "4"
 "modelscale" "0.860000"
@@ -16244,8 +16244,8 @@ common/fullclip
 // entity 453
 {
 "classname" "misc_model"
-"origin" "404.000000 45.999893 8.999939"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
+"origin" "404.000000 45.999893 -1.320061"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
 "angle" "0.000010"
 "spawnflags" "4"
 "modelscale" "0.860000"
@@ -16263,8 +16263,8 @@ common/fullclip
 // entity 455
 {
 "classname" "misc_model"
-"origin" "107.999908 -1325.999756 456.999939"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
+"origin" "107.999908 -1325.999756 446.679939"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
 "angle" "179.999985"
 "spawnflags" "4"
 "modelscale" "0.860000"
@@ -16282,12 +16282,13 @@ common/fullclip
 // entity 457
 {
 "classname" "misc_model"
-"origin" "1134.999756 -129.000275 424.999939"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
+"origin" "1134.999756 -129.000275 414.679939"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
 "angle" "-90.000000"
 "spawnflags" "4"
 "modelscale" "0.860000"
 }
+
 
 
 

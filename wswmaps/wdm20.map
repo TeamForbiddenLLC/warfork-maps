@@ -11841,7 +11841,8 @@ decals/poster_weapons
 {
 "classname" "misc_model"
 "origin" "112.000000 416.000000 -272.000000"
-"model" "models/mapobjects/teleporter/telenode.ase"
+"model" "models/mapobjects/teleporter/tteleporter_01_a.obj"
+"modelscale" "0.65"
 }
 // entity 138
 {
@@ -11890,3 +11891,4 @@ decals/poster_weapons
 "angle" "90.000008"
 "spawnflags" "1"
 }
+

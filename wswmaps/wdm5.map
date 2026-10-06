@@ -23584,8 +23584,8 @@ concrete/concretecold01
 "spawnflags" "12"
 "modelscale" "0.975000"
 "angle" "-179.999985"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
-"origin" "415.999786 -610.999939 390.000092"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
+"origin" "415.999786 -610.999939 379.680092"
 "collisiontype" "none"
 }
 // entity 2
@@ -24757,8 +24757,8 @@ brushDef
 "spawnflags" "12"
 "modelscale" "0.975000"
 "angle" "0.000009"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
-"origin" "1092.000000 1183.000000 610.000122"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
+"origin" "1092.000000 1183.000000 599.680122"
 "collisiontype" "none"
 }
 // entity 142
@@ -24797,8 +24797,8 @@ brushDef
 "spawnflags" "12"
 "modelscale" "0.975000"
 "angle" "0.000009"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
-"origin" "296.000000 907.125000 238.000122"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
+"origin" "296.000000 907.125000 227.680122"
 "collisiontype" "none"
 }
 // entity 146
@@ -27904,4 +27904,5 @@ brushDef
 "model" "models/mapobjects/wdm5/wdm5_pillar4.ase"
 "origin" "21.272 749.728 376"
 }
+
 
