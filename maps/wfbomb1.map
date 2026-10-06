@@ -39691,7 +39691,7 @@ brushDef
 {
 "classname" "misc_model"
 "origin" "-1248 -496 536"
-"model" "models/mapobjects/wdm5/wdm5_MainAreaElectricBox.ase"
+"model" "models/mapobjects/industrial/electricbox_wires.obj"
 "angle" "90"
 "modelscale_vec" "-1.4 1 -1.4"
 "collisiontype" "none"

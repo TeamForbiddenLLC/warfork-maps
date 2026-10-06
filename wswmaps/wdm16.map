@@ -12872,7 +12872,7 @@ metal/aluminium
 {
 "classname" "misc_model"
 "origin" "-91.999985 -1280.000000 -160.000000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "angle" "-179.999985"
 "modelscale" "0.750000"
 "spawnflags" "4"

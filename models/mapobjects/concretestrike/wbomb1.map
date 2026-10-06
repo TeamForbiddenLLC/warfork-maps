@@ -26511,7 +26511,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-1792.000000 2260.000000 224.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2_opt.ase"
+"model" "models/mapobjects/city/cx_decor_2_opt.ase"
 "modelscale" "0.750000"
 "angle" "5.059147"
 }
@@ -29167,14 +29167,14 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-1792.000000 2152.000000 272.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2_opt.ase"
+"model" "models/mapobjects/city/cx_decor_2_opt.ase"
 "modelscale" "0.750000"
 }
 // entity 450
 {
 "classname" "misc_model"
 "origin" "-1792.000000 2152.000000 224.000000"
-"model" "models/mapobjects/wsw_city1/cx_decor_2_opt.ase"
+"model" "models/mapobjects/city/cx_decor_2_opt.ase"
 "modelscale" "0.750000"
 }
 // entity 451

@@ -940,20 +940,20 @@ concrete/concretebunker0068
 {
 "classname" "misc_model"
 "origin" "192.000046 256.000000 -192.000000"
-"model" "models/mapobjects/wsw_city1/light_street_2way_3.ase"
+"model" "models/mapobjects/city/light_street_2way_3.ase"
 "angle" "0.000009"
 }
 // entity 14
 {
 "classname" "misc_model"
 "origin" "-864.000000 256.000000 -192.000000"
-"model" "models/mapobjects/wsw_city1/light_street_2way_3.ase"
+"model" "models/mapobjects/city/light_street_2way_3.ase"
 }
 // entity 15
 {
 "classname" "misc_model"
 "origin" "-184.000061 -232.000015 -192.000000"
-"model" "models/mapobjects/wsw_city1/light_street_2way_3.ase"
+"model" "models/mapobjects/city/light_street_2way_3.ase"
 "angle" "-179.999985"
 }
 // entity 16

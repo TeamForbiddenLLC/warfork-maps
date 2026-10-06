@@ -19606,7 +19606,7 @@ concrete/oldplaster2uniform
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "90.000015"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-908.000366 -4023.999512 90.000000"
 "classname" "misc_model"
 }
@@ -19614,7 +19614,7 @@ concrete/oldplaster2uniform
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "90.000015"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-1164.000366 -4023.999512 90.000000"
 "classname" "misc_model"
 }
@@ -20494,7 +20494,7 @@ concrete/oldplaster2uniform
 // Entity 116
 {
 "angle" "0.000009"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-1696.000244 -2039.999756 -120.000015"
 "classname" "misc_model"
 }
@@ -21868,7 +21868,7 @@ concrete/oldplaster2uniform
 {
 "modelscale" "0.750000"
 "angle" "-47.688480"
-"model" "models/mapobjects/wsw_city1/light_street_2way_2.ase"
+"model" "models/mapobjects/city/light_street_2way_2.ase"
 "origin" "-1668.000244 -1468.000000 64.000000"
 "classname" "misc_model"
 }
@@ -23279,7 +23279,7 @@ concrete/oldplaster2uniform
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "90.000015"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-264.000366 -739.999512 92.000000"
 "classname" "misc_model"
 }
@@ -23287,7 +23287,7 @@ concrete/oldplaster2uniform
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-179.999985"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-396.000519 -864.000305 92.000000"
 "classname" "misc_model"
 }
@@ -24986,14 +24986,14 @@ concrete/oldplaster2uniform
 // Entity 710
 {
 "modelscale" "0.75"
-"model" "models/mapobjects/wsw_city1/light_street_2way_2.ase"
+"model" "models/mapobjects/city/light_street_2way_2.ase"
 "origin" "-2746 -2004 -79"
 "classname" "misc_model"
 }
 // Entity 711
 {
 "modelscale" "0.75"
-"model" "models/mapobjects/wsw_city1/light_street_2way_2.ase"
+"model" "models/mapobjects/city/light_street_2way_2.ase"
 "origin" "-2500 -1662 -31"
 "classname" "misc_model"
 }
@@ -25002,7 +25002,7 @@ concrete/oldplaster2uniform
 "modelscale_vec" "1 1 1.1"
 "modelscale" "1.1"
 "angle" "-48.2851"
-"model" "models/mapobjects/wsw_city1/light_street_2way_2.ase"
+"model" "models/mapobjects/city/light_street_2way_2.ase"
 "origin" "-254.51 -1774.67 81"
 "classname" "misc_model"
 }
@@ -25725,7 +25725,7 @@ brushDef
 {
 "angle" "-48.2851"
 "modelscale" "0.75"
-"model" "models/mapobjects/wsw_city1/light_street_2way_2.ase"
+"model" "models/mapobjects/city/light_street_2way_2.ase"
 "origin" "-2110.51 -1454.67 57"
 "classname" "misc_model"
 }
@@ -25813,7 +25813,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-125.377396"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-1051.695557 -861.635071 218.000000"
 "classname" "misc_model"
 }
@@ -25821,7 +25821,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-179.999985"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-775.999939 -3900.000244 90.000000"
 "classname" "misc_model"
 }
@@ -25829,7 +25829,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-179.999985"
-"model" "models/mapobjects/wsw_city1/fence_2_broken.ase"
+"model" "models/mapobjects/city/fence_2_broken.ase"
 "origin" "-775.999939 -3388.000244 90.000000"
 "classname" "misc_model"
 }
@@ -25845,7 +25845,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "0.000016"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-583.999756 -4227.999512 89.000000"
 "classname" "misc_model"
 }
@@ -25853,7 +25853,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "0.000016"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-583.999756 -3971.999023 89.000000"
 "classname" "misc_model"
 }
@@ -25861,7 +25861,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "0.000016"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-583.999878 -3715.999023 89.000000"
 "classname" "misc_model"
 }
@@ -25869,7 +25869,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-90.000000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-451.999298 -3592.000244 89.000000"
 "classname" "misc_model"
 }
@@ -25877,7 +25877,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-90.000000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-195.999786 -3592.000488 89.000000"
 "classname" "misc_model"
 }
@@ -25885,7 +25885,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-90.000000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "60.000458 -3592.000488 89.000000"
 "classname" "misc_model"
 }
@@ -25893,7 +25893,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-90.000000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "316.000458 -3592.000244 89.000000"
 "classname" "misc_model"
 }
@@ -25901,7 +25901,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-90.000000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "572.000244 -3592.000488 89.000000"
 "classname" "misc_model"
 }
@@ -25909,7 +25909,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-90.000000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "828.000488 -3592.000488 89.000000"
 "classname" "misc_model"
 }
@@ -26010,7 +26010,7 @@ brushDef
 {
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-179.999985"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-775.999939 -3644.000244 90.000000"
 "classname" "misc_model"
 }
@@ -26506,7 +26506,7 @@ brushDef
 {
 "angle" "144.610992"
 "modelscale_vec" "1.000000 1.000000 0.700000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-2273.870117 -1007.650024 90.000000"
 "classname" "misc_model"
 }
@@ -26514,7 +26514,7 @@ brushDef
 {
 "angle" "144.610992"
 "modelscale_vec" "1.000000 1.000000 0.700000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-2125.610107 -798.950989 90.000000"
 "classname" "misc_model"
 }
@@ -26522,7 +26522,7 @@ brushDef
 {
 "angle" "54.611000"
 "modelscale_vec" "1.000000 1.000000 0.700000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-1652.550049 -345.910004 90.000000"
 "classname" "misc_model"
 }
@@ -26530,7 +26530,7 @@ brushDef
 {
 "angle" "144.610992"
 "modelscale_vec" "1.000000 1.000000 0.700000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-1977.349976 -590.250977 90.000000"
 "classname" "misc_model"
 }
@@ -26538,7 +26538,7 @@ brushDef
 {
 "angle" "144.610992"
 "modelscale_vec" "1.000000 1.000000 0.700000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-2718.649902 -1633.750000 90.000000"
 "classname" "misc_model"
 }
@@ -26546,7 +26546,7 @@ brushDef
 {
 "angle" "144.610992"
 "modelscale_vec" "1.000000 1.000000 0.700000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-2866.909912 -1842.449951 90.000000"
 "classname" "misc_model"
 }
@@ -26554,7 +26554,7 @@ brushDef
 {
 "angle" "144.610992"
 "modelscale_vec" "1.000000 1.000000 0.700000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-2422.129883 -1216.349976 90.000000"
 "classname" "misc_model"
 }
@@ -26562,7 +26562,7 @@ brushDef
 {
 "angle" "144.610992"
 "modelscale_vec" "1.000000 1.000000 0.700000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-2570.389893 -1425.050049 90.000000"
 "classname" "misc_model"
 }
@@ -26570,7 +26570,7 @@ brushDef
 {
 "angle" "144.610992"
 "modelscale_vec" "1.000000 1.000000 0.700000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "origin" "-1829.089966 -381.552002 90.000000"
 "classname" "misc_model"
 }

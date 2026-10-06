@@ -19712,7 +19712,7 @@ plastic/grey50
 {
 "classname" "misc_model"
 "origin" "1216.000000 -1536.000000 64.000000"
-"model" "models/mapobjects/wsw_city1/fence_1.ase"
+"model" "models/mapobjects/city/fence_1.ase"
 "modelscale_vec" "1 1.25 1"
 "spawnflags" "4"
 }

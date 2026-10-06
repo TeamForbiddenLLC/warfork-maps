@@ -23376,7 +23376,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-774.000000 -2337.000000 -436.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "90.000008"
 "modelscale" "0.250000"
@@ -23399,7 +23399,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-762.000000 -2337.000000 -436.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "90.000008"
 "modelscale" "0.250000"
@@ -23636,7 +23636,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-768.000000 -2337.000000 -436.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "90.000008"
 "modelscale" "0.250000"
@@ -23797,7 +23797,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-965.000000 -2280.000000 -372.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "0.000009"
 "modelscale" "0.250000"
@@ -23806,7 +23806,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-965.000000 -2072.000000 -372.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "0.000009"
 "modelscale" "0.250000"
@@ -23815,7 +23815,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-965.000000 -2536.000000 -372.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "0.000009"
 "modelscale" "0.250000"
@@ -23824,7 +23824,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-965.000000 -2728.000000 -372.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "0.000009"
 "modelscale" "0.250000"
@@ -23833,7 +23833,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-965.000000 -2920.000000 -372.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "0.000009"
 "modelscale" "0.250000"
@@ -23842,7 +23842,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1128.000000 -2171.000000 -308.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "-90.000000"
 "modelscale" "0.250000"
@@ -23851,7 +23851,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-1320.000000 -2171.000000 -308.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "-90.000000"
 "modelscale" "0.250000"
@@ -24438,7 +24438,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-848.000000 -2171.000000 -308.000000"
-"model" "models/mapobjects/wsw_city1/lamp_post_single.ase"
+"model" "models/mapobjects/city/lamp_post_single.ase"
 "spawnflags" "4"
 "angle" "-90.000000"
 "modelscale" "0.250000"

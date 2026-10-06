@@ -33613,7 +33613,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "415.999908 -1599.999878 111.999962"
-"model" "models/mapobjects/wsw_city1/trash_container_1.ase"
+"model" "models/mapobjects/city/trash_container_1.ase"
 "angles" "-0.282104 -137.131851 18.932190"
 "spawnflags" "4"
 }
@@ -33621,7 +33621,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "472.000000 -1440.000000 63.999996"
-"model" "models/mapobjects/wsw_city1/street_barrier_1.ase"
+"model" "models/mapobjects/city/street_barrier_1.ase"
 "spawnflags" "4"
 "angles" "-0.090367 89.774841 -21.864408"
 }
@@ -33629,7 +33629,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "248.000092 -1628.000122 45.999996"
-"model" "models/mapobjects/wsw_city1/street_barrier_1.ase"
+"model" "models/mapobjects/city/street_barrier_1.ase"
 "spawnflags" "4"
 "angles" "75.626350 -23.599724 -174.109772"
 }
@@ -33644,7 +33644,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-921.000122 1984.000000 472.000000"
-"model" "models/mapobjects/wsw_city1/trash_container_1_open.ase"
+"model" "models/mapobjects/city/trash_container_1_open.ase"
 "angle" "-179.999985"
 "spawnflags" "4"
 }

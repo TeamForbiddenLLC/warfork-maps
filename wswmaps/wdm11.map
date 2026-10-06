@@ -7527,7 +7527,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-1088.000000 832.000000 -128.000000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "angle" "-90.000000"
 "modelscale" "0.750000"
 "spawnflags" "4"
@@ -8829,7 +8829,7 @@ wsw_city1/tech_concrete1
 {
 "classname" "misc_model"
 "origin" "-96.000000 96.000000 192.000000"
-"model" "models/mapobjects/wsw_city1/fence_3.ase"
+"model" "models/mapobjects/city/fence_3.ase"
 "angle" "90.000000"
 "spawnflags" "4"
 }

@@ -53898,7 +53898,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-180.38 5001.24 153"
-"model" "models/mapobjects/wsw_city1/light_street_2way_2.ase"
+"model" "models/mapobjects/city/light_street_2way_2.ase"
 "modelscale" "0.75"
 "angle" "86.715"
 }
@@ -54800,14 +54800,14 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "32 -496 192"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "angle" "90"
 }
 // entity 211
 {
 "classname" "misc_model"
 "origin" "288 -496 192"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "angle" "-90"
 }
 // entity 212

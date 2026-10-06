@@ -13896,7 +13896,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-900.000000 -592.000000 80.000000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "angle" "-179.999985"
 "spawnflags" "4"
 "modelscale" "0.600000"
@@ -14465,7 +14465,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-1088.000000 -596.000000 460.000000"
-"model" "models/mapobjects/wsw_city1/fence_2.ase"
+"model" "models/mapobjects/city/fence_2.ase"
 "angle" "-179.999985"
 "spawnflags" "4"
 "modelscale" "0.600000"
@@ -14764,7 +14764,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-95.999985 -663.999939 95.999908"
-"model" "models/mapobjects/wsw_city1/fence_2_small.ase"
+"model" "models/mapobjects/city/fence_2_small.ase"
 "angles" "-3.120266 90.000000 90.000000"
 "spawnflags" "4"
 "modelscale" "0.850000"
@@ -14773,7 +14773,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-95.999985 -534.999939 95.999954"
-"model" "models/mapobjects/wsw_city1/fence_2_small.ase"
+"model" "models/mapobjects/city/fence_2_small.ase"
 "angles" "12.288481 90.000000 90.000000"
 "spawnflags" "4"
 "modelscale" "0.850000"

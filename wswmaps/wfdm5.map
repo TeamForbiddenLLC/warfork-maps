@@ -20916,7 +20916,7 @@ brushDef
 "modelscale_vec" "1.000000 0.830000 1.000000"
 "angle" "-179.999985"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/fence_3.ase"
+"model" "models/mapobjects/city/fence_3.ase"
 "origin" "1516.134766 -878.424377 704.000000"
 "collisiontype" "none"
 }
@@ -21176,7 +21176,7 @@ brushDef
 "modelscale_vec" "1.000000 0.83000 1.000000"
 "angle" "-90.000000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/fence_3.ase"
+"model" "models/mapobjects/city/fence_3.ase"
 "origin" "1404.000000 -874.300171 544.000000"
 "collisiontype" "wrap"
 }
@@ -21186,7 +21186,7 @@ brushDef
 "modelscale_vec" "1.000000 0.830000 1.000000"
 "angle" "0.000009"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/fence_3.ase"
+"model" "models/mapobjects/city/fence_3.ase"
 "origin" "1516.022705 -658.287048 704.000000"
 "collisiontype" "none"
 }
@@ -21632,7 +21632,7 @@ brushDef
 "modelscale" "1.200000"
 "angle" "90.000000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/fence_3.ase"
+"model" "models/mapobjects/city/fence_3.ase"
 "origin" "1008.000000 1202.000244 680.000000"
 "collisiontype" "none"
 }
@@ -21642,7 +21642,7 @@ brushDef
 "modelscale" "0.800000"
 "spawnflags" "4"
 "angle" "88.736870"
-"model" "models/mapobjects/wsw_city1/trash_container_1_open.ase"
+"model" "models/mapobjects/city/trash_container_1_open.ase"
 "origin" "1080.000244 1679.999634 672.000000"
 }
 // entity 158
@@ -21651,7 +21651,7 @@ brushDef
 "modelscale" "0.800000"
 "spawnflags" "4"
 "angle" "79.563118"
-"model" "models/mapobjects/wsw_city1/trash_container_1.ase"
+"model" "models/mapobjects/city/trash_container_1.ase"
 "origin" "1080.000122 1496.000000 672.000000"
 "collisiontype" "none"
 }
@@ -21765,7 +21765,7 @@ brushDef
 "modelscale" "1.200000"
 "angle" "-90.000000"
 "spawnflags" "12"
-"model" "models/mapobjects/wsw_city1/fence_3.ase"
+"model" "models/mapobjects/city/fence_3.ase"
 "origin" "1168.000000 1205.999756 680.000000"
 "collisiontype" "none"
 }
@@ -21914,7 +21914,7 @@ brushDef
 "spawnflags" "4"
 "modelscale_vec" "1.000000 1.000000 0.700000"
 "angle" "-179.999985"
-"model" "models/mapobjects/wsw_city1/fence_2_broken.ase"
+"model" "models/mapobjects/city/fence_2_broken.ase"
 "origin" "1464.000000 1079.999756 690.000000"
 "collisiontype" "none"
 }
@@ -21924,7 +21924,7 @@ brushDef
 "angles" "0.000002 -179.999985 -13.469724"
 "modelscale" "0.800000"
 "spawnflags" "4"
-"model" "models/mapobjects/wsw_city1/fence_3.ase"
+"model" "models/mapobjects/city/fence_3.ase"
 "origin" "1469.999756 880.000122 664.000061"
 "collisiontype" "none"
 }
@@ -23627,7 +23627,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "4"
-"model" "models/mapobjects/wdm5/wdm5_MainAreaElectricBox.ase"
+"model" "models/mapobjects/industrial/electricbox_wires.obj"
 "origin" "608.000000 416.000000 360.000000"
 "collisiontype" "none"
 }

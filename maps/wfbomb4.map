@@ -16253,7 +16253,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "-171.075317"
-"model" "models/mapobjects/wsw_city1/trash_container_1.ase"
+"model" "models/mapobjects/city/trash_container_1.ase"
 "origin" "3672.000000 239.999985 408.000000"
 }
 // entity 2
@@ -16412,7 +16412,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "90.000000"
-"model" "models/mapobjects/wsw_city1/trash_container_1_open.ase"
+"model" "models/mapobjects/city/trash_container_1_open.ase"
 "origin" "-184.000000 1232.000000 88.000000"
 }
 // entity 25
@@ -16493,7 +16493,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "-16.577888"
-"model" "models/mapobjects/wsw_city1/street_barrier_1.ase"
+"model" "models/mapobjects/city/street_barrier_1.ase"
 "origin" "2712.000000 -367.999969 16.000000"
 }
 // entity 38
@@ -16501,7 +16501,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "-4.155286"
-"model" "models/mapobjects/wsw_city1/street_barrier_1.ase"
+"model" "models/mapobjects/city/street_barrier_1.ase"
 "origin" "2696.000000 -495.999969 16.000000"
 }
 // entity 39

@@ -5923,7 +5923,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "263.999969 384.000031 79.125000"
-"model" "models/mapobjects/wsw_city1/trash_container_1.ase"
+"model" "models/mapobjects/city/trash_container_1.ase"
 "angle" "-90.000000"
 "spawnflags" "4"
 "modelscale" "0.900000"
@@ -6194,7 +6194,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "359.999847 -144.000076 76.000000"
-"model" "models/mapobjects/wsw_city1/light_street_2way_1.ase"
+"model" "models/mapobjects/city/light_street_2way_1.ase"
 "angle" "86.066322"
 "spawnflags" "4"
 "_color" "0.380392 0.380392 1"
@@ -6433,7 +6433,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "-743.999939 -671.999878 76.000000"
-"model" "models/mapobjects/wsw_city1/light_street_2way_1.ase"
+"model" "models/mapobjects/city/light_street_2way_1.ase"
 "angle" "-48.330410"
 "spawnflags" "4"
 }
