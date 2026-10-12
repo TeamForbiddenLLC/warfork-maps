@@ -10391,7 +10391,7 @@ brushDef
 {
 "classname" "misc_model"
 "spawnflags" "6"
-"model" "models/mapobjects/wdm11/barrier_concrete_2.ase"
+"model" "models/mapobjects/city/barrier_yellow.obj"
 "origin" "-640.000000 816.000000 -368.000000"
 }
 // entity 165
