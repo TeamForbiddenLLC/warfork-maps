@@ -4,6 +4,8 @@ https://creativecommons.org/licenses/by/4.0/
 
 This is the list of models and the corresponding credit:
 
+- models/mapobjects/city/barrier_yellow
+"Traffic Barrier" (https://skfb.ly/oIwIK) by Shaaaark is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 - models/mapobjects/industrial/barrel_1
 "DOOM Barrels" (https://skfb.ly/6ACYJ) by Ilya Ostrovsky is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
