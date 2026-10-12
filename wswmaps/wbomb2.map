@@ -24919,7 +24919,7 @@ terrain/rocks006_512x512
 {
 "classname" "misc_model"
 "origin" "0.000000 560.000000 8.000000"
-"model" "models/mapobjects/teleporter/teleporter_01.md3"
+"model" "models/mapobjects/teleporter/teleporter_01_a.obj"
 "angles" "0.000010 0.000003 0.000000"
 }
 // entity 140

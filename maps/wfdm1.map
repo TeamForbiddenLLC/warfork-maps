@@ -10102,7 +10102,7 @@ brushDef
 ( -240 312 640 ) ( -240 312 656 ) ( -240 296 640 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 ( -240 80 480 ) ( -240 80 496 ) ( -224 80 480 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 ( -224 328 272 ) ( -224 312 272 ) ( -208 328 272 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
-( -240 328 304 ) ( -208 328 304 ) ( -240 296 304 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) tiles/floorsregular0100grey 0 0 0
+( -240 328 304 ) ( -208 328 304 ) ( -240 296 304 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) plastic/black85_rough 0 0 0
 ( -224 256 480 ) ( -208 256 480 ) ( -224 256 496 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
@@ -19006,7 +19006,7 @@ lights/blacktrim01
 {
 "classname" "misc_model"
 "origin" "-220 168 312"
-"model" "models/mapobjects/teleporter/teleporter_01_b.md3"
+"model" "models/mapobjects/teleporter/teleporter_01_b.obj"
 "angle" "90"
 "collisiontype" "none"
 }
@@ -19031,7 +19031,7 @@ lights/blacktrim01
 // entity 168
 {
 "classname" "misc_model"
-"origin" "-480 -816 -48"
+"origin" "-458 -816 -38"
 "model" "models/mapmodels2026/teleporter_01_b.obj"
 "angle" "90"
 }
@@ -21905,6 +21905,7 @@ decals/lights/decal_blacktrim02_1000
 {
 "classname" "func_trisoup"
 "subdivisions" "12"
+"collisiontype" "none"
 // brush 0
 {
 patchDef2

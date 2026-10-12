@@ -7,7 +7,11 @@ newmtl textures/plastic/grey35
 Kd 1.0 1.0 1.0
 map_Kd textures/plastic/grey35
 
-newmtl textures/plastic/grey65
+newmtl textures/plastic/green
 Kd 1.0 1.0 1.0
-map_Kd textures/plastic/grey65
+map_Kd textures/plastic/green
+
+newmtl textures/plastic/grey75
+Kd 1.0 1.0 1.0
+map_Kd textures/plastic/grey75
 
