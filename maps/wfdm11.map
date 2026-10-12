@@ -497,12 +497,12 @@ brushDef
 {
 brushDef
 {
-( -736 262144 262144 ) ( -736 -262144 262144 ) ( -736 -262144 -262144 ) ( ( -0.015625 -0 0.25 ) ( 0 0.015625 0 ) ) common/playerclip 0 0 0
+( -752 262144 262144 ) ( -752 -262144 262144 ) ( -752 -262144 -262144 ) ( ( -0.015625 0 0.25 ) ( 0 0.015625 0 ) ) common/playerclip 0 0 0
 ( -544 -262144 262144 ) ( -544 262144 262144 ) ( -544 262144 -262144 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/playerclip 0 0 0
 ( -262144 848 262144 ) ( 262144 848 262144 ) ( 262144 848 -262144 ) ( ( 0.015625 -0 0.375 ) ( 0 0.015625 0.125 ) ) common/playerclip 0 0 0
 ( 262144 912 262144 ) ( -262144 912 262144 ) ( -262144 912 -262144 ) ( ( -0.015625 0 0 ) ( -0 0.015625 0 ) ) common/playerclip 0 0 0
 ( 262144 -262144 -400 ) ( 262144 262144 -400 ) ( -262144 262144 -400 ) ( ( 0 -0.015625 0 ) ( -0.015625 0 0 ) ) common/playerclip 0 0 0
-( 262144 262144 -352 ) ( 262144 -262144 -352 ) ( -262144 -262144 -352 ) ( ( 0 0.015625 0 ) ( -0.015625 0 0.875 ) ) common/playerclip 0 0 0
+( 262144 262144 -339 ) ( 262144 -262144 -339 ) ( -262144 -262144 -339 ) ( ( 0 0.015625 0 ) ( -0.015625 0 0.875 ) ) common/playerclip 0 0 0
 }
 }
 // brush 41
@@ -10392,19 +10392,12 @@ brushDef
 // entity 158
 {
 "classname" "misc_model"
-"spawnflags" "6"
-"model" "models/mapobjects/city/barrier_yellow.obj"
-"origin" "-640.000000 816.000000 -368.000000"
-}
-// entity 159
-{
-"classname" "misc_model"
 "collisiontype" "none"
 "spawnflags" "4"
 "model" "models/mapobjects/windows/window_shutters.obj"
 "origin" "-620 318 0"
 }
-// entity 160
+// entity 159
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10413,7 +10406,7 @@ brushDef
 "origin" "-924.015 826 108"
 "modelscale_vec" "0.695667 1 1"
 }
-// entity 161
+// entity 160
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10423,7 +10416,7 @@ brushDef
 "model" "models/mapobjects/tree110/tree110.lwo"
 "origin" "-192.000305 1151.999756 -179.999985"
 }
-// entity 162
+// entity 161
 {
 "classname" "misc_model"
 "modelscale" "0.7"
@@ -10432,7 +10425,7 @@ brushDef
 "model" "models/mapobjects/wsw_adverts/tech_add_1.ase"
 "origin" "-872 1024 240"
 }
-// entity 163
+// entity 162
 {
 "classname" "light"
 "_color" "1 1 0.75"
@@ -10441,7 +10434,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 164
+// entity 163
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -10449,7 +10442,7 @@ brushDef
 "origin" "-416 50.0001 14"
 "modelscale" "0.7"
 }
-// entity 165
+// entity 164
 {
 "classname" "light"
 "attenuation" "standard"
@@ -10459,7 +10452,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 166
+// entity 165
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -10467,7 +10460,7 @@ brushDef
 "origin" "210 32.0001 14"
 "modelscale" "0.7"
 }
-// entity 167
+// entity 166
 {
 "classname" "light"
 "attenuation" "standard"
@@ -10477,7 +10470,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 168
+// entity 167
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -10485,7 +10478,7 @@ brushDef
 "origin" "-110 32.0001 14"
 "modelscale" "0.7"
 }
-// entity 169
+// entity 168
 {
 "classname" "light"
 "attenuation" "standard"
@@ -10495,7 +10488,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 170
+// entity 169
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -10503,7 +10496,7 @@ brushDef
 "origin" "-142 -400 14"
 "modelscale" "0.7"
 }
-// entity 171
+// entity 170
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -10511,7 +10504,7 @@ brushDef
 "model" "models/mapobjects/wdm11/airvent.obj"
 "origin" "-928.000000 504.000000 288.000000"
 }
-// entity 172
+// entity 171
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -10520,7 +10513,7 @@ brushDef
 "origin" "-906.000000 504.000000 196.000000"
 "collisiontype" "none"
 }
-// entity 173
+// entity 172
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10529,7 +10522,7 @@ brushDef
 "model" "models/mapobjects/lamp/lamp_yellow.obj"
 "origin" "-908.000000 560.000000 214.000000"
 }
-// entity 174
+// entity 173
 {
 "classname" "light"
 "cutoff" "0.5"
@@ -10541,14 +10534,14 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 175
+// entity 174
 {
 "classname" "target_position"
 "angle" "-90.000000"
 "targetname" "target_position6"
 "origin" "-908.000000 560.000000 -26.000000"
 }
-// entity 176
+// entity 175
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -10557,7 +10550,7 @@ brushDef
 "origin" "-864 -631 132"
 "collisiontype" "none"
 }
-// entity 177
+// entity 176
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10566,7 +10559,7 @@ brushDef
 "model" "models/mapobjects/lamp/lamp_yellow.obj"
 "origin" "-865.999878 -576.000122 150.000000"
 }
-// entity 178
+// entity 177
 {
 "classname" "light"
 "haloshader" "halo_large"
@@ -10579,14 +10572,14 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 179
+// entity 178
 {
 "classname" "target_position"
 "angle" "-90.000000"
 "targetname" "target_position7"
 "origin" "-866.000000 -576.000000 22.000000"
 }
-// entity 180
+// entity 179
 {
 "classname" "light"
 "_color" "1 1 0.75"
@@ -10595,7 +10588,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 181
+// entity 180
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -10603,7 +10596,7 @@ brushDef
 "origin" "-632 386 -226"
 "modelscale" "0.7"
 }
-// entity 182
+// entity 181
 {
 "classname" "light"
 "fadeout" "0.5"
@@ -10615,7 +10608,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 183
+// entity 182
 {
 "classname" "light"
 "attenuation" "standard"
@@ -10625,7 +10618,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 184
+// entity 183
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -10633,7 +10626,7 @@ brushDef
 "origin" "-656 770 -50"
 "modelscale" "0.7"
 }
-// entity 185
+// entity 184
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10641,7 +10634,7 @@ brushDef
 "model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "origin" "-527.880188 378.204559 -406.321747"
 }
-// entity 186
+// entity 185
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10649,7 +10642,7 @@ brushDef
 "model" "models/mapobjects/nateleaf1/nateleaf.obj"
 "origin" "-520.764221 323.101715 -423.283997"
 }
-// entity 187
+// entity 186
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10658,7 +10651,7 @@ brushDef
 "model" "models/mapobjects/nateleaf1/branch.obj"
 "origin" "-189.575546 1002.327881 -189.253204"
 }
-// entity 188
+// entity 187
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10667,7 +10660,7 @@ brushDef
 "model" "models/mapobjects/nateleaf1/branch.obj"
 "origin" "-190.013336 998.847168 -188.316833"
 }
-// entity 189
+// entity 188
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10676,7 +10669,7 @@ brushDef
 "model" "models/mapobjects/nateleaf1/branch.obj"
 "origin" "-198.213028 1313.130005 -189.253189"
 }
-// entity 190
+// entity 189
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10685,7 +10678,7 @@ brushDef
 "model" "models/mapobjects/nateleaf1/branch.obj"
 "origin" "-186.013336 1322.847168 -188.316833"
 }
-// entity 191
+// entity 190
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10694,7 +10687,7 @@ brushDef
 "model" "models/mapobjects/nateleaf1/branch.obj"
 "origin" "418.424438 1322.327881 -189.253204"
 }
-// entity 192
+// entity 191
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10703,7 +10696,7 @@ brushDef
 "model" "models/mapobjects/nateleaf1/branch.obj"
 "origin" "417.986664 1318.847168 -188.316833"
 }
-// entity 193
+// entity 192
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10712,7 +10705,7 @@ brushDef
 "model" "models/mapobjects/nateleaf1/branch.obj"
 "origin" "409.280640 951.790771 -189.252594"
 }
-// entity 194
+// entity 193
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10721,7 +10714,7 @@ brushDef
 "model" "models/mapobjects/nateleaf1/branch.obj"
 "origin" "417.986664 966.847168 -188.316833"
 }
-// entity 195
+// entity 194
 {
 "classname" "misc_model"
 "smooth" "4"
@@ -10733,7 +10726,7 @@ brushDef
 "model" "models/mapobjects/wdm11/building_wooden_2.obj"
 "origin" "-384.000000 -992.000000 352.000000"
 }
-// entity 196
+// entity 195
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10742,7 +10735,7 @@ brushDef
 "model" "models/mapobjects/wdm11/window.ase"
 "origin" "120.000000 1464.000000 224.000000"
 }
-// entity 197
+// entity 196
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10751,7 +10744,7 @@ brushDef
 "model" "models/mapobjects/wdm11/window.ase"
 "origin" "-16.000000 1464.000000 224.000000"
 }
-// entity 198
+// entity 197
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10760,7 +10753,7 @@ brushDef
 "model" "models/mapobjects/wdm11/window.ase"
 "origin" "264.000000 1464.000000 224.000000"
 }
-// entity 199
+// entity 198
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10771,7 +10764,7 @@ brushDef
 "model" "models/mapobjects/wdm11/building_simple_3.obj"
 "origin" "704.000000 1120.000000 -224.000000"
 }
-// entity 200
+// entity 199
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10782,7 +10775,7 @@ brushDef
 "model" "models/mapobjects/wdm11/building_simple_1_2.obj"
 "origin" "768.000000 768.000000 -224.000000"
 }
-// entity 201
+// entity 200
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -10791,7 +10784,7 @@ brushDef
 "origin" "-106.000000 252.000000 356.000000"
 "collisiontype" "none"
 }
-// entity 202
+// entity 201
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10800,7 +10793,7 @@ brushDef
 "model" "models/mapobjects/lamp/lamp_yellow.obj"
 "origin" "-108.000000 308.000000 374.000000"
 }
-// entity 203
+// entity 202
 {
 "classname" "light"
 "radius" "450"
@@ -10812,14 +10805,14 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 204
+// entity 203
 {
 "classname" "target_position"
 "angle" "-90.000000"
 "targetname" "target_position8"
 "origin" "-108.000000 308.000000 134.000000"
 }
-// entity 205
+// entity 204
 {
 "classname" "misc_model"
 "angle" "-90.000000"
@@ -10828,7 +10821,7 @@ brushDef
 "origin" "-162 685 210"
 "modelscale" "0.7"
 }
-// entity 206
+// entity 205
 {
 "classname" "light"
 "_color" "1 1 0.75"
@@ -10837,7 +10830,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 207
+// entity 206
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -10846,7 +10839,7 @@ brushDef
 "origin" "13 514 210"
 "modelscale" "0.7"
 }
-// entity 208
+// entity 207
 {
 "classname" "light"
 "_color" "1 1 0.75"
@@ -10855,7 +10848,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 209
+// entity 208
 {
 "classname" "light"
 "attenuation" "standard"
@@ -10865,7 +10858,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 210
+// entity 209
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -10873,7 +10866,7 @@ brushDef
 "origin" "-304 674 -50"
 "modelscale" "0.7"
 }
-// entity 211
+// entity 210
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -10882,7 +10875,7 @@ brushDef
 "origin" "-238.000000 1400.000000 356.000000"
 "collisiontype" "none"
 }
-// entity 212
+// entity 211
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10891,7 +10884,7 @@ brushDef
 "model" "models/mapobjects/lamp/lamp_yellow.obj"
 "origin" "-236.000031 1344.000000 374.000000"
 }
-// entity 213
+// entity 212
 {
 "classname" "light"
 "radius" "450"
@@ -10902,14 +10895,14 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 214
+// entity 213
 {
 "classname" "target_position"
 "angle" "90.000000"
 "targetname" "target_position9"
 "origin" "-236.000000 1344.000000 134.000000"
 }
-// entity 215
+// entity 214
 {
 "classname" "light"
 "_color" "1 0.962109 0.726728"
@@ -10918,7 +10911,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 216
+// entity 215
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -10927,7 +10920,7 @@ brushDef
 "origin" "458.000000 1400.000000 356.000000"
 "collisiontype" "none"
 }
-// entity 217
+// entity 216
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10936,7 +10929,7 @@ brushDef
 "model" "models/mapobjects/lamp/lamp_yellow.obj"
 "origin" "459.999969 1344.000000 374.000000"
 }
-// entity 218
+// entity 217
 {
 "classname" "light"
 "radius" "450"
@@ -10947,14 +10940,14 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 219
+// entity 218
 {
 "classname" "target_position"
 "angle" "90.000000"
 "targetname" "target_position10"
 "origin" "460.000000 1344.000000 134.000000"
 }
-// entity 220
+// entity 219
 {
 "classname" "light"
 "_color" "1 0.962109 0.726728"
@@ -10963,7 +10956,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 221
+// entity 220
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -10972,7 +10965,7 @@ brushDef
 "model" "models/mapobjects/crates/crate_wood.obj"
 "origin" "192.000076 799.000305 -182.000061"
 }
-// entity 222
+// entity 221
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -10981,7 +10974,7 @@ brushDef
 "origin" "-1408.000000 64.000000 270.000000"
 "collisiontype" "none"
 }
-// entity 223
+// entity 222
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -10989,14 +10982,14 @@ brushDef
 "origin" "-144.000000 130.000000 84.000000"
 "collisiontype" "none"
 }
-// entity 224
+// entity 223
 {
 "classname" "misc_model"
 "spawnflags" "5"
 "model" "models/mapobjects/wsw_adverts/tech_add_2.ase"
 "origin" "-416.000000 416.000000 224.000000"
 }
-// entity 225
+// entity 224
 {
 "classname" "light"
 "_color" "0.6 0.2 0.6"
@@ -11005,7 +10998,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 226
+// entity 225
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -11013,7 +11006,7 @@ brushDef
 "model" "models/mapobjects/lights/model_fluoroscent_purple.ase"
 "origin" "-448.000000 82.000000 -228.000000"
 }
-// entity 227
+// entity 226
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -11022,7 +11015,7 @@ brushDef
 "origin" "-232.000000 -278.000031 372.000000"
 "collisiontype" "none"
 }
-// entity 228
+// entity 227
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11031,7 +11024,7 @@ brushDef
 "model" "models/mapobjects/lamp/lamp_yellow.obj"
 "origin" "-176.000031 -276.000031 390.000000"
 }
-// entity 229
+// entity 228
 {
 "classname" "light"
 "softness" "0.5"
@@ -11043,14 +11036,14 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 230
+// entity 229
 {
 "classname" "target_position"
 "angle" "-179.999985"
 "targetname" "target_position11"
 "origin" "-176.000000 -276.000000 150.000000"
 }
-// entity 231
+// entity 230
 {
 "classname" "light"
 "attenuation" "soft"
@@ -11060,7 +11053,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 232
+// entity 231
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -11068,7 +11061,7 @@ brushDef
 "origin" "178 416 -18"
 "modelscale" "0.7"
 }
-// entity 233
+// entity 232
 {
 "classname" "light"
 "attenuation" "standard"
@@ -11078,7 +11071,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 234
+// entity 233
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -11086,7 +11079,7 @@ brushDef
 "origin" "-126 416 -18"
 "modelscale" "0.7"
 }
-// entity 235
+// entity 234
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -11095,7 +11088,7 @@ brushDef
 "origin" "-31.000000 192.000000 103.000000"
 "collisiontype" "none"
 }
-// entity 236
+// entity 235
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11105,7 +11098,7 @@ brushDef
 "model" "models/mapobjects/tree110/tree110.lwo"
 "origin" "336.000000 352.000000 224.000000"
 }
-// entity 237
+// entity 236
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11115,12 +11108,12 @@ brushDef
 "model" "models/mapobjects/tree110/tree110.lwo"
 "origin" "416.000000 1120.000000 -180.000000"
 }
-// entity 238
+// entity 237
 {
 "classname" "item_quad"
 "origin" "-640.000000 768.000000 -192.000000"
 }
-// entity 239
+// entity 238
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11130,7 +11123,7 @@ brushDef
 "model" "models/mapobjects/crates/crate_wood.obj"
 "origin" "192.000076 639.000305 -214.000061"
 }
-// entity 240
+// entity 239
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11139,7 +11132,7 @@ brushDef
 "model" "models/mapobjects/wdm11/pile_of_wood_2.obj"
 "origin" "159.999969 831.999939 -115.999985"
 }
-// entity 241
+// entity 240
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11148,7 +11141,7 @@ brushDef
 "model" "models/mapobjects/crates/crate_wood.obj"
 "origin" "-64.000000 840.000000 -184.000000"
 }
-// entity 242
+// entity 241
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11157,7 +11150,7 @@ brushDef
 "model" "models/mapobjects/crates/crate_wood2.obj"
 "origin" "160.000000 832.000000 -80.000000"
 }
-// entity 243
+// entity 242
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11167,7 +11160,7 @@ brushDef
 "model" "models/mapobjects/crates/crate_wood4.obj"
 "origin" "230.000046 768.000122 -80.000015"
 }
-// entity 244
+// entity 243
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -11175,7 +11168,7 @@ brushDef
 "origin" "-168.000000 778.000000 -204.000000"
 "collisiontype" "none"
 }
-// entity 245
+// entity 244
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11184,7 +11177,7 @@ brushDef
 "model" "models/mapobjects/wdm11/pile_of_wood_2.obj"
 "origin" "182.000000 764.000000 -44.000000"
 }
-// entity 246
+// entity 245
 {
 "classname" "misc_model"
 "cp��osopmtu" "none"
@@ -11192,7 +11185,7 @@ brushDef
 "model" "models/mapobjects/wdm11/wooden_stairs.obj"
 "origin" "-640.000000 -384.000000 0.000000"
 }
-// entity 247
+// entity 246
 {
 "classname" "misc_model"
 "spawnflags" "4"
@@ -11202,7 +11195,7 @@ brushDef
 "modelscale" "2.25"
 "collisiontype" "none"
 }
-// entity 248
+// entity 247
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11211,17 +11204,17 @@ brushDef
 "model" "models/mapobjects/crates/crate_wood2.obj"
 "origin" "164.000000 768.000000 -80.000000"
 }
-// entity 249
+// entity 248
 {
 "classname" "item_armor_ga"
 "origin" "-1120.000000 -64.000000 32.000000"
 }
-// entity 250
+// entity 249
 {
 "classname" "item_armor_ya"
 "origin" "-384.000000 -1088.000000 -160.000000"
 }
-// entity 251
+// entity 250
 {
 "classname" "misc_model"
 "angle" "-179.999985"
@@ -11229,7 +11222,7 @@ brushDef
 "model" "models/mapobjects/courtyard/warehouse_c.ase"
 "origin" "-8.000000 252.000000 168.000000"
 }
-// entity 252
+// entity 251
 {
 "classname" "misc_model"
 "angles" "-0.000000 -90.000000 7.522987"
@@ -11237,12 +11230,12 @@ brushDef
 "model" "models/mapobjects/courtyard/warehouse_c.ase"
 "origin" "-523.999939 -271.999939 261.999939"
 }
-// entity 253
+// entity 252
 {
 "classname" "ammo_electrobolt"
 "origin" "-368.000000 -272.000000 128.000000"
 }
-// entity 254
+// entity 253
 {
 "classname" "light"
 "_color" "0.894118 0.607843 0.211765"
@@ -11254,13 +11247,13 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 255
+// entity 254
 {
 "classname" "target_position"
 "targetname" "target_position15"
 "origin" "-910 -406 414"
 }
-// entity 256
+// entity 255
 {
 "classname" "misc_model"
 "modelscale" "0.75"
@@ -11268,7 +11261,7 @@ brushDef
 "model" "models/mapobjects/lights/light_leds_orange.lwo"
 "origin" "-1246 640 -360"
 }
-// entity 257
+// entity 256
 {
 "classname" "light"
 "fadeout" "0.3"
@@ -11282,13 +11275,13 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 258
+// entity 257
 {
 "classname" "target_position"
 "targetname" "light5"
 "origin" "-1224 642 -360"
 }
-// entity 259
+// entity 258
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11296,14 +11289,14 @@ brushDef
 "model" "models/mapobjects/industrial/crate_dark.obj"
 "origin" "-1088 1040 -230"
 }
-// entity 260
+// entity 259
 {
 "classname" "misc_model"
 "collisiontype" "none"
 "model" "models/mapobjects/industrial/propanebottlebig.obj"
 "origin" "-1168 928 -224"
 }
-// entity 261
+// entity 260
 {
 "classname" "misc_model"
 "collisiontype" "none"
@@ -11311,7 +11304,7 @@ brushDef
 "model" "models/mapobjects/industrial/propanebottlebig.obj"
 "origin" "-1136 928 -224"
 }
-// entity 262
+// entity 261
 {
 "classname" "misc_model"
 "softness" "30"
@@ -11323,7 +11316,7 @@ brushDef
 "model" "models/mapobjects/lights/walllamp1.obj"
 "origin" "-1080 929.841 -33.8531"
 }
-// entity 263
+// entity 262
 {
 "classname" "func_group"
 "vertexcolor" "0.698039 0.619608 0.227451"
@@ -11341,7 +11334,7 @@ brushDef
 }
 }
 }
-// entity 264
+// entity 263
 {
 "classname" "light"
 "fadeout" "0.3"
@@ -11355,13 +11348,13 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 265
+// entity 264
 {
 "classname" "target_position"
 "targetname" "light6"
 "origin" "-1224 498 -360"
 }
-// entity 266
+// entity 265
 {
 "classname" "misc_model"
 "modelscale" "0.75"
@@ -11369,14 +11362,14 @@ brushDef
 "model" "models/mapobjects/lights/light_leds_orange.lwo"
 "origin" "-1246 496 -360"
 }
-// entity 267
+// entity 266
 {
 "classname" "misc_model"
 "modelscale" "0.75"
 "model" "models/mapobjects/lights/light_leds_orange.lwo"
 "origin" "-1088 702 -360"
 }
-// entity 268
+// entity 267
 {
 "classname" "light"
 "fadeout" "0.3"
@@ -11390,21 +11383,21 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 269
+// entity 268
 {
 "classname" "target_position"
 "angle" "-90"
 "targetname" "light7"
 "origin" "-1086 680 -360"
 }
-// entity 270
+// entity 269
 {
 "classname" "misc_model"
 "modelscale" "0.75"
 "model" "models/mapobjects/lights/light_leds_orange.lwo"
 "origin" "-944 702 -360"
 }
-// entity 271
+// entity 270
 {
 "classname" "light"
 "fadeout" "0.3"
@@ -11418,14 +11411,14 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 272
+// entity 271
 {
 "classname" "target_position"
 "angle" "-90"
 "targetname" "light8"
 "origin" "-942 680 -360"
 }
-// entity 273
+// entity 272
 {
 "classname" "light"
 "fadeout" "0.5"
@@ -11437,7 +11430,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 274
+// entity 273
 {
 "classname" "func_group"
 "collisiontype" "none"
@@ -12088,7 +12081,7 @@ tiles/concrete_tiles
 }
 }
 }
-// entity 275
+// entity 274
 {
 "classname" "func_group"
 "smooth" "1.5"
@@ -12168,7 +12161,7 @@ brushDef
 }
 }
 }
-// entity 276
+// entity 275
 {
 "classname" "misc_model"
 "angle" "180"
@@ -12178,7 +12171,7 @@ brushDef
 "collisiontype" "none"
 "modelscale_vec" "1 1.65979 1"
 }
-// entity 277
+// entity 276
 {
 "classname" "misc_model"
 "angle" "176.498"
@@ -12188,7 +12181,7 @@ brushDef
 "collisiontype" "none"
 "modelscale_vec" "1 1.65979 0.5"
 }
-// entity 278
+// entity 277
 {
 "classname" "func_group"
 "collisiontype" "none"
@@ -12286,7 +12279,7 @@ brushDef
 }
 }
 }
-// entity 279
+// entity 278
 {
 "classname" "misc_model"
 "softness" "30"
@@ -12298,7 +12291,7 @@ brushDef
 "model" "models/mapobjects/lights/walllamp1.obj"
 "origin" "-400 -134.159 222.147"
 }
-// entity 280
+// entity 279
 {
 "classname" "misc_model"
 "softness" "30"
@@ -12310,7 +12303,7 @@ brushDef
 "model" "models/mapobjects/lights/walllamp1.obj"
 "origin" "-400 81.841 222.147"
 }
-// entity 281
+// entity 280
 {
 "classname" "misc_model"
 "origin" "-830.042 466.645 62"
@@ -12318,21 +12311,21 @@ brushDef
 "angle" "135"
 "modelscale_vec" "1 1 -1"
 }
-// entity 282
+// entity 281
 {
 "classname" "misc_model"
 "origin" "-778 -964 -256"
 "model" "models/mapobjects/city/sewerGrateShort.obj"
 "angle" "-90"
 }
-// entity 283
+// entity 282
 {
 "classname" "misc_model"
 "origin" "-1184 716 -212"
 "model" "models/mapobjects/handrails/handrail_2.obj"
 "modelscale" "1.5"
 }
-// entity 284
+// entity 283
 {
 "classname" "misc_decal"
 "origin" "-1064 728 304"
@@ -12342,7 +12335,7 @@ brushDef
 "distance" "250"
 "vertexalpha" "0.5"
 }
-// entity 285
+// entity 284
 {
 "classname" "misc_decal"
 "origin" "-692 514 -399"
@@ -12352,7 +12345,7 @@ brushDef
 "vertexalpha" "0.9"
 "angles" "90 0 90"
 }
-// entity 286
+// entity 285
 {
 "classname" "misc_decal"
 "origin" "-595 514 -399"
@@ -12362,7 +12355,7 @@ brushDef
 "vertexalpha" "0.9"
 "angles" "90 0 90"
 }
-// entity 287
+// entity 286
 {
 "classname" "misc_decal"
 "origin" "-692 1026 -399"
@@ -12372,7 +12365,7 @@ brushDef
 "vertexalpha" "0.9"
 "angles" "90 0 90"
 }
-// entity 288
+// entity 287
 {
 "classname" "misc_decal"
 "origin" "-595 1026 -399"
@@ -12382,7 +12375,7 @@ brushDef
 "vertexalpha" "0.9"
 "angles" "90 0 90"
 }
-// entity 289
+// entity 288
 {
 "classname" "misc_model"
 "origin" "-176 -1184 -96"
@@ -12390,4 +12383,20 @@ brushDef
 "angles" "0 0 -90"
 "modelscale_vec" "0.25 -0.25 0.25"
 "collisiontype" "none"
+}
+// entity 289
+{
+"classname" "misc_model"
+"spawnflags" "6"
+"model" "models/mapobjects/city/barrier_yellow.obj"
+"origin" "-704 848 -368"
+"angle" "180"
+}
+// entity 290
+{
+"classname" "misc_model"
+"spawnflags" "6"
+"model" "models/mapobjects/city/barrier_yellow.obj"
+"origin" "-591.996 847.934 -368"
+"angle" "7.45539"
 }
