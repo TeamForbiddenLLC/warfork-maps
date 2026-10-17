@@ -582,7 +582,7 @@ blx_wtest3/blx_wt3_dgrey
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 172 -28 95 0 0 ) ( 172 -32 95 0 -0.0625 ) ( 172 -36 95 0 -0.125 ) )
@@ -599,7 +599,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 172 36 95 0 0 ) ( 172 32 95 0 -0.0625 ) ( 172 28 95 0 -0.125 ) )
@@ -616,7 +616,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 172 100 95 0 0 ) ( 172 96 95 0 -0.0625 ) ( 172 92 95 0 -0.125 ) )
@@ -633,7 +633,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 172 -92 95 0 0 ) ( 172 -96 95 0 -0.0625 ) ( 172 -100 95 0 -0.125 ) )
@@ -650,7 +650,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 172 -100 81 0 -0.125 ) ( 172 -96 81 0 -0.0625 ) ( 172 -92 81 0 0 ) )
@@ -667,7 +667,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 172 -36 81 0 -0.125 ) ( 172 -32 81 0 -0.0625 ) ( 172 -28 81 0 0 ) )
@@ -684,7 +684,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 172 28 81 0 -0.125 ) ( 172 32 81 0 -0.0625 ) ( 172 36 81 0 0 ) )
@@ -701,7 +701,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 172 92 81 0 -0.125 ) ( 172 96 81 0 -0.0625 ) ( 172 100 81 0 0 ) )

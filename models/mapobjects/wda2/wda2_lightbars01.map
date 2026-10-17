@@ -825,7 +825,7 @@ blx_wtest3/blx_wt3_dgrey
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( -28 -188 97 0 -0.125 ) ( -24 -188 97 0 -0.0625 ) ( -20 -188 97 0 0 ) )
@@ -842,7 +842,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 28 -188 97 0 -0.125 ) ( 32 -188 97 0 -0.0625 ) ( 36 -188 97 0 0 ) )
@@ -859,7 +859,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 84 -188 97 0 -0.125 ) ( 88 -188 97 0 -0.0625 ) ( 92 -188 97 0 0 ) )
@@ -876,7 +876,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 140 -188 97 0 -0.125 ) ( 144 -188 97 0 -0.0625 ) ( 148 -188 97 0 0 ) )
@@ -893,7 +893,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 148 -188 111 0 0 ) ( 144 -188 111 0 -0.0625 ) ( 140 -188 111 0 -0.125 ) )
@@ -910,7 +910,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 92 -188 111 0 0 ) ( 88 -188 111 0 -0.0625 ) ( 84 -188 111 0 -0.125 ) )
@@ -927,7 +927,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( 36 -188 111 0 0 ) ( 32 -188 111 0 -0.0625 ) ( 28 -188 111 0 -0.125 ) )
@@ -944,7 +944,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( -20 -188 111 0 0 ) ( -24 -188 111 0 -0.0625 ) ( -28 -188 111 0 -0.125 ) )
@@ -961,7 +961,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( -204 -188 97 0 -0.125 ) ( -200 -188 97 0 -0.0625 ) ( -196 -188 97 0 0 ) )
@@ -978,7 +978,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( -148 -188 97 0 -0.125 ) ( -144 -188 97 0 -0.0625 ) ( -140 -188 97 0 0 ) )
@@ -995,7 +995,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( -92 -188 97 0 -0.125 ) ( -88 -188 97 0 -0.0625 ) ( -84 -188 97 0 0 ) )
@@ -1012,7 +1012,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( -84 -188 111 0 0 ) ( -88 -188 111 0 -0.0625 ) ( -92 -188 111 0 -0.125 ) )
@@ -1029,7 +1029,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( -140 -188 111 0 0 ) ( -144 -188 111 0 -0.0625 ) ( -148 -188 111 0 -0.125 ) )
@@ -1046,7 +1046,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 7 3 0 0 0 )
 (
 ( ( -196 -188 111 0 0 ) ( -200 -188 111 0 -0.0625 ) ( -204 -188 111 0 -0.125 ) )

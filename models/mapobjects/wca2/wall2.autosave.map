@@ -414,7 +414,7 @@ blx_wtest3/blx_wt3_grey
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 9 3 0 0 0 )
 (
 ( ( 56 52 -16 0 0 ) ( 64 52 -16 0 5 ) ( 72 52 -16 0 10 ) )
@@ -433,7 +433,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 9 3 0 0 0 )
 (
 ( ( 56 52 80 0 0 ) ( 64 52 80 0 5 ) ( 72 52 80 0 10 ) )
@@ -452,7 +452,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 9 3 0 0 0 )
 (
 ( ( 56 52 48 0 0 ) ( 64 52 48 0 5 ) ( 72 52 48 0 10 ) )
@@ -471,7 +471,7 @@ blx_wtest3/blx_wt3_grid
 {
 patchDef2
 {
-blx_wtest3/blx_wt3_grid
+grates/simplegrid
 ( 9 3 0 0 0 )
 (
 ( ( 56 52 16 0 0 ) ( 64 52 16 0 5 ) ( 72 52 16 0 10 ) )

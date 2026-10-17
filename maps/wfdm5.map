@@ -6,17 +6,13 @@
 "colorCorrection" "gfx/correction/nighttime_citylights_red"
 "_blocksize" "512"
 "_lightingIntensity" "2.5"
-"_floodlight" "240 255 255 768 30"
 "message" "viciious' lair"
 "ambient" "10"
 "_color" "0.596078 0.239216 1"
 "saturation" "2.25"
-"collisiontype" "none"
 "fog" "1500 0.15 0.1 0.22 256"
 "fog_height" "512 2500"
-"target" "func_group1"
-"cutoff" "1"
-"fadeout" "0.05"
+"_outlinecolor" "0.109804 0.0823529 0.156863"
 // brush 0
 {
 brushDef
