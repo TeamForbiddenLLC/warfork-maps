@@ -10393,7 +10393,7 @@ brushDef
 "angle" "137.557068"
 "modelscale" "1.500000"
 "spawnflags" "4"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "origin" "-192.000305 1151.999756 -179.999985"
 }
 // entity 152
@@ -10983,7 +10983,7 @@ brushDef
 "angle" "20.466627"
 "modelscale" "1.500000"
 "spawnflags" "4"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "origin" "336.000000 352.000000 224.000000"
 }
 // entity 219
@@ -10993,7 +10993,7 @@ brushDef
 "angle" "20.466627"
 "modelscale" "1.500000"
 "spawnflags" "4"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "origin" "416.000000 1120.000000 -180.000000"
 }
 // entity 220
@@ -12286,7 +12286,7 @@ brushDef
 "angle" "79.9182"
 "modelscale" "1.5"
 "spawnflags" "4"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "origin" "-1509.35 794.333 76"
 }
 // entity 275

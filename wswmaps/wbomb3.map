@@ -24739,7 +24739,7 @@ concrete/oldplaster2uniform
 {
 "angle" "-55.021179"
 "modelscale_vec" "2.500000 2.500000 3.000000"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "origin" "-2356.676514 -846.329590 73.000000"
 "classname" "misc_model"
 }
@@ -24747,7 +24747,7 @@ concrete/oldplaster2uniform
 {
 "angle" "26.052200"
 "modelscale_vec" "2.500000 2.500000 3.000000"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "origin" "-1929.650024 -261.217010 40.000000"
 "classname" "misc_model"
 }
@@ -26245,7 +26245,7 @@ brushDef
 {
 "angle" "-172.016983"
 "modelscale_vec" "2.500000 2.500000 3.000000"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "origin" "-2688.020020 -1355.719971 41.000000"
 "classname" "misc_model"
 }

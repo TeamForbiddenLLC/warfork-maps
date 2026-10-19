@@ -19827,7 +19827,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "-640 1744 273"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "modelscale" "3"
 "angle" "-135"
 "spawnflags" "4"
@@ -20211,7 +20211,7 @@ bricks/redbricks_base_02
 {
 "classname" "misc_model"
 "origin" "2064 592 81"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "modelscale" "3"
 "angle" "135"
 }

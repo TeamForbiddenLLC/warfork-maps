@@ -1,0 +1,13 @@
+# Blender 5.0.1 MTL File: '01.blend'
+# www.blender.org
+
+newmtl blocky_fat:rockset1_0
+Ns 10.000005
+Ka 0.100000 0.100000 0.100000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd models/mapojects/rocks/blockyrocks/albedo.png

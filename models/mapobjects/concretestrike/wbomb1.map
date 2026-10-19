@@ -24089,7 +24089,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-2150.41 1929.26 313"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "modelscale_vec" "2.45 2.45 3"
 "angle" "54.7947"
 }
@@ -28613,7 +28613,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "1085.98 576.283 161"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "modelscale_vec" "2.5 2.5 3"
 "angle" "-172.017"
 }
@@ -28621,7 +28621,7 @@ wsw_city1/grate_nosolid
 {
 "classname" "misc_model"
 "origin" "-2154.02 3032.28 281"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "modelscale_vec" "2.5 2.5 3"
 "angle" "-172.017"
 }

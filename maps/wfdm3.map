@@ -12,6 +12,7 @@
 "message" "Deeper Underground"
 "ambient" "15"
 "ambient_gatherradius" "1000"
+"rad_gridscale" "1.5"
 // brush 0
 {
 brushDef
@@ -11100,7 +11101,7 @@ brushDef
 "classname" "misc_model"
 "collisiontype" "none"
 "angle" "90"
-"model" "models/mapmodels2026/jumppad1.obj"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "origin" "1090 -320 -72"
 "vertexcolor" "#f8d300"
 }
@@ -11109,7 +11110,7 @@ brushDef
 "classname" "misc_model"
 "vertexcolor" "#3098ff"
 "angle" "90"
-"model" "models/mapmodels2026/jumppad1.obj"
+"model" "models/mapobjects/jumppad1/jumppad1.obj"
 "origin" "-742 -16 0"
 }
 // entity 39
@@ -11117,10 +11118,10 @@ brushDef
 "classname" "light"
 "attenuation" "soft"
 "_color" "1 0.85098 0.305882"
-"light" "200"
+"light" "350"
 "origin" "1092 -320 12"
-"cutoff" "8"
-"fadeout" "0.2"
+"cutoff" "3"
+"fadeout" "0.4"
 }
 // entity 40
 {
@@ -11138,7 +11139,7 @@ brushDef
 "collisiontype" "none"
 "radius" "200"
 "light" "40"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "929.223 -784 89.3606"
 "angles" "0 90 45"
 "color" "#ff6b2b"
@@ -11149,7 +11150,7 @@ brushDef
 "collisiontype" "none"
 "radius" "200"
 "light" "40"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "840 -694.777 89.3606"
 "angles" "0 -180 45"
 "color" "#ff6b2b"
@@ -11227,7 +11228,7 @@ brushDef
 "_color" "0.462028 0.582223 0.857855"
 "angles" "0 0 90"
 "collisiontype" "none"
-"model" "models/mapmodels2026/lights/fluo-light-wall-tiny-8u.obj"
+"model" "models/mapobjects/lights/fluo-light-wall-tiny-8u.obj"
 "origin" "360 -910.56 336.045"
 }
 // entity 53
@@ -11254,7 +11255,7 @@ brushDef
 "radius" "200"
 "light" "75"
 "color" "1 0.862715 0.450828"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "424 -225.01 356.01"
 }
 // entity 56
@@ -11301,9 +11302,9 @@ brushDef
 "classname" "light"
 "color" "#4fa7ff"
 "fadeout" "0.75"
-"cutoff" "20"
+"cutoff" "4"
 "attenuation" "soft"
-"light" "650"
+"light" "800"
 "origin" "-756 -12 64"
 }
 // entity 61
@@ -11329,7 +11330,7 @@ brushDef
 "_color" "0.462028 0.582223 0.857855"
 "angles" "0 0 90"
 "collisiontype" "none"
-"model" "models/mapmodels2026/lights/fluo-light-wall-tiny-8u.obj"
+"model" "models/mapobjects/lights/fluo-light-wall-tiny-8u.obj"
 "origin" "1216 -1152.56 376.045"
 "light" "250"
 "radius" "1500"
@@ -11346,22 +11347,24 @@ brushDef
 "classname" "misc_model"
 "angles" "0 0 90"
 "collisiontype" "none"
-"model" "models/mapmodels2026/lights/fluo-light-wall-tiny-8u.obj"
+"model" "models/mapobjects/lights/fluo-light-wall-tiny-8u.obj"
 "origin" "-832 -614.56 432.045"
 "light" "425"
 "color" "1 1 0.75"
-"prestep" "100"
+"fadeout" "0.5"
+"softness" "20"
 }
 // entity 65
 {
 "classname" "misc_model"
 "angles" "0 0 90"
 "collisiontype" "none"
-"model" "models/mapmodels2026/lights/fluo-light-wall-tiny-8u.obj"
+"model" "models/mapobjects/lights/fluo-light-wall-tiny-8u.obj"
 "origin" "-832 -486.56 432.045"
 "light" "425"
 "color" "1 1 0.75"
-"prestep" "100"
+"fadeout" "0.5"
+"softness" "20"
 }
 // entity 66
 {
@@ -11500,7 +11503,7 @@ brushDef
 "vertexcolor" "#f5bf69"
 "modelscale_vec" "1 1 -1"
 "angle" "180"
-"model" "models/mapmodels2026/rocks/cliffrock.obj"
+"model" "models/mapobjects/rocks/cliffrock.obj"
 "origin" "608 504 416"
 "targetname" "misc_model2"
 "maxtriangles" "1000"
@@ -11512,7 +11515,7 @@ brushDef
 "vertexcolor" "#f5bf69"
 "angles" "0 -180 -90"
 "modelscale_vec" "1.62594 1.07763 1.1875"
-"model" "models/mapmodels2026/rocks/cliffrock_north.obj"
+"model" "models/mapobjects/rocks/cliffrock_north.obj"
 "origin" "1216.15 312.212 349.602"
 "targetname" "misc_model1"
 "maxtriangles" "500"
@@ -11523,7 +11526,7 @@ brushDef
 "vertexcolor" "#f5bf69"
 "modelscale_vec" "0.886193 0.767103 1.125"
 "angle" "-90"
-"model" "models/mapmodels2026/rocks/cliffrock.obj"
+"model" "models/mapobjects/rocks/cliffrock.obj"
 "origin" "-288.159 247.973 64.7924"
 "maxtriangles" "1500"
 "collisiontype" "objectdetail"
@@ -11536,7 +11539,7 @@ brushDef
 "light" "100"
 "color" "1 0.769574 0.450828"
 "angle" "-90.000000"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "512 476 168"
 }
 // entity 77
@@ -11546,7 +11549,7 @@ brushDef
 "modelscale_vec" "-0.868874 -0.561255 -0.895099"
 "angle" "90"
 "vertexcolor" "#b08b51"
-"model" "models/mapmodels2026/rocks/blocky_fat.obj"
+"model" "models/mapobjects/rocks/blocky_fat.obj"
 "origin" "-135.263 -284.247 228.679"
 }
 // entity 78
@@ -11554,7 +11557,7 @@ brushDef
 "classname" "misc_model"
 "vertexcolor_old" "#4d3d25"
 "vertexcolor" "#b08b51"
-"model" "models/mapmodels2026/rocks/blocky_tall02.obj"
+"model" "models/mapobjects/rocks/blocky_tall02.obj"
 "origin" "304 -172 40"
 }
 // entity 79
@@ -11563,7 +11566,7 @@ brushDef
 "vertexcolor_old" "#4d3d25"
 "angle" "90"
 "vertexcolor" "#b08b51"
-"model" "models/mapmodels2026/rocks/blocky_tall02.obj"
+"model" "models/mapobjects/rocks/blocky_tall02.obj"
 "origin" "304 -172 296"
 }
 // entity 80
@@ -11571,7 +11574,7 @@ brushDef
 "classname" "misc_model"
 "vertexcolor_old" "#4d3d25"
 "vertexcolor" "#b08b51"
-"model" "models/mapmodels2026/rocks/blocky_plat02.obj"
+"model" "models/mapobjects/rocks/blocky_plat02.obj"
 "origin" "424 -104 168"
 }
 // entity 81
@@ -11580,7 +11583,7 @@ brushDef
 "modelscale_vec" "1.24858 1.65093 2.28"
 "angles" "0 6.27735 -180"
 "vertexcolor" "#b08b51"
-"model" "models/mapmodels2026/rocks/blocky_plat03.obj"
+"model" "models/mapobjects/rocks/blocky_plat03.obj"
 "origin" "-330.522 466.568 329.303"
 }
 // entity 82
@@ -11589,7 +11592,7 @@ brushDef
 "vertexcolor" "#b08b51"
 "modelscale_vec" "1.07785 1 0.969782"
 "angles" "0 0 90"
-"model" "models/mapmodels2026/rocks/blocky_tall02.obj"
+"model" "models/mapobjects/rocks/blocky_tall02.obj"
 "origin" "-140.193 -218.353 331.285"
 }
 // entity 83
@@ -11600,7 +11603,7 @@ brushDef
 "backsplash" "0.1"
 "attenuation" "soft"
 "light" "500"
-"model" "models/mapmodels2026/lights/fluo-lamp_doubletube-80u.obj"
+"model" "models/mapobjects/lights/fluo-lamp_doubletube-80u.obj"
 "origin" "432 -70 140"
 }
 // entity 84
@@ -14024,7 +14027,7 @@ brushDef
 "vertexcolor" "#b08b51"
 "modelscale_vec" "1.55 1 1.5"
 "angles" "-90 0 90"
-"model" "models/mapmodels2026/rocks/blocky_mid01.obj"
+"model" "models/mapobjects/rocks/blocky_mid01.obj"
 "origin" "-880 -225.88 311.205"
 "maxtriangles" "350"
 }
@@ -14050,7 +14053,7 @@ brushDef
 "vertexcolor" "#f5bf69"
 "modelscale_vec" "1.5 1.67718 0.955426"
 "angles" "-90 0 -90"
-"model" "models/mapmodels2026/rocks/cliffrock_top.obj"
+"model" "models/mapobjects/rocks/cliffrock_top.obj"
 "origin" "-916.596 -1068.38 286.353"
 "maxtriangles" "450"
 "collisiontype" "objectdetail"
@@ -14060,7 +14063,7 @@ brushDef
 "classname" "misc_model"
 "vertexcolor" "#b08b51"
 "modelscale_vec" "0.943405 0.773969 -0.912128"
-"model" "models/mapmodels2026/rocks/blocky_tall01.obj"
+"model" "models/mapobjects/rocks/blocky_tall01.obj"
 "origin" "-448.011 -589.72 394.219"
 }
 // entity 94
@@ -15106,6 +15109,8 @@ brushDef
 "type" "surface"
 "subdivide" "32"
 "backsplash" "0"
+"grid_ambientscale" "0"
+"grid_directscale" "40"
 // brush 0
 {
 brushDef
@@ -15222,11 +15227,11 @@ brushDef
 "radius" "180"
 "softness" "0"
 "attenuation" "soft"
-"cutoff" "16"
+"cutoff" "12"
 "color" "#eb4034"
-"fadeout" "0"
-"noambient" "1"
-"grid_ambientscale" "0.25"
+"fadeout" "0.15"
+"grid_ambientscale" "40"
+"grid_directscale" "40"
 }
 // entity 115
 {
@@ -15255,7 +15260,7 @@ brushDef
 {
 "classname" "misc_model"
 "origin" "-227.841 -897.036 250.205"
-"model" "models/mapmodels2026/rocks/blocky_rock01.obj"
+"model" "models/mapobjects/rocks/blocky_rock01.obj"
 "angles" "11.5206 0 93.9378"
 "modelscale_vec" "1.07239 2.40105 1.44232"
 "vertexcolor" "#b08b51"
@@ -15980,7 +15985,7 @@ brushDef
 "collisiontype" "none"
 "radius" "200"
 "light" "40"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "750.69 -784.001 89.3606"
 "angles" "0 -90 45"
 "color" "#ff6b2b"
@@ -15991,7 +15996,7 @@ brushDef
 "collisiontype" "none"
 "radius" "200"
 "light" "40"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "840 -873.309 89.3606"
 "angles" "0 0 45"
 "color" "#ff6b2b"
@@ -16000,7 +16005,7 @@ brushDef
 {
 "classname" "misc_model"
 "origin" "320 216 168"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "angle" "90"
 "light" "150"
 "softness" "40"
@@ -16010,7 +16015,7 @@ brushDef
 {
 "classname" "misc_model"
 "origin" "-456 592 168"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "light" "150"
 "softness" "40"
 "color" "1 0.862715 0.450828"
@@ -16019,7 +16024,7 @@ brushDef
 {
 "classname" "misc_model"
 "origin" "1320 -320 40"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "light" "150"
 "softness" "40"
 "color" "1 0.862715 0.450828"
@@ -16081,7 +16086,7 @@ brushDef
 {
 "classname" "misc_model"
 "origin" "-411.645 -429.673 150.12"
-"model" "models/mapmodels2026/rocks/blocky_mid01.obj"
+"model" "models/mapobjects/rocks/blocky_mid01.obj"
 "modelscale_vec" "1 0.556208 1"
 "angles" "90 0 90"
 "vertexcolor" "#b08b51"
@@ -16091,7 +16096,7 @@ brushDef
 {
 "classname" "misc_model"
 "origin" "-614.514 -247 76.927"
-"model" "models/mapmodels2026/rocks/blocky_fat.obj"
+"model" "models/mapobjects/rocks/blocky_fat.obj"
 "angles" "0 -90 -90"
 "vertexcolor" "#b08b51"
 "modelscale_vec" "1 1 0.857886"
@@ -16301,7 +16306,7 @@ hexagons/warningtrim01
 {
 "classname" "misc_model"
 "origin" "-351.245 -866.552 265.715"
-"model" "models/mapmodels2026/rocks/blocky_plat02.obj"
+"model" "models/mapobjects/rocks/blocky_plat02.obj"
 "angles" "90 0 -90"
 "modelscale_vec" "1.32132 1.99384 1"
 "vertexcolor" "#b08b51"
@@ -16534,7 +16539,7 @@ brushDef
 "radius" "200"
 "light" "125"
 "color" "#ff6b2b"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "-288 -593.01 364.01"
 }
 // entity 140
@@ -16544,7 +16549,7 @@ brushDef
 "radius" "200"
 "light" "125"
 "color" "#ff6b2b"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "-288 -225.01 356.01"
 }
 // entity 141
@@ -16552,12 +16557,12 @@ brushDef
 "classname" "misc_model"
 "angles" "0 0 90"
 "collisiontype" "none"
-"model" "models/mapmodels2026/lights/fluo-light-wall-tiny-8u.obj"
+"model" "models/mapobjects/lights/fluo-light-wall-tiny-8u.obj"
 "origin" "-744 -212.56 428.045"
 "light" "2000"
 "color" "1 1 0.75"
 "attenuation" "soft"
-"cutoff" "30"
+"cutoff" "8"
 "fadeout" "0.75"
 }
 // entity 142
@@ -16565,12 +16570,12 @@ brushDef
 "classname" "misc_model"
 "angles" "0 0 90"
 "collisiontype" "none"
-"model" "models/mapmodels2026/lights/fluo-light-wall-tiny-8u.obj"
+"model" "models/mapobjects/lights/fluo-light-wall-tiny-8u.obj"
 "origin" "-504 -212.56 428.045"
 "light" "2000"
 "color" "1 1 0.75"
 "attenuation" "soft"
-"cutoff" "30"
+"cutoff" "8"
 "fadeout" "0.75"
 }
 // entity 143
@@ -16579,7 +16584,7 @@ brushDef
 "vertexcolor_old" "#4d3d25"
 "modelscale_vec" "1 -1 -1"
 "vertexcolor" "#b08b51"
-"model" "models/mapmodels2026/rocks/blocky_fat.obj"
+"model" "models/mapobjects/rocks/blocky_fat.obj"
 "origin" "-582.818 -524.247 62.581"
 "angles" "0 90 90"
 }
@@ -16587,7 +16592,7 @@ brushDef
 {
 "classname" "misc_model"
 "origin" "-618.636 -735.245 162"
-"model" "models/mapmodels2026/rocks/blocky_plat02.obj"
+"model" "models/mapobjects/rocks/blocky_plat02.obj"
 "modelscale_vec" "1.32132 -1.99384 1"
 "vertexcolor" "#b08b51"
 "angle" "180"
@@ -16751,7 +16756,7 @@ brushDef
 "angles" "0 90 90"
 "radius" "200"
 "light" "125"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "957.01 128 384.01"
 "_color" "1 0.811765 0.376471"
 }
@@ -16762,7 +16767,7 @@ brushDef
 "radius" "200"
 "light" "125"
 "color" "#ff6b2b"
-"model" "models/mapmodels2026/lights/fluo-wall-small-24u.obj"
+"model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "-64 482.99 384.01"
 }
 // entity 160

@@ -29666,7 +29666,7 @@ brushDef
 "classname" "misc_model"
 "angle" "54.7947"
 "modelscale_vec" "2.45 2.45 3"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "origin" "-2150.41 1929.26 313"
 "collisiontype" "none"
 }
@@ -34349,7 +34349,7 @@ exwsw/eX_trim_support_03_thin
 "classname" "misc_model"
 "angle" "-172.017"
 "modelscale_vec" "2.5 2.5 3"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "origin" "1085.98 576.283 161"
 "collisiontype" "none"
 }
@@ -34358,7 +34358,7 @@ exwsw/eX_trim_support_03_thin
 "classname" "misc_model"
 "angle" "-172.017"
 "modelscale_vec" "2.5 2.5 3"
-"model" "models/mapobjects/tree110/tree110.lwo"
+"model" "models/mapobjects/tree110/tree110.obj"
 "origin" "-2154.02 3032.28 281"
 "collisiontype" "none"
 }
