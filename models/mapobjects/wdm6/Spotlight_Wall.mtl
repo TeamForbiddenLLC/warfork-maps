@@ -1,0 +1,57 @@
+# Exported by Gskelview
+
+newmtl Spotlight_Wall:textures_blx_wtest3_blx_wt3_dgrey
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/blx_wtest3/blx_wt3_dgrey
+
+newmtl Spotlight_Wall:textures_blx_wtest3_blx_wt3_surfmetal1
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/blx_wtest3/blx_wt3_surfmetal1
+
+newmtl Spotlight_Wall:textures_blx_wtest3_blx_wt3_surfmetal2
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/blx_wtest3/blx_wt3_surfmetal2
+
+newmtl Spotlight_Wall:textures_blx_wtest3_blx_wt3_surfmetal3
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/blx_wtest3/blx_wt3_surfmetal3
+
+newmtl Spotlight_Wall:textures_lights_purewhite_2000
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/lights/purewhite_2000
+
+newmtl Spotlight_Wall:textures_scifi_interior_baseblack
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/scifi_interior/baseblack
+
+newmtl Spotlight_Wall:textures_scifi_interior_wallmetal_grey
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ns 10.0
+illum 2
+map_Kd textures/scifi_interior/wallmetal_grey
