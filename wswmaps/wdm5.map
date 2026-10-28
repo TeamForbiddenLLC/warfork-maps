@@ -24398,7 +24398,7 @@ brushDef
 "spawnflags" "4"
 "modelscale" "1.500000"
 "angle" "179.999985"
-"model" "models/mapobjects/decor_misc/airshaft.ase"
+"model" "models/mapobjects/decor_misc/airshaft.obj"
 "origin" "1392.000000 -1136.000000 736.000000"
 }
 // entity 99
