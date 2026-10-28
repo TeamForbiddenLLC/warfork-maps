@@ -22671,37 +22671,37 @@ bricks/redbricks_base_02
 // entity 408
 {
 "classname" "misc_model"
-"origin" "464 1680 84"
+"origin" "464 1680 76.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 409
 {
 "classname" "misc_model"
-"origin" "912 -112 280"
+"origin" "912 -112 272.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 410
 {
 "classname" "misc_model"
-"origin" "336 1552 84"
+"origin" "336 1552 76.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 411
 {
 "classname" "misc_model"
-"origin" "936 1440 376"
+"origin" "936 1440 368.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 412
 {
 "classname" "misc_model"
-"origin" "1088 1264 376"
+"origin" "1088 1264 368.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 413
 {
 "classname" "misc_model"
-"origin" "-288 528 376"
+"origin" "-288 528 368.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 414

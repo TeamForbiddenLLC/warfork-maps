@@ -21223,14 +21223,14 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "-88.000000 629.000000 776.000000"
+"origin" "-88.000000 629.000000 768.000000"
 "collisiontype" "none"
 }
 // entity 110
 {
 "classname" "misc_model"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "1330.000000 -204.000000 780.000000"
+"origin" "1330.000000 -204.000000 772.000000"
 "collisiontype" "none"
 }
 // entity 111
@@ -21298,7 +21298,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "-92.000000 264.000000 776.000000"
+"origin" "-92.000000 264.000000 768.000000"
 "collisiontype" "none"
 }
 // entity 119
@@ -21330,14 +21330,14 @@ brushDef
 {
 "classname" "misc_model"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "4.000000 -616.000000 560.000000"
+"origin" "4.000000 -616.000000 552.000000"
 "collisiontype" "none"
 }
 // entity 123
 {
 "classname" "misc_model"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "796.000000 -832.000000 776.000000"
+"origin" "796.000000 -832.000000 768.000000"
 "collisiontype" "none"
 }
 // entity 124
@@ -21431,14 +21431,14 @@ brushDef
 {
 "classname" "misc_model"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "572.000000 384.000000 792.000000"
+"origin" "572.000000 384.000000 784.000000"
 "collisiontype" "none"
 }
 // entity 135
 {
 "classname" "misc_model"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "1252.000000 -832.000000 776.000000"
+"origin" "1252.000000 -832.000000 768.000000"
 "collisiontype" "none"
 }
 // entity 136
@@ -21533,7 +21533,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "992.000000 336.000000 792.000000"
+"origin" "992.000000 336.000000 784.000000"
 "collisiontype" "none"
 }
 // entity 146
@@ -21889,7 +21889,7 @@ brushDef
 "classname" "misc_model"
 "angle" "0.000003"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "1436.000122 887.999939 864.000000"
+"origin" "1436.000122 887.999939 856.000000"
 "collisiontype" "none"
 }
 // entity 185
@@ -23069,7 +23069,7 @@ brushDef
 "angle" "90.000000"
 "spawnflags" "4"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "1008.000122 949.000000 969.000000"
+"origin" "1008.000122 949.000000 961.000000"
 "collisiontype" "none"
 }
 // entity 337
@@ -23095,7 +23095,7 @@ brushDef
 "angle" "90.000000"
 "spawnflags" "4"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "1200.000000 948.375000 941.000000"
+"origin" "1200.000000 948.375000 933.000000"
 "collisiontype" "none"
 }
 // entity 340
@@ -23319,7 +23319,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "5"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
-"origin" "184.000000 -392.000000 792.000000"
+"origin" "184.000000 -392.000000 784.000000"
 "collisiontype" "none"
 }
 // entity 368

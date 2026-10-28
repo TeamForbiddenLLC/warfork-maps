@@ -55485,13 +55485,13 @@ concrete/concreteclean
 // entity 297
 {
 "classname" "misc_model"
-"origin" "1536 3488 344"
+"origin" "1536 3488 336.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 298
 {
 "classname" "misc_model"
-"origin" "-1488 2576 544"
+"origin" "-1488 2576 536.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 299
@@ -55504,7 +55504,7 @@ concrete/concreteclean
 // entity 300
 {
 "classname" "misc_model"
-"origin" "-1488 2824 544"
+"origin" "-1488 2824 536.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 301
@@ -56604,7 +56604,7 @@ concrete/concreteclean
 // entity 440
 {
 "classname" "misc_model"
-"origin" "-1232 2960 544"
+"origin" "-1232 2960 536.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 441
@@ -56617,7 +56617,7 @@ concrete/concreteclean
 // entity 442
 {
 "classname" "misc_model"
-"origin" "1248 4480 344"
+"origin" "1248 4480 336.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 443
@@ -56630,7 +56630,7 @@ concrete/concreteclean
 // entity 444
 {
 "classname" "misc_model"
-"origin" "-568.000000 2968.000000 472.000000"
+"origin" "-568.000000 2968.000000 464.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 445
@@ -56643,13 +56643,13 @@ concrete/concreteclean
 // entity 446
 {
 "classname" "misc_model"
-"origin" "1792 3488 344"
+"origin" "1792 3488 336.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 447
 {
 "classname" "misc_model"
-"origin" "1784 4272 408"
+"origin" "1784 4272 400.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 448
@@ -56662,7 +56662,7 @@ concrete/concreteclean
 // entity 449
 {
 "classname" "misc_model"
-"origin" "1120.000000 4152.000000 632.000000"
+"origin" "1120.000000 4152.000000 624.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 450
@@ -56675,7 +56675,7 @@ concrete/concreteclean
 // entity 451
 {
 "classname" "misc_model"
-"origin" "2368 4304 632"
+"origin" "2368 4304 624.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 452
@@ -56688,7 +56688,7 @@ concrete/concreteclean
 // entity 453
 {
 "classname" "misc_model"
-"origin" "2112 4304 632"
+"origin" "2112 4304 624.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 454
@@ -56701,7 +56701,7 @@ concrete/concreteclean
 // entity 455
 {
 "classname" "misc_model"
-"origin" "1296 4304 632"
+"origin" "1296 4304 624.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 456
@@ -56738,7 +56738,7 @@ concrete/concreteclean
 // entity 460
 {
 "classname" "misc_model"
-"origin" "2448.000000 3280.000000 760.000000"
+"origin" "2448.000000 3280.000000 752.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 461
@@ -56751,7 +56751,7 @@ concrete/concreteclean
 // entity 462
 {
 "classname" "misc_model"
-"origin" "2448.000000 2896.000000 600.000000"
+"origin" "2448.000000 2896.000000 592.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 463
@@ -56807,7 +56807,7 @@ concrete/concreteclean
 // entity 469
 {
 "classname" "misc_model"
-"origin" "2160.000000 2896.000000 600.000000"
+"origin" "2160.000000 2896.000000 592.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 470
@@ -56920,7 +56920,7 @@ concrete/concreteclean
 // entity 483
 {
 "classname" "misc_model"
-"origin" "-656.000000 2592.000000 152.000000"
+"origin" "-656.000000 2592.000000 144.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 484
@@ -56973,7 +56973,7 @@ concrete/concreteclean
 // entity 490
 {
 "classname" "misc_model"
-"origin" "800.000000 4576.000000 344.000000"
+"origin" "800.000000 4576.000000 336.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 491
@@ -56986,7 +56986,7 @@ concrete/concreteclean
 // entity 492
 {
 "classname" "misc_model"
-"origin" "1952.000000 2552.000000 536.000000"
+"origin" "1952.000000 2552.000000 528.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 493
@@ -57208,7 +57208,7 @@ concrete/concreteclean
 // entity 520
 {
 "classname" "misc_model"
-"origin" "1120.000000 3744.000000 632.000000"
+"origin" "1120.000000 3744.000000 624.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 521
@@ -57221,7 +57221,7 @@ concrete/concreteclean
 // entity 522
 {
 "classname" "misc_model"
-"origin" "816.000000 3584.000000 632.000000"
+"origin" "816.000000 3584.000000 624.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 523
@@ -57234,7 +57234,7 @@ concrete/concreteclean
 // entity 524
 {
 "classname" "misc_model"
-"origin" "432.000000 3744.000000 632.000000"
+"origin" "432.000000 3744.000000 624.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 525
@@ -57336,7 +57336,7 @@ concrete/concreteclean
 // entity 537
 {
 "classname" "misc_model"
-"origin" "608.000000 4160.000000 440.000000"
+"origin" "608.000000 4160.000000 432.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 538
@@ -57349,7 +57349,7 @@ concrete/concreteclean
 // entity 539
 {
 "classname" "misc_model"
-"origin" "-1768.000000 3344.000000 344.000000"
+"origin" "-1768.000000 3336.000000 336.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 540
@@ -57423,7 +57423,7 @@ concrete/concreteclean
 // entity 549
 {
 "classname" "misc_model"
-"origin" "928.000000 2848.000000 304.000000"
+"origin" "928.000000 2848.000000 296.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 550
@@ -57467,7 +57467,7 @@ concrete/concreteclean
 // entity 555
 {
 "classname" "misc_model"
-"origin" "2352.000000 3840.000000 760.000000"
+"origin" "2352.000000 3840.000000 752.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 556
@@ -57822,7 +57822,7 @@ concrete/concreteclean
 // entity 602
 {
 "classname" "misc_model"
-"origin" "2192.000000 3408.000000 568.000000"
+"origin" "2192.000000 3408.000000 560.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 603
@@ -57835,7 +57835,7 @@ concrete/concreteclean
 // entity 604
 {
 "classname" "misc_model"
-"origin" "1744.000000 3400.000000 504.000000"
+"origin" "1744.000000 3400.000000 496.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 605
@@ -57848,7 +57848,7 @@ concrete/concreteclean
 // entity 606
 {
 "classname" "misc_model"
-"origin" "1200.000000 3280.000000 504.000000"
+"origin" "1200.000000 3280.000000 496.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 607
@@ -57861,7 +57861,7 @@ concrete/concreteclean
 // entity 608
 {
 "classname" "misc_model"
-"origin" "560.000000 1312.000000 88.000000"
+"origin" "560.000000 1312.000000 80.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 609
@@ -58038,7 +58038,7 @@ concrete/concreteclean
 // entity 630
 {
 "classname" "misc_model"
-"origin" "1190.000000 656.000000 312.000000"
+"origin" "1190.000000 656.000000 304.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 631
@@ -58051,7 +58051,7 @@ concrete/concreteclean
 // entity 632
 {
 "classname" "misc_model"
-"origin" "1134.000000 1280.000000 352.000000"
+"origin" "1134.000000 1280.000000 344.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 633
@@ -58064,7 +58064,7 @@ concrete/concreteclean
 // entity 634
 {
 "classname" "misc_model"
-"origin" "-178.000000 1736.000000 312.000000"
+"origin" "-178.000000 1736.000000 304.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 635
@@ -58077,7 +58077,7 @@ concrete/concreteclean
 // entity 636
 {
 "classname" "misc_model"
-"origin" "566.000000 1832.000000 376.000000"
+"origin" "566.000000 1832.000000 368.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 637
@@ -58214,7 +58214,7 @@ concrete/concreteclean
 // entity 653
 {
 "classname" "misc_model"
-"origin" "-1488.000000 2528.000000 152.000000"
+"origin" "-1488.000000 2528.000000 144.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 654
@@ -58866,7 +58866,7 @@ concrete/concreteclean
 // entity 755
 {
 "classname" "misc_model"
-"origin" "-1234.000000 3826.000000 360.000000"
+"origin" "-1234.000000 3826.000000 352.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 756
@@ -58879,7 +58879,7 @@ concrete/concreteclean
 // entity 757
 {
 "classname" "misc_model"
-"origin" "-930.000000 3826.000000 360.000000"
+"origin" "-930.000000 3826.000000 352.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 758
@@ -58892,7 +58892,7 @@ concrete/concreteclean
 // entity 759
 {
 "classname" "misc_model"
-"origin" "-578.000000 3826.000000 360.000000"
+"origin" "-578.000000 3826.000000 352.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 760
@@ -58905,7 +58905,7 @@ concrete/concreteclean
 // entity 761
 {
 "classname" "misc_model"
-"origin" "-578.000000 3602.000000 360.000000"
+"origin" "-578.000000 3602.000000 352.000000"
 "model" "models/mapobjects/lights/light_bulb_with_holder.ase"
 }
 // entity 762
