@@ -34095,42 +34095,42 @@ metal/metalbaseyellow0033
 {
 "classname" "misc_model"
 "origin" "56.000000 -240.000000 792.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 }
 // entity 620
 {
 "classname" "misc_model"
 "origin" "56.000000 -136.000000 792.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 }
 // entity 621
 {
 "classname" "misc_model"
 "origin" "56.000000 -32.000000 792.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 }
 // entity 622
 {
 "classname" "misc_model"
 "origin" "56.000000 72.000000 792.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 }
 // entity 623
 {
 "classname" "misc_model"
 "origin" "56.000000 176.000000 792.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 }
 // entity 624
 {
 "classname" "misc_model"
 "origin" "168.000015 176.000000 792.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -34138,7 +34138,7 @@ metal/metalbaseyellow0033
 {
 "classname" "misc_model"
 "origin" "168.000000 72.000008 792.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -34146,7 +34146,7 @@ metal/metalbaseyellow0033
 {
 "classname" "misc_model"
 "origin" "168.000000 -32.000000 792.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -34154,7 +34154,7 @@ metal/metalbaseyellow0033
 {
 "classname" "misc_model"
 "origin" "168.000000 -136.000000 792.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -34162,7 +34162,7 @@ metal/metalbaseyellow0033
 {
 "classname" "misc_model"
 "origin" "168.000015 -240.000000 792.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }

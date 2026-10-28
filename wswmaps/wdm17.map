@@ -1454,7 +1454,7 @@
 ( 48 -1632 384 ) ( 48 -1632 624 ) ( 624 -1632 624 ) common/caulk 96 32 0 0.5 0.5 0 0 0
 ( 288 -1504 384 ) ( 480 -1568 384 ) ( 480 -1504 384 ) common/caulk 0 0 0 0.5 0.5 0 0 0
 ( 512 -1504 1008 ) ( 320 -1504 240 ) ( 512 -1504 240 ) blx_wtest3/blx_wt3_pillar2 0 0 0 0.5 0.5 0 0 0
-( 544 -1504 -64 ) ( 544 -1552 -64 ) ( 544 -1504 64 ) exwsw/matte_eX_trim_psimple_04 0 0 0 0.5 0.5 0 0 0
+( 544 -1504 -64 ) ( 544 -1552 -64 ) ( 544 -1504 64 ) exwsw/ex_trim_psimple_04 0 0 0 0.5 0.5 0 0 0
 }
 // brush 164
 {
@@ -4597,7 +4597,7 @@
 ( 48 -1632 192 ) ( 48 -1632 432 ) ( 624 -1632 432 ) common/caulk 96 32 0 0.5 0.5 0 0 0
 ( 288 -1504 160 ) ( 480 -1568 160 ) ( 480 -1504 160 ) common/caulk 0 0 0 0.5 0.5 0 0 0
 ( 512 -1504 816 ) ( 320 -1504 48 ) ( 512 -1504 48 ) blx_wtest3/blx_wt3_pillar2 0 64 0 0.5 0.5 0 0 0
-( 544 -1504 -64 ) ( 544 -1552 -64 ) ( 544 -1504 64 ) exwsw/matte_eX_trim_psimple_04 0 0 0 0.5 0.5 0 0 0
+( 544 -1504 -64 ) ( 544 -1552 -64 ) ( 544 -1504 64 ) exwsw/ex_trim_psimple_04 0 0 0 0.5 0.5 0 0 0
 }
 // brush 515
 {
@@ -14122,7 +14122,7 @@ common/fullclip
 {
 "classname" "misc_model"
 "origin" "-848.000000 -576.000000 736.000000"
-"model" "models/mapobjects/decor_misc/airshaft.ase"
+"model" "models/mapobjects/decor_misc/airshaft.obj"
 "angle" "90.000000"
 "spawnflags" "4"
 }

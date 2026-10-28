@@ -18258,7 +18258,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "48.000031 392.000000 960.000000"
-"model" "models/mapobjects/decor_misc/airshaft.ase"
+"model" "models/mapobjects/decor_misc/airshaft.obj"
 "angle" "-179.999985"
 "spawnflags" "4"
 "modelscale" "0.750000"

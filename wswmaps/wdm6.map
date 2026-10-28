@@ -23368,7 +23368,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-800.000000 -2314.000000 -456.000000"
-"model" "models/mapobjects/decor_misc/airshaft.ase"
+"model" "models/mapobjects/decor_misc/airshaft.obj"
 "modelscale" "0.250000"
 "spawnflags" "4"
 }

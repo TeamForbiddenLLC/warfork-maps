@@ -27366,7 +27366,7 @@ wsw_city1/stepup01
 {
 patchDef2
 {
-exwsw/matte_eX_trim_psimple_04
+exwsw/ex_trim_psimple_04
 ( 9 3 0 0 0 )
 (
 ( ( 0 128 384 0 0 ) ( 0 128 416 -0.4999999702 0 ) ( 0 128 448 -0.9999999404 0 ) )
@@ -27906,7 +27906,7 @@ wsw_city1/cables2
 {
 patchDef2
 {
-exwsw/matte_eX_trim_psimple_04
+exwsw/ex_trim_psimple_04
 ( 9 3 0 0 0 )
 (
 ( ( 0 64 256 0 0 ) ( 0 64 288 -0.4999999702 0 ) ( 0 64 320 -0.9999999404 0 ) )

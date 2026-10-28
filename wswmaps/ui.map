@@ -6193,7 +6193,7 @@ metal/orangewall
 // entity 33
 {
 "classname" "misc_model"
-"origin" "359.999847 -144.000076 76.000000"
+"origin" "359.999847 -144.000076 128.000000"
 "model" "models/mapobjects/city/light_street_2way_1.ase"
 "angle" "86.066322"
 "spawnflags" "4"
@@ -6432,7 +6432,7 @@ metal/orangewall
 // entity 62
 {
 "classname" "misc_model"
-"origin" "-743.999939 -671.999878 76.000000"
+"origin" "-743.999939 -671.999878 128.000000"
 "model" "models/mapobjects/city/light_street_2way_1.ase"
 "angle" "-48.330410"
 "spawnflags" "4"
@@ -6779,7 +6779,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "-315.999969 -652.000061 32.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 "angle" "-179.999985"
 }
@@ -6901,7 +6901,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "-184.000000 -376.000000 64.000000"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 "angles" "-0.000000 0.000000 23.165247"
 "modelscale_vec" "1.000000 1.000000 1.500000"
@@ -6910,7 +6910,7 @@ metal/orangewall
 {
 "classname" "misc_model"
 "origin" "55.999992 -136.000000 63.999996"
-"model" "models/mapobjects/railings/railing_square_orange.ase"
+"model" "models/mapobjects/handrails/railing_square_orange.ase"
 "spawnflags" "4"
 "angles" "0.000010 -90.000000 -22.722500"
 "modelscale_vec" "1.000000 1.000000 1.500000"

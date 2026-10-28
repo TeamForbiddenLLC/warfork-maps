@@ -33652,14 +33652,14 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-384.124969 2447.962646 507.864746"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "angles" "-70.430710 -90.000000 0.000006"
 }
 // entity 109
 {
 "classname" "misc_model"
 "origin" "-384.124969 2324.255127 600.954590"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "angles" "4.713924 -90.000000 0.000007"
 "modelscale" "0.750000"
 }
@@ -33885,7 +33885,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-1312.000000 2943.875000 488.000122"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "modelscale" "0.500000"
 "angles" "-65.661766 0.000000 0.000000"
 }
@@ -33893,7 +33893,7 @@ blx_wtest3/blx_wt3_pillar
 {
 "classname" "misc_model"
 "origin" "-1247.999878 2943.875000 552.000122"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "modelscale" "0.350000"
 "angles" "3.468671 0.000000 0.000000"
 }

@@ -27588,7 +27588,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "534.017517 -1632.000000 -24.264141"
-"model" "models/mapobjects/anthy/plant_1_small.ase"
+"model" "models/mapobjects/nature/plant_1_small.ase"
 "angles" "-7.589287 0.000000 0.000000"
 }
 // entity 614
@@ -27635,7 +27635,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-534.000000 -2031.999756 -39.999928"
-"model" "models/mapobjects/anthy/plant_1_small.ase"
+"model" "models/mapobjects/nature/plant_1_small.ase"
 "angles" "-31.910826 90.000000 0.000010"
 }
 // entity 620
@@ -28407,7 +28407,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "599.374451 2848.375977 -2.852228"
-"model" "models/mapobjects/anthy/plant_1_small.ase"
+"model" "models/mapobjects/nature/plant_1_small.ase"
 "angles" "19.419832 -179.999985 0.000000"
 }
 // entity 714
@@ -28446,7 +28446,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1528.343628 3379.763184 -99.446945"
-"model" "models/mapobjects/anthy/plant_1_small.ase"
+"model" "models/mapobjects/nature/plant_1_small.ase"
 "angles" "-17.304466 -90.000000 0.000001"
 }
 // entity 719
@@ -30392,7 +30392,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "-936.000000 2816.000000 8.000000"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 }
 // entity 1010
 {
@@ -30430,7 +30430,7 @@ metal/corrugated0023
 {
 "classname" "misc_model"
 "origin" "1928.000000 -1600.000000 8.000000"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "angle" "-179.999985"
 }
 // entity 1015

@@ -1,0 +1,32 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl textures/blx_wtest3/blx_wt3_pillar3
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/blx_wtest3/blx_wt3_pillar3
+
+newmtl textures/exwsw/eX_rplates_01_daze
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/exwsw/eX_rplates_01_daze
+
+newmtl textures/plastic_vertex/vertex_grey75
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/plastic_vertex/vertex_grey75

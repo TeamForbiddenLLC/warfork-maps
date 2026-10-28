@@ -38691,7 +38691,7 @@ brushDef
 {
 "classname" "misc_model"
 "angles" "-50.8567 -180 0"
-"model" "models/mapobjects/anthy/plant_1_small.ase"
+"model" "models/mapobjects/nature/plant_1_small.ase"
 "origin" "891.451 1182 585.454"
 "modelscale_vec" "0.83187 1 0.765503"
 "collisiontype" "none"
@@ -38700,7 +38700,7 @@ brushDef
 {
 "classname" "misc_model"
 "angles" "15.708427 90.000000 0.000001"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "848 1314 592"
 "modelscale" "0.8"
 "collisiontype" "none"
@@ -38710,7 +38710,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.5"
 "angles" "-17.380253 90.000000 0.000000"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "848 1216.28 568.482"
 "collisiontype" "none"
 }
@@ -38719,7 +38719,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.7"
 "angles" "-55.773621 179.815842 0.119851"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "909.599 1184 585.414"
 "collisiontype" "none"
 }
@@ -38727,7 +38727,7 @@ brushDef
 {
 "classname" "misc_model"
 "angles" "42.8079 -90 0"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "2196 1421.06 438.148"
 "modelscale" "1.4"
 "collisiontype" "none"
@@ -38737,7 +38737,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "1.4"
 "angles" "9.7192 -90 0"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "2196 1518.77 461.727"
 "collisiontype" "none"
 }
@@ -38746,7 +38746,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.5"
 "angles" "-17.3803 0 0"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "-395.72 2256 336.482"
 "collisiontype" "none"
 }
@@ -38755,7 +38755,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.7"
 "angles" "-55.7736 89.816 0.119851"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "-428 2194.4 353.414"
 "collisiontype" "none"
 }
@@ -38764,7 +38764,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.5"
 "angles" "-17.380253 90.000000 0.000000"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "-1840 1816.28 368.482"
 "collisiontype" "none"
 }
@@ -38773,7 +38773,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.7"
 "angles" "-55.773621 179.815842 0.119851"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "-1778.4 1784 385.414"
 "collisiontype" "none"
 }
@@ -38781,7 +38781,7 @@ brushDef
 {
 "classname" "misc_model"
 "angles" "-78.9041 -90 -180"
-"model" "models/mapobjects/anthy/plant_1_small.ase"
+"model" "models/mapobjects/nature/plant_1_small.ase"
 "origin" "-1840 1927.25 309.503"
 "modelscale_vec" "-0.597085 1 -0.771391"
 "collisiontype" "none"
@@ -38790,7 +38790,7 @@ brushDef
 {
 "classname" "misc_model"
 "angles" "15.7084 -90 0"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "1520 3007.35 424"
 "collisiontype" "none"
 "modelscale_vec" "0.871321 0.8 0.805871"
@@ -38800,7 +38800,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.5"
 "angles" "-17.3803 -90 0"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "1520 3139.72 428.482"
 "collisiontype" "none"
 }
@@ -38809,7 +38809,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.6"
 "angles" "-55.7736 -0.183977 0.119851"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "1458.4 3172 445.414"
 "collisiontype" "none"
 }

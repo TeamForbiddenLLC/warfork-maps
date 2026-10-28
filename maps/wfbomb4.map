@@ -16755,14 +16755,14 @@ brushDef
 {
 "classname" "misc_model"
 "angles" "-33.776070 -179.999985 0.000006"
-"model" "models/mapobjects/anthy/plant_1_small.ase"
+"model" "models/mapobjects/nature/plant_1_small.ase"
 "origin" "716.000000 -1280.000000 148.000000"
 }
 // entity 66
 {
 "classname" "misc_model"
 "angles" "15.708427 90.000000 0.000001"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "640.000183 -1149.999878 187.999985"
 }
 // entity 67
@@ -16785,7 +16785,7 @@ brushDef
 {
 "classname" "misc_model"
 "angle" "-90.000000"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "303.999969 -391.999908 -152.000000"
 }
 // entity 70
@@ -16794,7 +16794,7 @@ brushDef
 "_color" "1 0.794995 0.205921"
 "angles" "-68.818298 -90.000000 0.000010"
 "modelscale" "0.500000"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "303.999939 -263.999969 -216.000076"
 }
 // entity 71
@@ -16802,7 +16802,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "angles" "-17.380253 90.000000 0.000000"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "640.000183 -1247.724487 164.481705"
 }
 // entity 72
@@ -16810,7 +16810,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "angles" "-55.773621 179.815842 0.119851"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "701.598877 -1279.999634 181.413635"
 }
 // entity 73
@@ -16831,7 +16831,7 @@ brushDef
 {
 "classname" "misc_model"
 "angle" "0.000003"
-"model" "models/mapobjects/anthy/plant_1.ase"
+"model" "models/mapobjects/nature/plant_1.ase"
 "origin" "1096.000000 3007.999756 240.000000"
 }
 // entity 76
@@ -18322,7 +18322,7 @@ brushDef
 "classname" "misc_model"
 "modelscale" "0.500000"
 "angles" "-2.443476 155.947464 -93.905640"
-"model" "models/mapobjects/anthy/plant_1_v_small.ase"
+"model" "models/mapobjects/nature/plant_1_v_small.ase"
 "origin" "999.999756 2960.000000 72.999954"
 }
 // entity 322

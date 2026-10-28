@@ -25771,7 +25771,7 @@ brushDef
 "collisiontype" "none"
 "spawnflags" "4"
 "modelscale" "0.25"
-"model" "models/mapobjects/decor_misc/airshaft.ase"
+"model" "models/mapobjects/decor_misc/airshaft.obj"
 "origin" "-800 -2314 312"
 }
 // entity 377

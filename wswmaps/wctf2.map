@@ -35936,210 +35936,210 @@ blx_wtest3/blx_wt3_singlestripe2
 {
 "classname" "misc_model"
 "origin" "-111.999947 768.000000 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "0.000010"
 }
 // entity 365
 {
 "classname" "misc_model"
 "origin" "384.000031 496.000000 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-90.000000"
 }
 // entity 366
 {
 "classname" "misc_model"
 "origin" "2432.000000 15.999878 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "89.999992"
 }
 // entity 367
 {
 "classname" "misc_model"
 "origin" "-367.999969 0.000000 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "0.000010"
 }
 // entity 368
 {
 "classname" "misc_model"
 "origin" "111.999969 768.000000 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "179.999985"
 }
 // entity 369
 {
 "classname" "misc_model"
 "origin" "367.999969 0.000000 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "179.999985"
 }
 // entity 370
 {
 "classname" "misc_model"
 "origin" "-383.999969 496.000000 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-90.000000"
 }
 // entity 371
 {
 "classname" "misc_model"
 "origin" "-2432.000244 15.999969 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "89.999992"
 }
 // entity 372
 {
 "classname" "misc_model"
 "origin" "-768.000061 143.999969 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "90.000000"
 }
 // entity 373
 {
 "classname" "misc_model"
 "origin" "767.999939 143.999969 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "90.000000"
 }
 // entity 374
 {
 "classname" "misc_model"
 "origin" "-1392.000000 512.000061 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "0.000003"
 }
 // entity 375
 {
 "classname" "misc_model"
 "origin" "-1663.999878 1264.000000 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-90.000000"
 }
 // entity 376
 {
 "classname" "misc_model"
 "origin" "-2432.000000 1264.000000 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-90.000000"
 }
 // entity 377
 {
 "classname" "misc_model"
 "origin" "-2432.000244 784.000000 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "89.999992"
 }
 // entity 378
 {
 "classname" "misc_model"
 "origin" "-1664.000244 784.000000 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "89.999992"
 }
 // entity 379
 {
 "classname" "misc_model"
 "origin" "-1807.999878 639.999817 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-179.999985"
 }
 // entity 380
 {
 "classname" "misc_model"
 "origin" "-1807.999878 -128.000183 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-179.999985"
 }
 // entity 381
 {
 "classname" "misc_model"
 "origin" "-2288.000000 -127.999779 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "0.000009"
 }
 // entity 382
 {
 "classname" "misc_model"
 "origin" "-2288.000000 640.000244 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "0.000009"
 }
 // entity 383
 {
 "classname" "misc_model"
 "origin" "-2431.999756 496.000061 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-90.000000"
 }
 // entity 384
 {
 "classname" "misc_model"
 "origin" "1392.000000 511.999939 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-179.999985"
 }
 // entity 385
 {
 "classname" "misc_model"
 "origin" "2432.000000 496.000122 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-90.000000"
 }
 // entity 386
 {
 "classname" "misc_model"
 "origin" "1664.000122 1264.000122 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-90.000000"
 }
 // entity 387
 {
 "classname" "misc_model"
 "origin" "1663.999878 783.999878 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "89.999992"
 }
 // entity 388
 {
 "classname" "misc_model"
 "origin" "2432.000000 1264.000122 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-90.000000"
 }
 // entity 389
 {
 "classname" "misc_model"
 "origin" "1808.000000 -127.999878 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "0.000009"
 }
 // entity 390
 {
 "classname" "misc_model"
 "origin" "2432.000000 783.999878 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "89.999992"
 }
 // entity 391
 {
 "classname" "misc_model"
 "origin" "2288.000244 -128.000061 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-179.999985"
 }
 // entity 392
 {
 "classname" "misc_model"
 "origin" "1808.000000 640.000122 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "0.000009"
 }
 // entity 393
 {
 "classname" "misc_model"
 "origin" "2288.000244 639.999939 -64.000000"
-"model" "models/mapobjects/lights/fluorescent01_2000.ase"
+"model" "models/mapobjects/lights/fluorescent01.ase"
 "angle" "-179.999985"
 }
 // entity 394
