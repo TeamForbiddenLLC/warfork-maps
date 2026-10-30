@@ -22524,7 +22524,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "280.000000 -512.000000 300.000000"
-"model" "models/mapobjects/wdm6/Spotlight_Wall.ase"
+"model" "models/mapobjects/lights/spotlight_wall.obj"
 "spawnflags" "5"
 }
 // entity 310
@@ -22538,7 +22538,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "-224.000000 208.000000 348.000000"
-"model" "models/mapobjects/wdm6/Spotlight_Wall.ase"
+"model" "models/mapobjects/lights/spotlight_wall.obj"
 "spawnflags" "5"
 "angle" "-179.999985"
 }
@@ -22546,7 +22546,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "104.000000 256.000000 396.000000"
-"model" "models/mapobjects/wdm6/Spotlight_Wall.ase"
+"model" "models/mapobjects/lights/spotlight_wall.obj"
 "spawnflags" "5"
 }
 // entity 313
@@ -22765,7 +22765,7 @@ concrete/concreteclean
 {
 "classname" "misc_model"
 "origin" "96.000000 960.000000 396.000000"
-"model" "models/mapobjects/wdm6/Spotlight_Wall.ase"
+"model" "models/mapobjects/lights/spotlight_wall.obj"
 "spawnflags" "5"
 "angle" "-179.999985"
 }

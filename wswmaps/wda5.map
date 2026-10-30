@@ -16301,7 +16301,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "-384.000000 896.000000 536.000000"
-"model" "models/mapobjects/wdm6/Spotlight_Wall.ase"
+"model" "models/mapobjects/lights/spotlight_wall.obj"
 "spawnflags" "29"
 "angle" "-90.000000"
 }
@@ -16498,7 +16498,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "440.057526 855.925781 717.000000"
-"model" "models/mapobjects/wdm6/Spotlight_Wall.ase"
+"model" "models/mapobjects/lights/spotlight_wall.obj"
 "spawnflags" "5"
 "angle" "44.774883"
 }
@@ -17266,7 +17266,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "503.942413 792.074097 717.000000"
-"model" "models/mapobjects/wdm6/Spotlight_Wall.ase"
+"model" "models/mapobjects/lights/spotlight_wall.obj"
 "spawnflags" "5"
 "angle" "-135.225143"
 }
@@ -18452,7 +18452,7 @@ blx_wtest3/blx_wt3_surfmetal2
 {
 "classname" "misc_model"
 "origin" "0.000000 104.000000 624.000000"
-"model" "models/mapobjects/wdm6/Spotlight_Wall.ase"
+"model" "models/mapobjects/lights/spotlight_wall.obj"
 "spawnflags" "29"
 "angle" "-90.000000"
 }
