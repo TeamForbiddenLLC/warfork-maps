@@ -1,0 +1,9 @@
+newmtl nateivy1_tri:MD3__default__Plane01__0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ivyleaf.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00

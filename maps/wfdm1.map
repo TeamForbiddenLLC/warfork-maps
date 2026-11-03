@@ -14417,25 +14417,17 @@ brushDef
 }
 // entity 58
 {
-"classname" "misc_model"
-"origin" "-248 -672 628"
-"model" "models/mapobjects/lights/light_tilted_wall_cyanglow.ase"
-"angle" "-90.000000"
-"modelscale" "0.5"
-}
-// entity 59
-{
 "classname" "target_position"
 "origin" "-224.000000 0.000000 320.000000"
 "targetname" "target_position12"
 }
-// entity 60
+// entity 59
 {
 "classname" "misc_model"
 "origin" "784 208 544"
 "model" "models/mapobjects/lights/light_ceil1blue.ase"
 }
-// entity 61
+// entity 60
 {
 "classname" "light"
 "origin" "784.000000 208.000000 496.000000"
@@ -14444,13 +14436,13 @@ brushDef
 "radius" "200"
 "_color" "0.9 0.9 1.0"
 }
-// entity 62
+// entity 61
 {
 "classname" "target_position"
 "origin" "784.000000 208.000000 368.000000"
 "targetname" "target_position13"
 }
-// entity 63
+// entity 62
 {
 "classname" "misc_model"
 "origin" "958.000244 32.000000 88.000000"
@@ -14458,7 +14450,7 @@ brushDef
 "angle" "-90.000000"
 "spawnflags" "4"
 }
-// entity 64
+// entity 63
 {
 "classname" "light"
 "origin" "952.000000 32.000000 88.000000"
@@ -14467,14 +14459,14 @@ brushDef
 "_color" "1.0 0.85 0.6"
 "radius" "100"
 }
-// entity 65
+// entity 64
 {
 "classname" "target_position"
 "origin" "936.000000 32.000000 88.000000"
 "targetname" "target_position19"
 "angle" "-179.999985"
 }
-// entity 66
+// entity 65
 {
 "classname" "misc_model"
 "origin" "608.000000 382.000244 88.000000"
@@ -14482,7 +14474,7 @@ brushDef
 "angle" "0.000003"
 "spawnflags" "4"
 }
-// entity 67
+// entity 66
 {
 "classname" "light"
 "origin" "608.000000 376.000000 88.000000"
@@ -14491,14 +14483,14 @@ brushDef
 "_color" "1.0 0.85 0.6"
 "radius" "100"
 }
-// entity 68
+// entity 67
 {
 "classname" "target_position"
 "origin" "608.000000 360.000000 88.000000"
 "targetname" "target_position20"
 "angle" "-90.000000"
 }
-// entity 69
+// entity 68
 {
 "classname" "light"
 "origin" "672 -864 688"
@@ -14509,13 +14501,13 @@ brushDef
 "grid_ambientscale" "1.3"
 "grid_directscale" "2.0"
 }
-// entity 70
+// entity 69
 {
 "classname" "target_position"
 "origin" "704 -824 608"
 "targetname" "target_position17"
 }
-// entity 71
+// entity 70
 {
 "classname" "misc_model"
 "origin" "367.993530 -1127.987549 735.999939"
@@ -14523,7 +14515,7 @@ brushDef
 "angles" "0.000000 90.000000 90.000000"
 "spawnflags" "4"
 }
-// entity 72
+// entity 71
 {
 "classname" "light"
 "origin" "360.000000 -1144.000000 736.000000"
@@ -14531,13 +14523,13 @@ brushDef
 "_color" "0.8 0.9 1.0"
 "target" "target_position18"
 }
-// entity 73
+// entity 72
 {
 "classname" "target_position"
 "origin" "320.000000 -1080.000000 648.000000"
 "targetname" "target_position18"
 }
-// entity 74
+// entity 73
 {
 "classname" "misc_model"
 "origin" "-288.005 -1640 631.987"
@@ -14545,7 +14537,7 @@ brushDef
 "angles" "90.000000 0.000000 -45.000008"
 "spawnflags" "4"
 }
-// entity 75
+// entity 74
 {
 "classname" "light"
 "origin" "-296 -1648 632"
@@ -14553,40 +14545,19 @@ brushDef
 "_color" "0.8 0.9 1.0"
 "target" "target_position22"
 }
-// entity 76
+// entity 75
 {
 "classname" "target_position"
 "origin" "-264 -1728 576"
 "targetname" "target_position22"
 }
-// entity 77
-{
-"classname" "light"
-"origin" "-248 -680 626.5"
-"light" "180"
-"_color" "0.7 0.9 0.9"
-"target" "target_position25"
-}
-// entity 78
-{
-"classname" "target_position"
-"origin" "-248 -704 618.5"
-"targetname" "target_position25"
-}
-// entity 79
-{
-"classname" "light"
-"origin" "-248 -752 592"
-"light" "20"
-"_color" "0.7 0.9 0.9"
-}
-// entity 80
+// entity 76
 {
 "classname" "target_position"
 "origin" "-152.000000 -416.000000 400.000000"
 "targetname" "target_position33"
 }
-// entity 81
+// entity 77
 {
 "classname" "light"
 "origin" "144.000000 172.000000 192.000000"
@@ -14594,13 +14565,13 @@ brushDef
 "_color" "0.6 1.0 0.8"
 "target" "target_position24"
 }
-// entity 82
+// entity 78
 {
 "classname" "target_position"
 "origin" "144.000000 166.000000 136.000000"
 "targetname" "target_position24"
 }
-// entity 83
+// entity 79
 {
 "classname" "light"
 "origin" "-772 -1188 196"
@@ -14612,7 +14583,7 @@ brushDef
 "grid_ambientscale" "0.2"
 "grid_directscale" "0.00"
 }
-// entity 84
+// entity 80
 {
 "classname" "light"
 "origin" "144.000000 156.000000 128.000000"
@@ -14620,18 +14591,18 @@ brushDef
 "_color" "0.6 1.0 0.8"
 "target" "target_position45"
 }
-// entity 85
+// entity 81
 {
 "classname" "target_position"
 "origin" "144.000000 156.000000 52.000000"
 "targetname" "target_position45"
 }
-// entity 86
+// entity 82
 {
 "classname" "ammo_electrobolt"
 "origin" "288 -768 184"
 }
-// entity 87
+// entity 83
 {
 "classname" "misc_model"
 "origin" "64 -722 164"
@@ -14639,7 +14610,7 @@ brushDef
 "angle" "180"
 "vertexcolor" "#98e302"
 }
-// entity 88
+// entity 84
 {
 "classname" "func_group"
 "group" "floor borders 1st floor"
@@ -14812,7 +14783,7 @@ brushDef
 }
 }
 }
-// entity 89
+// entity 85
 {
 "classname" "func_group"
 "group" "floor borders top floor"
@@ -15093,7 +15064,7 @@ brushDef
 }
 }
 }
-// entity 90
+// entity 86
 {
 "classname" "func_group"
 "group" "tube decor"
@@ -15219,7 +15190,7 @@ cha0s_ws/cement_2_yellow_flat
 }
 }
 }
-// entity 91
+// entity 87
 {
 "classname" "func_static"
 "group" "sky tower"
@@ -16136,7 +16107,7 @@ brushDef
 }
 }
 }
-// entity 92
+// entity 88
 {
 "classname" "func_light"
 "group" "sky tower lights"
@@ -16194,7 +16165,7 @@ brushDef
 }
 }
 }
-// entity 93
+// entity 89
 {
 "classname" "func_group"
 "group" "roof glass"
@@ -17231,7 +17202,7 @@ brushDef
 }
 }
 }
-// entity 94
+// entity 90
 {
 "classname" "func_group"
 "group" "roof glass"
@@ -17248,7 +17219,7 @@ brushDef
 }
 }
 }
-// entity 95
+// entity 91
 {
 "classname" "func_group"
 "group" "roof glass"
@@ -17265,7 +17236,7 @@ brushDef
 }
 }
 }
-// entity 96
+// entity 92
 {
 "classname" "light"
 "origin" "156 -416 16"
@@ -17275,7 +17246,7 @@ brushDef
 "fadeout" "0.5"
 "color" "#19baff"
 }
-// entity 97
+// entity 93
 {
 "classname" "trigger_teleport"
 "target" "target_position2"
@@ -17292,14 +17263,14 @@ brushDef
 }
 }
 }
-// entity 98
+// entity 94
 {
 "classname" "target_position"
 "origin" "-608 -700 432"
 "angle" "-90"
 "targetname" "target_position11"
 }
-// entity 99
+// entity 95
 {
 "classname" "func_light"
 "vertexcolor" "#699e00"
@@ -17308,9 +17279,9 @@ brushDef
 "light" "350"
 "color" "#54fc00"
 "backsplash" "0"
-"cutoff" "1"
-"fadeout" "0.5"
+"cutoff" "50"
 "subdivide" "64"
+"fadeout" "0.5"
 // brush 0
 {
 brushDef
@@ -17324,19 +17295,19 @@ brushDef
 }
 }
 }
-// entity 100
+// entity 96
 {
 "classname" "info_player_deathmatch"
 "origin" "424 -1880 104"
 "angle" "90"
 }
-// entity 101
+// entity 97
 {
 "classname" "info_player_deathmatch"
 "origin" "936 32 36"
 "angle" "180"
 }
-// entity 102
+// entity 98
 {
 "classname" "func_group"
 "lgroup" "stupid stairs"
@@ -17833,7 +17804,7 @@ brushDef
 }
 }
 }
-// entity 103
+// entity 99
 {
 "classname" "trigger_teleport"
 "target" "target_position11"
@@ -17850,7 +17821,7 @@ brushDef
 }
 }
 }
-// entity 104
+// entity 100
 {
 "classname" "light"
 "origin" "-488 -140 440"
@@ -17860,12 +17831,12 @@ brushDef
 "fadeout" "0.5"
 "color" "#8edafa"
 }
-// entity 105
+// entity 101
 {
 "classname" "item_armor_ra"
 "origin" "288 -288 200"
 }
-// entity 106
+// entity 102
 {
 "classname" "func_group"
 "group" "tele corner"
@@ -17993,7 +17964,7 @@ brushDef
 }
 }
 }
-// entity 107
+// entity 103
 {
 "classname" "func_group"
 "group" "tele corner"
@@ -18010,7 +17981,7 @@ brushDef
 }
 }
 }
-// entity 108
+// entity 104
 {
 "classname" "func_group"
 "group" "tele corner"
@@ -18029,14 +18000,14 @@ brushDef
 }
 }
 }
-// entity 109
+// entity 105
 {
 "classname" "misc_teleporter_dest"
 "origin" "784 -1520 472"
 "angle" "135"
 "targetname" "misc_teleporter_dest2"
 }
-// entity 110
+// entity 106
 {
 "classname" "trigger_teleport"
 "target" "misc_teleporter_dest2"
@@ -18053,38 +18024,38 @@ brushDef
 }
 }
 }
-// entity 111
+// entity 107
 {
 "classname" "misc_teleporter_dest"
 "origin" "-188 168 332"
 "targetname" "target_position2"
 }
-// entity 112
+// entity 108
 {
 "classname" "item_health_medium"
 "origin" "132 -1128 176"
 }
-// entity 113
+// entity 109
 {
 "classname" "item_health_small"
 "origin" "104 168 332"
 }
-// entity 114
+// entity 110
 {
 "classname" "item_health_small"
 "origin" "164 168 332"
 }
-// entity 115
+// entity 111
 {
 "classname" "item_health_small"
 "origin" "292 168 332"
 }
-// entity 116
+// entity 112
 {
 "classname" "item_health_small"
 "origin" "232 168 332"
 }
-// entity 117
+// entity 113
 {
 "classname" "func_group"
 "group" "water_stairs_36"
@@ -18185,7 +18156,7 @@ brushDef
 }
 }
 }
-// entity 118
+// entity 114
 {
 "classname" "misc_model"
 "origin" "704 -1456 627.5"
@@ -18194,14 +18165,14 @@ brushDef
 "angles" "90.000000 0.000000 179.999985"
 "modelscale" "0.8"
 }
-// entity 119
+// entity 115
 {
 "classname" "light"
 "origin" "704 -1456 560"
 "light" "20"
 "_color" "0.8 0.9 1.0"
 }
-// entity 120
+// entity 116
 {
 "classname" "light"
 "origin" "704 -1456 624"
@@ -18209,13 +18180,13 @@ brushDef
 "target" "target_position3"
 "radius" "100"
 }
-// entity 121
+// entity 117
 {
 "classname" "target_position"
 "origin" "704 -1456 584"
 "targetname" "target_position3"
 }
-// entity 122
+// entity 118
 {
 "classname" "misc_model"
 "origin" "286.354 -286.323 379.901"
@@ -18229,7 +18200,7 @@ brushDef
 "backsplash" "0.0"
 "haloscale" "0.65"
 }
-// entity 123
+// entity 119
 {
 "classname" "misc_model"
 "origin" "316.704 -258.096 592"
@@ -18242,13 +18213,13 @@ brushDef
 "vertexcolor_pinnk" "#ff66e3"
 "vertexcolor" "#98e302"
 }
-// entity 124
+// entity 120
 {
 "classname" "target_position"
 "origin" "246 -266 488"
 "targetname" "target_position14"
 }
-// entity 125
+// entity 121
 {
 "classname" "misc_model"
 "origin" "-624 -1215.96 367.961"
@@ -18262,7 +18233,7 @@ brushDef
 "radius" "200"
 "softness" "50"
 }
-// entity 126
+// entity 122
 {
 "classname" "misc_model"
 "origin" "-624 -879.96 367.961"
@@ -18276,7 +18247,7 @@ brushDef
 "radius" "200"
 "softness" "50"
 }
-// entity 127
+// entity 123
 {
 "classname" "misc_model"
 "origin" "-351.96 -1440 367.961"
@@ -18290,7 +18261,7 @@ brushDef
 "radius" "200"
 "softness" "50"
 }
-// entity 128
+// entity 124
 {
 "classname" "misc_model"
 "origin" "304.04 -1776 415.961"
@@ -18301,7 +18272,7 @@ brushDef
 "radius" "150"
 "softness" "40"
 }
-// entity 129
+// entity 125
 {
 "classname" "misc_model"
 "origin" "44.0081 -1324.11 649.979"
@@ -18312,7 +18283,7 @@ brushDef
 "light" "30"
 "radius" "100"
 }
-// entity 130
+// entity 126
 {
 "classname" "misc_model"
 "origin" "-148 -1408.11 650.229"
@@ -18323,7 +18294,7 @@ brushDef
 "light" "30"
 "radius" "100"
 }
-// entity 131
+// entity 127
 {
 "classname" "misc_model"
 "origin" "-348 -1408.11 650.229"
@@ -18334,49 +18305,49 @@ brushDef
 "light" "30"
 "radius" "100"
 }
-// entity 132
+// entity 128
 {
 "classname" "ammo_riotgun"
 "origin" "200 -768 472"
 }
-// entity 133
+// entity 129
 {
 "classname" "ammo_rocketlauncher"
 "origin" "272 -304 16"
 }
-// entity 134
+// entity 130
 {
 "classname" "item_armor_shard"
 "origin" "-592 -1524 184"
 }
-// entity 135
+// entity 131
 {
 "classname" "item_armor_shard"
 "origin" "-660 -1460 184"
 }
-// entity 136
+// entity 132
 {
 "classname" "item_armor_shard"
 "origin" "-692 -1428 184"
 }
-// entity 137
+// entity 133
 {
 "classname" "item_armor_shard"
 "origin" "-628 -1492 184"
 }
-// entity 138
+// entity 134
 {
 "classname" "item_health_medium"
 "origin" "-480 -336 192"
 }
-// entity 139
+// entity 135
 {
 "classname" "item_health_ultra"
 "angle" "360"
 "origin" "-144 -720 -16"
 "notduel" "1"
 }
-// entity 140
+// entity 136
 {
 "classname" "func_group"
 "group" "decal scratches"
@@ -18394,7 +18365,7 @@ brushDef
 }
 }
 }
-// entity 141
+// entity 137
 {
 "classname" "func_group"
 "group" "decal scratches"
@@ -18412,7 +18383,7 @@ brushDef
 }
 }
 }
-// entity 142
+// entity 138
 {
 "classname" "func_group"
 "group" "decal scratches"
@@ -18430,7 +18401,7 @@ brushDef
 }
 }
 }
-// entity 143
+// entity 139
 {
 "classname" "misc_model"
 "origin" "576 -671.96 351.961"
@@ -18445,7 +18416,7 @@ brushDef
 "radius" "200"
 "softness" "50"
 }
-// entity 144
+// entity 140
 {
 "classname" "misc_model"
 "origin" "576 -879.96 351.961"
@@ -18460,7 +18431,7 @@ brushDef
 "radius" "200"
 "softness" "50"
 }
-// entity 145
+// entity 141
 {
 "classname" "misc_model"
 "origin" "624 -1023.96 351.961"
@@ -18475,22 +18446,22 @@ brushDef
 "radius" "200"
 "softness" "50"
 }
-// entity 146
+// entity 142
 {
 "classname" "item_health_medium"
 "origin" "520 -8 8"
 }
-// entity 147
+// entity 143
 {
 "classname" "item_health_medium"
 "origin" "568 -56 8"
 }
-// entity 148
+// entity 144
 {
 "classname" "item_armor_ya"
 "origin" "-272 -1808 192"
 }
-// entity 149
+// entity 145
 {
 "classname" "func_group"
 // brush 0
@@ -18669,7 +18640,7 @@ brushDef
 }
 }
 }
-// entity 150
+// entity 146
 {
 "classname" "misc_model"
 "origin" "-127.96 -1796 319.961"
@@ -18680,7 +18651,7 @@ brushDef
 "radius" "150"
 "softness" "40"
 }
-// entity 151
+// entity 147
 {
 "classname" "func_group"
 "vertexcolor" "#ff6e54"
@@ -18697,7 +18668,7 @@ brushDef
 }
 }
 }
-// entity 152
+// entity 148
 {
 "classname" "misc_decal"
 "origin" "288 -288 168"
@@ -18706,7 +18677,7 @@ brushDef
 "vertexcolor" "#ff6947"
 "scale" "0.80"
 }
-// entity 153
+// entity 149
 {
 "classname" "func_group"
 "group" "tele corner"
@@ -18747,7 +18718,7 @@ brushDef
 }
 }
 }
-// entity 154
+// entity 150
 {
 "classname" "misc_model"
 "origin" "-403.96 -816 143.961"
@@ -18760,33 +18731,33 @@ brushDef
 "attenuation" "standard"
 "softness" "50"
 }
-// entity 155
+// entity 151
 {
 "classname" "weapon_lasergun"
 "origin" "576 -672 464"
 }
-// entity 156
+// entity 152
 {
 "classname" "weapon_riotgun"
 "origin" "424 -1792 96"
 }
-// entity 157
+// entity 153
 {
 "classname" "item_health_medium"
 "origin" "80 -1344 456"
 }
-// entity 158
+// entity 154
 {
 "classname" "weapon_plasmagun"
 "origin" "-608 -640 176"
 }
-// entity 159
+// entity 155
 {
 "classname" "weapon_rocketlauncher"
 "origin" "-72 -1208 -32"
 "angle" "90"
 }
-// entity 160
+// entity 156
 {
 "classname" "func_group"
 "group" "pipes GA"
@@ -18912,7 +18883,7 @@ exwsw/eX_surf_metallightgrey
 }
 }
 }
-// entity 161
+// entity 157
 {
 "classname" "misc_model"
 "origin" "132 -444 -19.6814"
@@ -18921,7 +18892,7 @@ exwsw/eX_surf_metallightgrey
 "collisiontype" "none"
 "modelscale" "1.0"
 }
-// entity 162
+// entity 158
 {
 "classname" "func_group"
 "group" "corner_plat_1"
@@ -18953,7 +18924,7 @@ lights/blacktrim01
 }
 }
 }
-// entity 163
+// entity 159
 {
 "classname" "misc_model"
 "origin" "-220 168 312"
@@ -18961,7 +18932,7 @@ lights/blacktrim01
 "angle" "90"
 "collisiontype" "none"
 }
-// entity 164
+// entity 160
 {
 "classname" "misc_decal"
 "origin" "304 -1904 392"
@@ -18970,7 +18941,7 @@ lights/blacktrim01
 "vertexcolor" "#520048"
 "scale" "1.25"
 }
-// entity 165
+// entity 161
 {
 "classname" "misc_decal"
 "origin" "304 -1888 472"
@@ -18979,35 +18950,35 @@ lights/blacktrim01
 "vertexcolor" "#520048"
 "scale" "0.25"
 }
-// entity 166
+// entity 162
 {
 "classname" "misc_model"
 "origin" "-458 -816 -38"
 "model" "models/mapobjects/teleporter/teleporter_01_b.obj"
 "angle" "90"
 }
-// entity 167
+// entity 163
 {
 "classname" "misc_decal"
 "origin" "680 -1768 168"
 "shader" "textures/decals/decal_telesign_right"
 "scale" "0.35"
 }
-// entity 168
+// entity 164
 {
 "classname" "misc_decal"
 "origin" "680 -1856 168"
 "shader" "textures/decals/sign_warning01"
 "scale" "0.9"
 }
-// entity 169
+// entity 165
 {
 "classname" "misc_model"
 "origin" "608 -1800 80"
 "model" "models/mapobjects/teleporter/teleporter_01_a.obj"
 "angle" "-90"
 }
-// entity 170
+// entity 166
 {
 "classname" "misc_decal"
 "origin" "544 -1760 88"
@@ -19017,7 +18988,7 @@ lights/blacktrim01
 "decalgroup" "south_tele"
 "scale" "0.5"
 }
-// entity 171
+// entity 167
 {
 "classname" "func_group"
 "decalgroup" "south_tele"
@@ -19034,7 +19005,7 @@ brushDef
 }
 }
 }
-// entity 172
+// entity 168
 {
 "classname" "light"
 "origin" "612 -1804 144"
@@ -19044,7 +19015,7 @@ brushDef
 "fadeout" "0.75"
 "color" "#19baff"
 }
-// entity 173
+// entity 169
 {
 "classname" "misc_decal"
 "origin" "544 -1888 88"
@@ -19054,7 +19025,7 @@ brushDef
 "decalgroup" "south_tele"
 "scale" "0.5"
 }
-// entity 174
+// entity 170
 {
 "classname" "func_group"
 "vertexcolor" "#699e00"
@@ -19072,7 +19043,7 @@ brushDef
 }
 }
 }
-// entity 175
+// entity 171
 {
 "classname" "misc_decal"
 "origin" "-488 -1344 256"
@@ -19084,13 +19055,13 @@ brushDef
 "distance" "128"
 "rotate" "-110"
 }
-// entity 176
+// entity 172
 {
 "classname" "info_player_deathmatch"
 "origin" "608 -1376 480"
 "angle" "180"
 }
-// entity 177
+// entity 173
 {
 "classname" "misc_decal"
 "origin" "344 -664 256"
@@ -19098,7 +19069,7 @@ brushDef
 "shader" "textures/decals/decal_danger"
 "scale" "0.6"
 }
-// entity 178
+// entity 174
 {
 "classname" "func_group"
 "group" "pivot_big_round"
@@ -19126,7 +19097,7 @@ decals/paint_line
 }
 }
 }
-// entity 179
+// entity 175
 {
 "classname" "misc_decal"
 "origin" "-124 308 384"
@@ -19134,7 +19105,7 @@ decals/paint_line
 "scale" "0.6"
 "angle" "90"
 }
-// entity 180
+// entity 176
 {
 "classname" "func_group"
 "group" "plat floor"
@@ -19204,7 +19175,7 @@ brushDef
 }
 }
 }
-// entity 181
+// entity 177
 {
 "classname" "light"
 "origin" "-220 172 360"
@@ -19214,7 +19185,7 @@ brushDef
 "fadeout" "0.75"
 "color" "#19baff"
 }
-// entity 182
+// entity 178
 {
 "classname" "func_light"
 "type" "surface"
@@ -19231,7 +19202,7 @@ brushDef
 }
 }
 }
-// entity 183
+// entity 179
 {
 "classname" "misc_model"
 "origin" "124.008 -1120.11 649.979"
@@ -19242,7 +19213,7 @@ brushDef
 "light" "30"
 "radius" "100"
 }
-// entity 184
+// entity 180
 {
 "classname" "func_light"
 "type" "surface"
@@ -19272,7 +19243,7 @@ brushDef
 }
 }
 }
-// entity 185
+// entity 181
 {
 "classname" "func_group"
 "chamfer_concavewidth" "4"
@@ -19313,7 +19284,7 @@ brushDef
 }
 }
 }
-// entity 186
+// entity 182
 {
 "classname" "light"
 "origin" "64 -724 184"
@@ -19323,7 +19294,7 @@ brushDef
 "fadeout" "0.65"
 "color" "#699e00"
 }
-// entity 187
+// entity 183
 {
 "classname" "light"
 "origin" "-152.000000 -416.000000 472.000000"
@@ -19334,7 +19305,7 @@ brushDef
 "backsplash" "0"
 "cutoff" "1"
 }
-// entity 188
+// entity 184
 {
 "classname" "func_group"
 // brush 0
@@ -19642,7 +19613,7 @@ brushDef
 }
 }
 }
-// entity 189
+// entity 185
 {
 "classname" "func_group"
 "vertexcolor" "#eb42aa"
@@ -19708,7 +19679,7 @@ brushDef
 }
 }
 }
-// entity 190
+// entity 186
 {
 "classname" "misc_decal"
 "origin" "268 -768 608"
@@ -19716,7 +19687,7 @@ brushDef
 "shader" "textures/decals/01"
 "scale" "0.6"
 }
-// entity 191
+// entity 187
 {
 "classname" "func_static"
 // brush 0
@@ -20065,7 +20036,7 @@ brushDef
 }
 }
 }
-// entity 192
+// entity 188
 {
 "classname" "light"
 "origin" "288 -288 336"
@@ -20076,7 +20047,7 @@ brushDef
 "grid_ambientscale" "0.0"
 "grid_directscale" "0.0"
 }
-// entity 193
+// entity 189
 {
 "classname" "func_light"
 "type" "spot"
@@ -20372,7 +20343,7 @@ brushDef
 }
 }
 }
-// entity 194
+// entity 190
 {
 "classname" "func_trisoup"
 "group" "corner_plat_3"
@@ -20586,7 +20557,7 @@ concrete/concretebunker0068
 }
 }
 }
-// entity 195
+// entity 191
 {
 "classname" "func_trisoup"
 "subdivisions" "12"
@@ -20717,7 +20688,7 @@ pipes/tubes1
 }
 }
 }
-// entity 196
+// entity 192
 {
 "classname" "func_trisoup"
 "group" "pivot_big_round_plat"
@@ -20829,7 +20800,7 @@ decals/paint_line
 }
 }
 }
-// entity 197
+// entity 193
 {
 "classname" "func_trisoup"
 "group" "pivot_big_round"
@@ -20919,7 +20890,7 @@ bricks/bricks_05_black
 }
 }
 }
-// entity 198
+// entity 194
 {
 "classname" "func_trisoup"
 "group" "pivot_half"
@@ -21003,7 +20974,7 @@ decals/paint_line
 }
 }
 }
-// entity 199
+// entity 195
 {
 "classname" "func_trisoup"
 "vertexcolor" "#a7f707"
@@ -21298,7 +21269,7 @@ brushDef
 }
 }
 }
-// entity 200
+// entity 196
 {
 "classname" "func_trisoup"
 "shadeangle" "180"
@@ -21337,7 +21308,7 @@ brushDef
 }
 }
 }
-// entity 201
+// entity 197
 {
 "classname" "func_light"
 "type" "surface"
@@ -21496,7 +21467,7 @@ brushDef
 }
 }
 }
-// entity 202
+// entity 198
 {
 "classname" "func_trisoup"
 "subdivisions" "14"
@@ -21618,7 +21589,7 @@ concrete/concreteclean
 }
 }
 }
-// entity 203
+// entity 199
 {
 "classname" "func_group"
 // brush 0
@@ -21730,7 +21701,7 @@ brushDef
 }
 }
 }
-// entity 204
+// entity 200
 {
 "classname" "misc_text_decal"
 "origin" "-8 -444 176"
@@ -21743,7 +21714,7 @@ brushDef
 "angles" "90 0 45"
 "vertexcolor" "#a7f707"
 }
-// entity 205
+// entity 201
 {
 "classname" "misc_text_decal"
 "origin" "-70 -616 180"
@@ -21756,7 +21727,7 @@ brushDef
 "angles" "0 -90 -90"
 "vertexcolor" "#a7f707"
 }
-// entity 206
+// entity 202
 {
 "classname" "misc_text_decal"
 "origin" "349 -173 -4"
@@ -21770,7 +21741,7 @@ brushDef
 "vertexcolor" "#a7f707"
 "decalgroup" "tele1"
 }
-// entity 207
+// entity 203
 {
 "classname" "misc_text_decal"
 "origin" "130 -499 -4"
@@ -21784,7 +21755,7 @@ brushDef
 "vertexcolor" "#a7f707"
 "decalgroup" "tele1"
 }
-// entity 208
+// entity 204
 {
 "classname" "func_trisoup"
 "decalgroup" "tele1"
@@ -21803,7 +21774,7 @@ brushDef
 }
 }
 }
-// entity 209
+// entity 205
 {
 "classname" "func_light"
 "type" "surface"
@@ -21853,7 +21824,7 @@ decals/lights/decal_blacktrim02_1000
 }
 }
 }
-// entity 210
+// entity 206
 {
 "classname" "func_trisoup"
 "subdivisions" "12"
@@ -21956,7 +21927,7 @@ plastic/grey65
 }
 }
 }
-// entity 211
+// entity 207
 {
 "classname" "func_group"
 // brush 0
@@ -21996,7 +21967,7 @@ brushDef
 }
 }
 }
-// entity 212
+// entity 208
 {
 "classname" "misc_model"
 "origin" "224 -672 628"
@@ -22004,7 +21975,7 @@ brushDef
 "modelscale" "18"
 "angles" "0 0 180"
 }
-// entity 213
+// entity 209
 {
 "classname" "misc_model"
 "origin" "-96 -352 628"
@@ -22012,7 +21983,7 @@ brushDef
 "modelscale" "18"
 "angles" "0 -90 180"
 }
-// entity 214
+// entity 210
 {
 "classname" "misc_text_decal"
 "origin" "418 -146 136"
@@ -22022,21 +21993,17 @@ brushDef
 "height" "20"
 "vertexalpha" "1.0"
 }
-// entity 215
+// entity 211
 {
 "classname" "misc_model"
-"origin" "205.056 -634.031 703.625"
-"model" "models/mapobjects/cables/cables_1_straight.ase"
-"angles" "0 111.742 90"
+"origin" "213.084 -634.031 527.277"
+"model" "models/mapobjects/cables/cables_trio.ase"
+"angles" "0 90 80.7657"
+"_color" "0.168627 0.219608 0.439216"
+"vertexcolor" "0.168627 0.219608 0.439216"
+"modelscale" "0.9"
 }
-// entity 216
-{
-"classname" "misc_model"
-"origin" "205.056 -634.031 447.625"
-"model" "models/mapobjects/cables/cables_1_straight_cross.ase"
-"angles" "0 111.742 90"
-}
-// entity 217
+// entity 212
 {
 "classname" "misc_model"
 "origin" "278.306 -626.031 422.375"
@@ -22044,7 +22011,7 @@ brushDef
 "angles" "90 0 0"
 "modelscale_vec" "2.5 1 1"
 }
-// entity 218
+// entity 213
 {
 "classname" "misc_text_decal"
 "origin" "318 -352 588"
@@ -22058,7 +22025,7 @@ brushDef
 "vertexcolor" "#ff6bcb"
 "_color" "1 0.419608 0.796078"
 }
-// entity 219
+// entity 214
 {
 "classname" "misc_text_decal"
 "origin" "286 -380 524"
@@ -22072,12 +22039,12 @@ brushDef
 "vertexcolor" "#ff6bcb"
 "_color" "1 0.419608 0.796078"
 }
-// entity 220
+// entity 215
 {
 "classname" "func_trisoup"
 "vertexcolor" "#bb5693"
 "gouop" "pink_pipe"
-"_color" "0.796078 0.364706 0.631373"
+"_color" "0.364706 0.796078 0.67451"
 "vertexalpha" "0.65"
 // brush 0
 {

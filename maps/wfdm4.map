@@ -17845,9 +17845,10 @@ brushDef
 "model" "models/mapobjects/wdm4/export_wdm4_mainice.ase"
 "modelscale_vec" "0.75 0.75 0.333334"
 "spawnflags" "14"
-"_samplesize" "64"
+"_samplesize" "16"
 "_castshadows" "0"
 "smooth" "20"
+"collisiontype" "terrain"
 }
 // entity 178
 {

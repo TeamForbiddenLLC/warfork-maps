@@ -1,0 +1,1445 @@
+
+//@$& layerdef "0" -1 0 0 0
+// entity 0
+{
+"classname" "worldspawn"
+"message" "Shepas"
+"_lightingIntensity" "1.5"
+"ambient" "15"
+// brush 0
+{
+brushDef
+{
+( -400 262144 262144 ) ( -400 -262144 262144 ) ( -400 -262144 -262144 ) ( ( -0.015625 -0 0.625 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -392 -262144 262144 ) ( -392 262144 262144 ) ( -392 262144 -262144 ) ( ( 0.015625 0 0.625 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -262144 -224 262144 ) ( 262144 -224 262144 ) ( 262144 -224 -262144 ) ( ( 0.015625 -0 0.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( 262144 120 262144 ) ( -262144 120 262144 ) ( -262144 120 -262144 ) ( ( -0.015625 0 0.375 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( 262144 -262144 -208 ) ( 262144 262144 -208 ) ( -262144 262144 -208 ) ( ( 0 -0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+( 262144 262144 480 ) ( 262144 -262144 480 ) ( -262144 -262144 480 ) ( ( 0 0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1
+{
+brushDef
+{
+( -400 262144 262144 ) ( -400 -262144 262144 ) ( -400 -262144 -262144 ) ( ( -0.015625 -0 0.625 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( 336 -262144 262144 ) ( 336 262144 262144 ) ( 336 262144 -262144 ) ( ( 0.015625 0 0.375 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -262144 -224 262144 ) ( 262144 -224 262144 ) ( 262144 -224 -262144 ) ( ( 0.015625 -0 0.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( 262144 -216 262144 ) ( -262144 -216 262144 ) ( -262144 -216 -262144 ) ( ( -0.015625 0 0.25 ) ( -0 0.015625 0.875 ) ) common/caulk 0 0 0
+( 262144 -262144 -208 ) ( 262144 262144 -208 ) ( -262144 262144 -208 ) ( ( 0 -0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+( 262144 262144 480 ) ( 262144 -262144 480 ) ( -262144 -262144 480 ) ( ( 0 0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 2
+{
+brushDef
+{
+( -400 262144 262144 ) ( -400 -262144 262144 ) ( -400 -262144 -262144 ) ( ( -0.015625 -0 0.625 ) ( 0 0.015625 0.625 ) ) common/caulk 0 0 0
+( 336 -262144 262144 ) ( 336 262144 262144 ) ( 336 262144 -262144 ) ( ( 0.015625 0 0.375 ) ( 0 0.015625 0.625 ) ) common/caulk 0 0 0
+( -262144 -224 262144 ) ( 262144 -224 262144 ) ( 262144 -224 -262144 ) ( ( 0.015625 -0 0.25 ) ( 0 0.015625 0.625 ) ) common/caulk 0 0 0
+( 262144 120 262144 ) ( -262144 120 262144 ) ( -262144 120 -262144 ) ( ( -0.015625 0 0.375 ) ( -0 0.015625 0.625 ) ) common/caulk 0 0 0
+( 262144 -262144 -216 ) ( 262144 262144 -216 ) ( -262144 262144 -216 ) ( ( 0 -0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+( 262144 262144 -208 ) ( 262144 -262144 -208 ) ( -262144 -262144 -208 ) ( ( 0 0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 3
+{
+brushDef
+{
+( 328 262144 262144 ) ( 328 -262144 262144 ) ( 328 -262144 -262144 ) ( ( -0.015625 -0 0.375 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( 336 -262144 262144 ) ( 336 262144 262144 ) ( 336 262144 -262144 ) ( ( 0.015625 0 0.375 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -262144 -224 262144 ) ( 262144 -224 262144 ) ( 262144 -224 -262144 ) ( ( 0.015625 -0 0.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( 262144 120 262144 ) ( -262144 120 262144 ) ( -262144 120 -262144 ) ( ( -0.015625 0 0.375 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( 262144 -262144 -208 ) ( 262144 262144 -208 ) ( -262144 262144 -208 ) ( ( 0 -0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+( 262144 262144 480 ) ( 262144 -262144 480 ) ( -262144 -262144 480 ) ( ( 0 0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 4
+{
+brushDef
+{
+( -400 262144 262144 ) ( -400 -262144 262144 ) ( -400 -262144 -262144 ) ( ( -0.015625 -0 0.625 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( 336 -262144 262144 ) ( 336 262144 262144 ) ( 336 262144 -262144 ) ( ( 0.015625 0 0.375 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -262144 112 262144 ) ( 262144 112 262144 ) ( 262144 112 -262144 ) ( ( 0.015625 -0 0.375 ) ( 0 0.015625 0.875 ) ) common/caulk 0 0 0
+( 262144 120 262144 ) ( -262144 120 262144 ) ( -262144 120 -262144 ) ( ( -0.015625 0 0.375 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( 262144 -262144 -208 ) ( 262144 262144 -208 ) ( -262144 262144 -208 ) ( ( 0 -0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+( 262144 262144 480 ) ( 262144 -262144 480 ) ( -262144 -262144 480 ) ( ( 0 0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 5
+{
+brushDef
+{
+( -400 262144 262144 ) ( -400 -262144 262144 ) ( -400 -262144 -262144 ) ( ( -0.015625 -0 0.625 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( 336 -262144 262144 ) ( 336 262144 262144 ) ( 336 262144 -262144 ) ( ( 0.015625 0 0.375 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -262144 -224 262144 ) ( 262144 -224 262144 ) ( 262144 -224 -262144 ) ( ( 0.015625 -0 0.25 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( 262144 120 262144 ) ( -262144 120 262144 ) ( -262144 120 -262144 ) ( ( -0.015625 0 0.375 ) ( -0 0.015625 0.25 ) ) common/caulk 0 0 0
+( 262144 -262144 480 ) ( 262144 262144 480 ) ( -262144 262144 480 ) ( ( 0 -0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+( 262144 262144 488 ) ( 262144 -262144 488 ) ( -262144 -262144 488 ) ( ( 0 0.015625 0 ) ( -0.015625 0 0 ) ) common/caulk 0 0 0
+}
+}
+}
+// entity 1
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-51.268700 0.000089 -0.000017"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "25.479034 6.000023 -65.253082"
+}
+// entity 2
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "44.937366 -179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "8.888306 6.000000 -78.247589"
+}
+// entity 3
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-65.370796 0.000081 0.000016"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "25.609741 6.000008 -23.634155"
+}
+// entity 4
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "59.039467 -179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "12.685120 6.000008 -40.279388"
+}
+// entity 5
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-77.170662 0.000051 0.000045"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "13.780426 6.000015 17.336212"
+}
+// entity 6
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "70.839325 -179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "4.532776 6.000008 -1.600266"
+}
+// entity 7
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-89.873329 0.000000 0.000096"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-14.365021 6.000008 59.938934"
+}
+// entity 8
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "83.541840 -179.999954 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-11.222412 6.000008 31.432526"
+}
+// entity 9
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "77.936066 0.000001 0.000023"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-51.316101 5.999916 76.598145"
+}
+// entity 10
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-88.195389 -0.000345 0.000376"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-51.879883 6.000175 95.136353"
+}
+// entity 11
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "88.195503 -179.999847 -179.999847"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-79.236267 5.999939 116.007935"
+}
+// entity 12
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-71.104118 -0.000017 0.000039"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-72.716949 6.000099 133.945404"
+}
+// entity 13
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "71.104218 -179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-92.731018 5.999969 161.935333"
+}
+// entity 14
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "71.104218 -179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-98.771851 5.999969 178.773102"
+}
+// entity 15
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "25.484995 179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-95.720459 5.999992 202.249023"
+}
+// entity 16
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-26.224119 -179.999969 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-86.026764 5.999947 216.754456"
+}
+// entity 17
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "26.224155 0.000012 0.000004"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-81.517883 5.999939 210.827118"
+}
+// entity 18
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-38.922260 -179.999985 179.999969"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-88.159973 6.000114 150.398041"
+}
+// entity 19
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "38.922237 0.000010 -0.000017"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-121.311401 5.999931 141.179321"
+}
+// entity 20
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-52.790661 -179.999985 179.999969"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-133.419281 6.000114 155.228333"
+}
+// entity 21
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "52.790634 0.000010 -0.000017"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-167.813965 5.999939 154.224365"
+}
+// entity 22
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-69.881981 -179.999939 179.999954"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-174.040131 6.000114 172.265778"
+}
+// entity 23
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "69.881912 0.000010 0.000010"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-207.210938 5.999939 181.414581"
+}
+// entity 24
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-69.881981 -179.999939 179.999954"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-188.019348 6.000122 168.193817"
+}
+// entity 25
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-69.881981 -179.999939 179.999954"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-198.802673 6.000122 159.043884"
+}
+// entity 26
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-69.881981 -179.999939 179.999954"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-210.213379 6.000130 147.136108"
+}
+// entity 27
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "69.881943 0.000023 0.000010"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-225.768311 6.000076 132.535980"
+}
+// entity 28
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "69.881912 0.000010 0.000010"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-222.504028 5.999954 190.694702"
+}
+// entity 29
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "64.498856 -179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-234.911499 5.999931 210.856201"
+}
+// entity 30
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "12.789724 -179.999969 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-236.510925 5.999832 228.229004"
+}
+// entity 31
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-12.789710 0.000024 -0.000017"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-229.276245 5.999924 226.461914"
+}
+// entity 32
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "83.994759 -0.000072 -0.000017"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-102.942657 5.999969 219.149414"
+}
+// entity 33
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "50.386009 -179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-110.059479 5.999992 241.727722"
+}
+// entity 34
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-1.323107 -179.999969 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-107.374542 5.999901 258.966248"
+}
+// entity 35
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "1.323143 0.000010 0.000010"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-100.789093 5.999939 255.488403"
+}
+// entity 36
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-60.005253 -179.999954 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-110.143738 6.000092 266.067200"
+}
+// entity 37
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "60.005226 0.000000 0.000010"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-144.392151 5.999947 269.390747"
+}
+// entity 38
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-73.873650 -179.999969 179.999954"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-150.635895 6.000130 286.854736"
+}
+// entity 39
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "73.873611 0.000010 0.000010"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-183.089294 5.999939 298.290466"
+}
+// entity 40
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-89.034904 -0.000646 0.000655"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-182.408905 6.000061 317.363770"
+}
+// entity 41
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "89.034904 179.999542 179.999527"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-210.068115 5.999931 337.832458"
+}
+// entity 42
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-89.034904 -0.000646 0.000655"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-196.917053 6.000053 318.593018"
+}
+// entity 43
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-89.034904 -0.000646 0.000655"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-210.269897 6.000046 313.934631"
+}
+// entity 44
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-89.034904 -0.000646 0.000655"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-225.200317 6.000046 306.928589"
+}
+// entity 45
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "89.035103 179.999557 179.999527"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-244.965942 6.000038 298.901245"
+}
+// entity 46
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "89.034904 179.999542 179.999527"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-220.999390 5.999931 351.992554"
+}
+// entity 47
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "43.415874 179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-225.323792 5.999969 375.267578"
+}
+// entity 48
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-8.293260 -179.999969 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-220.566772 5.999779 392.052856"
+}
+// entity 49
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "8.293283 0.000009 0.000000"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-214.452148 5.999939 387.801636"
+}
+// entity 50
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-6.992765 0.000105 0.000007"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-82.366028 5.999565 210.765259"
+}
+// entity 51
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "19.183380 179.999969 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-70.414856 6.000000 249.496155"
+}
+// entity 52
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-5.314779 0.000038 0.000019"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-52.089508 6.000061 252.353180"
+}
+// entity 53
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "5.314939 179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-34.769318 5.999962 282.085388"
+}
+// entity 54
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "11.776442 0.000031 0.000022"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-16.162170 6.000053 277.839539"
+}
+// entity 55
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-11.776329 179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "9.131409 5.999962 301.168274"
+}
+// entity 56
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-11.776329 179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "25.090729 5.999969 309.249390"
+}
+// entity 57
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-57.395569 179.999939 -179.999969"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "48.763885 6.000008 309.131042"
+}
+// entity 58
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-70.895355 0.000153 -0.000099"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "64.358780 5.999886 301.309937"
+}
+// entity 59
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "70.895294 179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "59.035995 5.999939 296.101196"
+}
+// entity 60
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-58.197086 0.000010 0.000047"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-1.750305 6.000084 295.202515"
+}
+// entity 61
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "58.197140 -179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-15.006714 5.999931 326.955872"
+}
+// entity 62
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-44.328766 0.000010 0.000030"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-2.566650 6.000084 340.711609"
+}
+// entity 63
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "44.328796 -179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-7.825714 5.999939 374.716614"
+}
+// entity 64
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-27.237417 0.000028 0.000022"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "9.304901 6.000076 383.130859"
+}
+// entity 65
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "27.237524 179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "14.272034 5.999947 417.179810"
+}
+// entity 66
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-27.237417 0.000028 0.000022"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "3.531830 6.000084 396.497559"
+}
+// entity 67
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-27.237417 0.000028 0.000022"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-6.884064 6.000076 406.063782"
+}
+// entity 68
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-27.237417 0.000028 0.000022"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-20.114166 6.000084 415.910706"
+}
+// entity 69
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "27.237492 -179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-36.529602 6.000084 429.536072"
+}
+// entity 70
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "27.237524 179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "21.585266 5.999954 433.505066"
+}
+// entity 71
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-18.381723 -179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "40.053558 5.999977 448.315796"
+}
+// entity 72
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-70.090820 -179.999985 -179.999954"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "57.094208 5.999916 452.055908"
+}
+// entity 73
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "70.090843 0.000030 0.000031"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "56.237427 5.999962 444.658020"
+}
+// entity 74
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "13.124679 179.999924 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "64.638748 5.999977 318.392212"
+}
+// entity 75
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-32.494534 -179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "86.160980 5.999992 328.252441"
+}
+// entity 76
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-84.203667 179.999741 -179.999695"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "103.599350 5.999878 327.724731"
+}
+// entity 77
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-37.114201 0.000046 0.000006"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "110.302368 6.000130 331.352661"
+}
+// entity 78
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "37.114201 179.999969 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "109.355576 5.999916 365.748901"
+}
+// entity 79
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-23.245802 0.000013 0.000019"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "125.911102 6.000130 374.109009"
+}
+// entity 80
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "23.245827 179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "133.236420 5.999947 407.729492"
+}
+// entity 81
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-6.154318 0.000017 0.000018"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "152.247025 6.000107 409.418274"
+}
+// entity 82
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "6.154343 -179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "169.129822 6.000008 439.401123"
+}
+// entity 83
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-6.154318 0.000017 0.000018"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "151.668671 6.000084 423.966919"
+}
+// entity 84
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-6.154318 0.000017 0.000018"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "145.391296 6.000069 436.639526"
+}
+// entity 85
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-6.154318 0.000017 0.000018"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "136.588806 6.000069 450.586426"
+}
+// entity 86
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "6.154543 -179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "126.173630 6.000099 469.204773"
+}
+// entity 87
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "6.154343 -179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "181.825958 6.000008 452.003113"
+}
+// entity 88
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-39.464687 179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "204.385620 5.999985 459.178833"
+}
+// entity 89
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-88.826134 0.001128 -0.001110"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "221.630981 5.999908 456.538818"
+}
+// entity 90
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "88.826134 179.999573 179.999573"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "218.170425 5.999947 449.944336"
+}
+// entity 91
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-46.525707 0.000021 0.000007"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-17.422424 6.000114 62.223969"
+}
+// entity 92
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "46.525723 179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-23.981079 5.999939 96.002472"
+}
+// entity 93
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-32.657284 0.000014 0.000008"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-9.015381 6.000114 106.957214"
+}
+// entity 94
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "32.657322 179.999985 179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-7.286377 5.999947 141.323059"
+}
+// entity 95
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-15.565990 0.000038 0.000011"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "11.192139 6.000099 146.097778"
+}
+// entity 96
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "15.566039 179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "22.944702 5.999939 178.437805"
+}
+// entity 97
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-15.565990 0.000038 0.000011"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "8.242493 6.000114 160.356049"
+}
+// entity 98
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-15.565990 0.000038 0.000011"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-0.022736 6.000107 171.831543"
+}
+// entity 99
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-15.565990 0.000038 0.000011"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-10.987366 6.000099 184.151276"
+}
+// entity 100
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "15.566020 -179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "-24.306915 6.000084 200.815826"
+}
+// entity 101
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "15.566039 179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "33.409241 5.999931 192.946167"
+}
+// entity 102
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-30.053154 179.999985 -179.999985"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "54.491821 5.999954 203.714355"
+}
+// entity 103
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "-81.762291 179.999969 -179.999954"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "71.936829 5.999908 203.929932"
+}
+// entity 104
+{
+"classname" "misc_model"
+"modelscale" "1.5"
+"spawnflags" "6"
+"angles" "81.762337 0.000058 0.000035"
+"model" "models/mapobjects/nateleaf1/nateivy1_tri.obj"
+"origin" "69.601135 5.999947 196.858398"
+}
+// entity 105
+{
+"classname" "info_player_start"
+"origin" "-72.000000 -56.000000 144.000000"
+}
+// entity 106
+{
+"classname" "func_trisoup"
+"subdivide" "16"
+// brush 0
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -87.766998291 -2 213.4250030518 0 0 ) ( -52.4109992981 -2 274.9960021973 0 -0.2773399949 ) ( 15.138999939 -2 298.7290039062 0 -0.5546900034 ) )
+( ( -87.766998291 -4 213.4250030518 0.0078099999 0 ) ( -52.4109992981 -4 274.9960021973 0.0078099999 -0.2773399949 ) ( 15.138999939 -4 298.7290039062 0.0078099999 -0.5546900034 ) )
+( ( -86.0329971313 -4 212.4290008545 0.0156199997 0 ) ( -50.6759986877 -4 274 0.0156199997 -0.2773399949 ) ( 16.8729991913 -4 297.733001709 0.0156199997 -0.5546900034 ) )
+( ( -84.2990036011 -4 211.4329986572 0.0234399997 0 ) ( -48.9420013428 -4 273.0039978027 0.0234399997 -0.2773399949 ) ( 18.607000351 -4 296.7369995117 0.0234399997 -0.5546900034 ) )
+( ( -84.2990036011 -2 211.4329986572 0.03125 0 ) ( -48.9420013428 -2 273.0039978027 0.03125 -0.2773399949 ) ( 18.607000351 -2 296.7369995117 0.03125 -0.5546900034 ) )
+( ( -84.2990036011 0 211.4329986572 0.0390600003 0 ) ( -48.9420013428 0 273.0039978027 0.0390600003 -0.2773399949 ) ( 18.607000351 -0 296.7369995117 0.0390600003 -0.5546900034 ) )
+( ( -86.0329971313 0 212.4290008545 0.0468799993 0 ) ( -50.6759986877 0 274 0.0468799993 -0.2773399949 ) ( 16.8729991913 -0 297.733001709 0.0468799993 -0.5546900034 ) )
+( ( -87.766998291 0 213.4250030518 0.0546899997 0 ) ( -52.4109992981 0 274.9960021973 0.0546899997 -0.2773399949 ) ( 15.138999939 -0 298.7290039062 0.0546899997 -0.5546900034 ) )
+( ( -87.766998291 -2 213.4250030518 0.0625 0 ) ( -52.4109992981 -2 274.9960021973 0.0625 -0.2773399949 ) ( 15.138999939 -2 298.7290039062 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 1
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -208.0299987793 -2 187.5970001221 0 0 ) ( -239.1860046387 -2 206.93800354 0 -0.2773399949 ) ( -236.2070007324 -2 230.841003418 0 -0.5546900034 ) )
+( ( -208.0299987793 -4 187.5970001221 0.0078099999 0 ) ( -239.1860046387 -4 206.93800354 0.0078099999 -0.2773399949 ) ( -236.2070007324 -4 230.841003418 0.0078099999 -0.5546900034 ) )
+( ( -205.574005127 -4 188.81199646 0.0156199997 0 ) ( -238 -4 207.3540039062 0.0156199997 -0.2773399949 ) ( -235.0209960938 -4 231.2579956055 0.0156199997 -0.5546900034 ) )
+( ( -204.3869934082 -4 189.2290039062 0.0234399997 0 ) ( -236.81300354 -4 207.7709960938 0.0234399997 -0.2773399949 ) ( -233.8339996338 -4 231.6750030518 0.0234399997 -0.5546900034 ) )
+( ( -204.3869934082 -2 189.2290039062 0.03125 0 ) ( -236.81300354 -2 207.7709960938 0.03125 -0.2773399949 ) ( -233.8339996338 -2 231.6750030518 0.03125 -0.5546900034 ) )
+( ( -204.3869934082 -0 189.2290039062 0.0390600003 0 ) ( -236.81300354 -0 207.7709960938 0.0390600003 -0.2773399949 ) ( -233.8339996338 -0 231.6750030518 0.0390600003 -0.5546900034 ) )
+( ( -205.574005127 -0 188.81199646 0.0468799993 0 ) ( -238 -0 207.3540039062 0.0468799993 -0.2773399949 ) ( -235.0209960938 -0 231.2579956055 0.0468799993 -0.5546900034 ) )
+( ( -208.0299987793 -0 187.5970001221 0.0546899997 0 ) ( -239.1860046387 -0 206.93800354 0.0546899997 -0.2773399949 ) ( -236.2070007324 -0 230.841003418 0.0546899997 -0.5546900034 ) )
+( ( -208.0299987793 -2 187.5970001221 0.0625 0 ) ( -239.1860046387 -2 206.93800354 0.0625 -0.2773399949 ) ( -236.2070007324 -2 230.841003418 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 2
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -234.1569976807 -2 303.9880065918 0 0 ) ( -205.5299987793 -2 329.2959899902 0 -0.2773399949 ) ( -184.0039978027 -2 316.4219970703 0 -0.5546900034 ) )
+( ( -234.1569976807 -4 303.9880065918 0.0078099999 0 ) ( -205.5299987793 -4 329.2959899902 0.0078099999 -0.2773399949 ) ( -184.0039978027 -4 316.4219970703 0.0078099999 -0.5546900034 ) )
+( ( -234.171005249 -4 302.6109924316 0.0156199997 0 ) ( -205.5440063477 -4 327.9179992676 0.0156199997 -0.2773399949 ) ( -184.0189971924 -4 315.0450134277 0.0156199997 -0.5546900034 ) )
+( ( -234.1849975586 -4 301.2340087891 0.0234399997 0 ) ( -205.5579986572 -4 326.5409851074 0.0234399997 -0.2773399949 ) ( -184.0330047607 -4 313.6669921875 0.0234399997 -0.5546900034 ) )
+( ( -234.1849975586 -2 301.2340087891 0.03125 0 ) ( -205.5579986572 -2 326.5409851074 0.03125 -0.2773399949 ) ( -184.0330047607 -2 313.6669921875 0.03125 -0.5546900034 ) )
+( ( -234.1849975586 0 301.2340087891 0.0390600003 0 ) ( -205.5579986572 0 326.5409851074 0.0390600003 -0.2773399949 ) ( -184.0330047607 0 313.6669921875 0.0390600003 -0.5546900034 ) )
+( ( -234.171005249 0 302.6109924316 0.0468799993 0 ) ( -205.5440063477 0 327.9179992676 0.0468799993 -0.2773399949 ) ( -184.0189971924 0 315.0450134277 0.0468799993 -0.5546900034 ) )
+( ( -234.1569976807 0 303.9880065918 0.0546899997 0 ) ( -205.5299987793 0 329.2959899902 0.0546899997 -0.2773399949 ) ( -184.0039978027 0 316.4219970703 0.0546899997 -0.5546900034 ) )
+( ( -234.1569976807 -2 303.9880065918 0.0625 0 ) ( -205.5299987793 -2 329.2959899902 0.0625 -0.2773399949 ) ( -184.0039978027 -2 316.4219970703 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 3
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -217.5130004883 -2 141.171005249 0 0 ) ( -199.9049987793 -2 175.0820007324 0 -0.2773399949 ) ( -175.1900024414 -2 170.81300354 0 -0.5546900034 ) )
+( ( -217.5130004883 -4 141.171005249 0.0078099999 0 ) ( -199.9049987793 -4 175.0820007324 0.0078099999 -0.2773399949 ) ( -175.1900024414 -4 170.81300354 0.0078099999 -0.5546900034 ) )
+( ( -217.0310058594 -4 139.8800048828 0.0156199997 0 ) ( -199.4230041504 -4 173.7920074463 0.0156199997 -0.2773399949 ) ( -174.7079925537 -4 169.5229949951 0.0156199997 -0.5546900034 ) )
+( ( -216.5480041504 -4 138.5899963379 0.0234399997 0 ) ( -198.9409942627 -4 172.5010070801 0.0234399997 -0.2773399949 ) ( -174.2259979248 -4 168.2319946289 0.0234399997 -0.5546900034 ) )
+( ( -216.5480041504 -2 138.5899963379 0.03125 0 ) ( -198.9409942627 -2 172.5010070801 0.03125 -0.2773399949 ) ( -174.2259979248 -2 168.2319946289 0.03125 -0.5546900034 ) )
+( ( -216.5480041504 0 138.5899963379 0.0390600003 0 ) ( -198.9409942627 0 172.5010070801 0.0390600003 -0.2773399949 ) ( -174.2259979248 0 168.2319946289 0.0390600003 -0.5546900034 ) )
+( ( -217.0310058594 0 139.8800048828 0.0468799993 0 ) ( -199.4230041504 0 173.7920074463 0.0468799993 -0.2773399949 ) ( -174.7079925537 0 169.5229949951 0.0468799993 -0.5546900034 ) )
+( ( -217.5130004883 0 141.171005249 0.0546899997 0 ) ( -199.9049987793 0 175.0820007324 0.0546899997 -0.2773399949 ) ( -175.1900024414 0 170.81300354 0.0546899997 -0.5546900034 ) )
+( ( -217.5130004883 -2 141.171005249 0.0625 0 ) ( -199.9049987793 -2 175.0820007324 0.0625 -0.2773399949 ) ( -175.1900024414 -2 170.81300354 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 4
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( 20.3050003052 -2 418.7590026855 0 0 ) ( 35.6360015869 -2 452.0719909668 0 -0.2773399949 ) ( 59.7239990234 -2 452.0780029297 0 -0.5546900034 ) )
+( ( 20.3050003052 -4 418.7590026855 0.0078099999 0 ) ( 35.6360015869 -4 452.0719909668 0.0078099999 -0.2773399949 ) ( 59.7239990234 -4 452.0780029297 0.0078099999 -0.5546900034 ) )
+( ( 21.8159999847 -4 416.4719848633 0.0156199997 0 ) ( 36.1959991455 -4 450.9460144043 0.0156199997 -0.2773399949 ) ( 60.2849998474 -4 450.9530029297 0.0156199997 -0.5546900034 ) )
+( ( 22.3759994507 -4 415.3469848633 0.0234399997 0 ) ( 36.7569999695 -4 449.8210144043 0.0234399997 -0.2773399949 ) ( 60.8450012207 -4 449.8269958496 0.0234399997 -0.5546900034 ) )
+( ( 22.3759994507 -2 415.3469848633 0.03125 0 ) ( 36.7569999695 -2 449.8210144043 0.03125 -0.2773399949 ) ( 60.8450012207 -2 449.8269958496 0.03125 -0.5546900034 ) )
+( ( 22.3759994507 -0 415.3469848633 0.0390600003 0 ) ( 36.7569999695 -0 449.8210144043 0.0390600003 -0.2773399949 ) ( 60.8450012207 -0 449.8269958496 0.0390600003 -0.5546900034 ) )
+( ( 21.8159999847 -0 416.4719848633 0.0468799993 0 ) ( 36.1959991455 -0 450.9460144043 0.0468799993 -0.2773399949 ) ( 60.2849998474 -0 450.9530029297 0.0468799993 -0.5546900034 ) )
+( ( 20.3050003052 -0 418.7590026855 0.0546899997 0 ) ( 35.6360015869 -0 452.0719909668 0.0546899997 -0.2773399949 ) ( 59.7239990234 -0 452.0780029297 0.0546899997 -0.5546900034 ) )
+( ( 20.3050003052 -2 418.7590026855 0.0625 0 ) ( 35.6360015869 -2 452.0719909668 0.0625 -0.2773399949 ) ( 59.7239990234 -2 452.0780029297 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 5
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -17.6739997864 -2 54.9090003967 0 0 ) ( -74.3880004883 -2 97.6240005493 0 -0.2773399949 ) ( -89.5660018921 -2 167.5939941406 0 -0.5546900034 ) )
+( ( -17.6739997864 -4 54.9090003967 0.0078099999 0 ) ( -74.3880004883 -4 97.6240005493 0.0078099999 -0.2773399949 ) ( -89.5660018921 -4 167.5939941406 0.0078099999 -0.5546900034 ) )
+( ( -16.4710006714 -4 56.5060005188 0.0156199997 0 ) ( -73.1839981079 -4 99.2210006714 0.0156199997 -0.2773399949 ) ( -88.3629989624 -4 169.1909942627 0.0156199997 -0.5546900034 ) )
+( ( -15.267999649 -4 58.1040000916 0.0234399997 0 ) ( -71.9810028076 -4 100.8190002441 0.0234399997 -0.2773399949 ) ( -87.158996582 -4 170.7890014648 0.0234399997 -0.5546900034 ) )
+( ( -15.267999649 -2 58.1040000916 0.03125 0 ) ( -71.9810028076 -2 100.8190002441 0.03125 -0.2773399949 ) ( -87.158996582 -2 170.7890014648 0.03125 -0.5546900034 ) )
+( ( -15.267999649 0 58.1040000916 0.0390600003 0 ) ( -71.9810028076 0 100.8190002441 0.0390600003 -0.2773399949 ) ( -87.158996582 -0 170.7890014648 0.0390600003 -0.5546900034 ) )
+( ( -16.4710006714 0 56.5060005188 0.0468799993 0 ) ( -73.1839981079 0 99.2210006714 0.0468799993 -0.2773399949 ) ( -88.3629989624 -0 169.1909942627 0.0468799993 -0.5546900034 ) )
+( ( -17.6739997864 0 54.9090003967 0.0546899997 0 ) ( -74.3880004883 0 97.6240005493 0.0546899997 -0.2773399949 ) ( -89.5660018921 -0 167.5939941406 0.0546899997 -0.5546900034 ) )
+( ( -17.6739997864 -2 54.9090003967 0.0625 0 ) ( -74.3880004883 -2 97.6240005493 0.0625 -0.2773399949 ) ( -89.5660018921 -2 167.5939941406 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 6
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( 59.8019981384 -2 304.4030151367 0 0 ) ( 82.7919998169 -2 332.9729919434 0 -0.2773399949 ) ( 106.1549987793 -2 327.1050109863 0 -0.5546900034 ) )
+( ( 59.8019981384 -4 304.4030151367 0.0078099999 0 ) ( 82.7919998169 -4 332.9729919434 0.0078099999 -0.2773399949 ) ( 106.1549987793 -4 327.1050109863 0.0078099999 -0.5546900034 ) )
+( ( 60.7089996338 -4 301.816986084 0.0156199997 0 ) ( 83.0609970093 -4 331.7439880371 0.0156199997 -0.2773399949 ) ( 106.4240036011 -4 325.8770141602 0.0156199997 -0.5546900034 ) )
+( ( 60.9780006409 -4 300.5889892578 0.0234399997 0 ) ( 83.3310012817 -4 330.5159912109 0.0234399997 -0.2773399949 ) ( 106.6940002441 -4 324.6480102539 0.0234399997 -0.5546900034 ) )
+( ( 60.9780006409 -2 300.5889892578 0.03125 0 ) ( 83.3310012817 -2 330.5159912109 0.03125 -0.2773399949 ) ( 106.6940002441 -2 324.6480102539 0.03125 -0.5546900034 ) )
+( ( 60.9780006409 -0 300.5889892578 0.0390600003 0 ) ( 83.3310012817 -0 330.5159912109 0.0390600003 -0.2773399949 ) ( 106.6940002441 -0 324.6480102539 0.0390600003 -0.5546900034 ) )
+( ( 60.7089996338 -0 301.816986084 0.0468799993 0 ) ( 83.0609970093 -0 331.7439880371 0.0468799993 -0.2773399949 ) ( 106.4240036011 -0 325.8770141602 0.0468799993 -0.5546900034 ) )
+( ( 59.8019981384 0 304.4030151367 0.0546899997 0 ) ( 82.7919998169 -0 332.9729919434 0.0546899997 -0.2773399949 ) ( 106.1549987793 -0 327.1050109863 0.0546899997 -0.5546900034 ) )
+( ( 59.8019981384 -2 304.4030151367 0.0625 0 ) ( 82.7919998169 -2 332.9729919434 0.0625 -0.2773399949 ) ( 106.1549987793 -2 327.1050109863 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 7
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -105.7070007324 -2 259.1119995117 0 0 ) ( -172.8159942627 -2 282.2919921875 0 -0.2773399949 ) ( -208.7989959717 -2 344.1900024414 0 -0.5546900034 ) )
+( ( -105.7070007324 -4 259.1119995117 0.0078099999 0 ) ( -172.8159942627 -4 282.2919921875 0.0078099999 -0.2773399949 ) ( -208.7989959717 -4 344.1900024414 0.0078099999 -0.5546900034 ) )
+( ( -105.0540008545 -4 261.0029907227 0.0156199997 0 ) ( -172.1629943848 -4 284.1820068359 0.0156199997 -0.2773399949 ) ( -208.1459960938 -4 346.0809936523 0.0156199997 -0.5546900034 ) )
+( ( -104.4010009766 -4 262.8930053711 0.0234399997 0 ) ( -171.5099945068 -4 286.0729980469 0.0234399997 -0.2773399949 ) ( -207.4929962158 -4 347.9710083008 0.0234399997 -0.5546900034 ) )
+( ( -104.4010009766 -2 262.8930053711 0.03125 0 ) ( -171.5099945068 -2 286.0729980469 0.03125 -0.2773399949 ) ( -207.4929962158 -2 347.9710083008 0.03125 -0.5546900034 ) )
+( ( -104.4010009766 0 262.8930053711 0.0390600003 0 ) ( -171.5099945068 0 286.0729980469 0.0390600003 -0.2773399949 ) ( -207.4929962158 0 347.9710083008 0.0390600003 -0.5546900034 ) )
+( ( -105.0540008545 0 261.0029907227 0.0468799993 0 ) ( -172.1629943848 0 284.1820068359 0.0468799993 -0.2773399949 ) ( -208.1459960938 0 346.0809936523 0.0468799993 -0.5546900034 ) )
+( ( -105.7070007324 0 259.1119995117 0.0546899997 0 ) ( -172.8159942627 0 282.2919921875 0.0546899997 -0.2773399949 ) ( -208.7989959717 0 344.1900024414 0.0546899997 -0.5546900034 ) )
+( ( -105.7070007324 -2 259.1119995117 0.0625 0 ) ( -172.8159942627 -2 282.2919921875 0.0625 -0.2773399949 ) ( -208.7989959717 -2 344.1900024414 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 8
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -26.9379997253 -2 422.4140014648 0 0 ) ( 8.8940000534 -2 409.1459960938 0 -0.2773399949 ) ( 7.7210001945 -2 384.092010498 0 -0.5546900034 ) )
+( ( -26.9379997253 -4 422.4140014648 0.0078099999 0 ) ( 8.8940000534 -4 409.1459960938 0.0078099999 -0.2773399949 ) ( 7.7210001945 -4 384.092010498 0.0078099999 -0.5546900034 ) )
+( ( -28.1590003967 -4 421.7760009766 0.0156199997 0 ) ( 7.6729998589 -4 408.5079956055 0.0156199997 -0.2773399949 ) ( 6.5 -4 383.4540100098 0.0156199997 -0.5546900034 ) )
+( ( -29.3799991608 -4 421.1380004883 0.0234399997 0 ) ( 6.4530000687 -4 407.8689880371 0.0234399997 -0.2773399949 ) ( 5.2800002098 -4 382.8150024414 0.0234399997 -0.5546900034 ) )
+( ( -29.3799991608 -2 421.1380004883 0.03125 0 ) ( 6.4530000687 -2 407.8689880371 0.03125 -0.2773399949 ) ( 5.2800002098 -2 382.8150024414 0.03125 -0.5546900034 ) )
+( ( -29.3799991608 0 421.1380004883 0.0390600003 0 ) ( 6.4530000687 0 407.8689880371 0.0390600003 -0.2773399949 ) ( 5.2800002098 0 382.8150024414 0.0390600003 -0.5546900034 ) )
+( ( -28.1590003967 0 421.7760009766 0.0468799993 0 ) ( 7.6729998589 0 408.5079956055 0.0468799993 -0.2773399949 ) ( 6.5 0 383.4540100098 0.0468799993 -0.5546900034 ) )
+( ( -26.9379997253 0 422.4140014648 0.0546899997 0 ) ( 8.8940000534 0 409.1459960938 0.0546899997 -0.2773399949 ) ( 7.7210001945 0 384.092010498 0.0546899997 -0.5546900034 ) )
+( ( -26.9379997253 -2 422.4140014648 0.0625 0 ) ( 8.8940000534 -2 409.1459960938 0.0625 -0.2773399949 ) ( 7.7210001945 -2 384.092010498 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 9
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -5.7829999924 -2 288.0050048828 0 0 ) ( -17.0699996948 -2 358.1019897461 0 -0.2773399949 ) ( 20.4750003815 -2 419.0660095215 0 -0.5546900034 ) )
+( ( -5.7829999924 -4 288.0050048828 0.0078099999 0 ) ( -17.0699996948 -4 358.1019897461 0.0078099999 -0.2773399949 ) ( 20.4750003815 -4 419.0660095215 0.0078099999 -0.5546900034 ) )
+( ( -3.8080000877 -4 288.3229980469 0.0156199997 0 ) ( -15.095000267 -4 358.4200134277 0.0156199997 -0.2773399949 ) ( 22.4500007629 -4 419.3840026855 0.0156199997 -0.5546900034 ) )
+( ( -1.8339999914 -4 288.6409912109 0.0234399997 0 ) ( -13.1210002899 -4 358.7380065918 0.0234399997 -0.2773399949 ) ( 24.4239997864 -4 419.7019958496 0.0234399997 -0.5546900034 ) )
+( ( -1.8339999914 -2 288.6409912109 0.03125 0 ) ( -13.1210002899 -2 358.7380065918 0.03125 -0.2773399949 ) ( 24.4239997864 -2 419.7019958496 0.03125 -0.5546900034 ) )
+( ( -1.8339999914 0 288.6409912109 0.0390600003 0 ) ( -13.1210002899 0 358.7380065918 0.0390600003 -0.2773399949 ) ( 24.4239997864 -0 419.7019958496 0.0390600003 -0.5546900034 ) )
+( ( -3.8080000877 0 288.3229980469 0.0468799993 0 ) ( -15.095000267 0 358.4200134277 0.0468799993 -0.2773399949 ) ( 22.4500007629 -0 419.3840026855 0.0468799993 -0.5546900034 ) )
+( ( -5.7829999924 0 288.0050048828 0.0546899997 0 ) ( -17.0699996948 0 358.1019897461 0.0546899997 -0.2773399949 ) ( 20.4750003815 -0 419.0660095215 0.0546899997 -0.5546900034 ) )
+( ( -5.7829999924 -2 288.0050048828 0.0625 0 ) ( -17.0699996948 -2 358.1019897461 0.0625 -0.2773399949 ) ( 20.4750003815 -2 419.0660095215 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 10
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( 14.8129997253 -2 298.5969848633 0 0 ) ( 47.6959991455 -2 314.8309936523 0 -0.2773399949 ) ( 66.4160003662 -2 299.6719970703 0 -0.5546900034 ) )
+( ( 14.8129997253 -4 298.5969848633 0.0078099999 0 ) ( 47.6959991455 -4 314.8309936523 0.0078099999 -0.2773399949 ) ( 66.4160003662 -4 299.6719970703 0.0078099999 -0.5546900034 ) )
+( ( 14.5469999313 -4 295.8699951172 0.0156199997 0 ) ( 47.4230003357 -4 313.6029968262 0.0156199997 -0.2773399949 ) ( 66.1429977417 -4 298.4450073242 0.0156199997 -0.5546900034 ) )
+( ( 14.2749996185 -4 294.641998291 0.0234399997 0 ) ( 47.1489982605 -4 312.3760070801 0.0234399997 -0.2773399949 ) ( 65.8700027466 -4 297.217010498 0.0234399997 -0.5546900034 ) )
+( ( 14.2749996185 -2 294.641998291 0.03125 0 ) ( 47.1489982605 -2 312.3760070801 0.03125 -0.2773399949 ) ( 65.8700027466 -2 297.217010498 0.03125 -0.5546900034 ) )
+( ( 14.2749996185 -0 294.641998291 0.0390600003 0 ) ( 47.1489982605 -0 312.3760070801 0.0390600003 -0.2773399949 ) ( 65.8700027466 -0 297.217010498 0.0390600003 -0.5546900034 ) )
+( ( 14.5469999313 -0 295.8699951172 0.0468799993 0 ) ( 47.4230003357 -0 313.6029968262 0.0468799993 -0.2773399949 ) ( 66.1429977417 -0 298.4450073242 0.0468799993 -0.5546900034 ) )
+( ( 14.8129997253 -0 298.5969848633 0.0546899997 0 ) ( 47.6959991455 -0 314.8309936523 0.0546899997 -0.2773399949 ) ( 66.4160003662 -0 299.6719970703 0.0546899997 -0.5546900034 ) )
+( ( 14.8129997253 -2 298.5969848633 0.0625 0 ) ( 47.6959991455 -2 314.8309936523 0.0625 -0.2773399949 ) ( 66.4160003662 -2 299.6719970703 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 11
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -89.6610031128 -2 212.6159973145 0 0 ) ( -115.1610031128 -2 238.9700012207 0 -0.2773399949 ) ( -106.4430007935 -2 261.425994873 0 -0.5546900034 ) )
+( ( -89.6610031128 -4 212.6159973145 0.0078099999 0 ) ( -115.1610031128 -4 238.9700012207 0.0078099999 -0.2773399949 ) ( -106.4430007935 -4 261.425994873 0.0078099999 -0.5546900034 ) )
+( ( -86.9820022583 -4 213.1959991455 0.0156199997 0 ) ( -113.908996582 -4 239.0850067139 0.0156199997 -0.2773399949 ) ( -105.1910018921 -4 261.5400085449 0.0156199997 -0.5546900034 ) )
+( ( -85.7300033569 -4 213.3110046387 0.0234399997 0 ) ( -112.65599823 -4 239.1999969482 0.0234399997 -0.2773399949 ) ( -103.9390029907 -4 261.6549987793 0.0234399997 -0.5546900034 ) )
+( ( -85.7300033569 -2 213.3110046387 0.03125 0 ) ( -112.65599823 -2 239.1999969482 0.03125 -0.2773399949 ) ( -103.9390029907 -2 261.6549987793 0.03125 -0.5546900034 ) )
+( ( -85.7300033569 -0 213.3110046387 0.0390600003 0 ) ( -112.65599823 -0 239.1999969482 0.0390600003 -0.2773399949 ) ( -103.9390029907 -0 261.6549987793 0.0390600003 -0.5546900034 ) )
+( ( -86.9820022583 -0 213.1959991455 0.0468799993 0 ) ( -113.908996582 -0 239.0850067139 0.0468799993 -0.2773399949 ) ( -105.1910018921 -0 261.5400085449 0.0468799993 -0.5546900034 ) )
+( ( -89.6610031128 -0 212.6159973145 0.0546899997 0 ) ( -115.1610031128 -0 238.9700012207 0.0546899997 -0.2773399949 ) ( -106.4430007935 -0 261.425994873 0.0546899997 -0.5546900034 ) )
+( ( -89.6610031128 -2 212.6159973145 0.0625 0 ) ( -115.1610031128 -2 238.9700012207 0.0625 -0.2773399949 ) ( -106.4430007935 -2 261.425994873 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 12
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -81.5179977417 -2 145.5050048828 0 0 ) ( -152.4739990234 -2 142.9920043945 0 -0.2773399949 ) ( -208.3139953613 -2 187.8040008545 0 -0.5546900034 ) )
+( ( -81.5179977417 -4 145.5050048828 0.0078099999 0 ) ( -152.4739990234 -4 142.9920043945 0.0078099999 -0.2773399949 ) ( -208.3139953613 -4 187.8040008545 0.0078099999 -0.5546900034 ) )
+( ( -81.5889968872 -4 147.5030059814 0.0156199997 0 ) ( -152.5440063477 -4 144.9909973145 0.0156199997 -0.2773399949 ) ( -208.3840026855 -4 189.8020019531 0.0156199997 -0.5546900034 ) )
+( ( -81.6600036621 -4 149.5019989014 0.0234399997 0 ) ( -152.6150054932 -4 146.9900054932 0.0234399997 -0.2773399949 ) ( -208.4550018311 -4 191.800994873 0.0234399997 -0.5546900034 ) )
+( ( -81.6600036621 -2 149.5019989014 0.03125 0 ) ( -152.6150054932 -2 146.9900054932 0.03125 -0.2773399949 ) ( -208.4550018311 -2 191.800994873 0.03125 -0.5546900034 ) )
+( ( -81.6600036621 0 149.5019989014 0.0390600003 0 ) ( -152.6150054932 0 146.9900054932 0.0390600003 -0.2773399949 ) ( -208.4550018311 -0 191.800994873 0.0390600003 -0.5546900034 ) )
+( ( -81.5889968872 0 147.5030059814 0.0468799993 0 ) ( -152.5440063477 0 144.9909973145 0.0468799993 -0.2773399949 ) ( -208.3840026855 -0 189.8020019531 0.0468799993 -0.5546900034 ) )
+( ( -81.5179977417 0 145.5050048828 0.0546899997 0 ) ( -152.4739990234 0 142.9920043945 0.0546899997 -0.2773399949 ) ( -208.3139953613 -0 187.8040008545 0.0546899997 -0.5546900034 ) )
+( ( -81.5179977417 -2 145.5050048828 0.0625 0 ) ( -152.4739990234 -2 142.9920043945 0.0625 -0.2773399949 ) ( -208.3139953613 -2 187.8040008545 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 13
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -89.4759979248 -2 167.2539978027 0 0 ) ( -101.5090026855 -2 201.8959960938 0 -0.2773399949 ) ( -84.1460037231 -2 218.5930023193 0 -0.5546900034 ) )
+( ( -89.4759979248 -4 167.2539978027 0.0078099999 0 ) ( -101.5090026855 -4 201.8959960938 0.0078099999 -0.2773399949 ) ( -84.1460037231 -4 218.5930023193 0.0078099999 -0.5546900034 ) )
+( ( -86.8020019531 -4 166.6529998779 0.0156199997 0 ) ( -100.3239974976 -4 201.4720001221 0.0156199997 -0.2773399949 ) ( -82.9619979858 -4 218.1699981689 0.0156199997 -0.5546900034 ) )
+( ( -85.6179962158 -4 166.2299957275 0.0234399997 0 ) ( -99.1399993896 -4 201.0489959717 0.0234399997 -0.2773399949 ) ( -81.7779998779 -4 217.7469940186 0.0234399997 -0.5546900034 ) )
+( ( -85.6179962158 -2 166.2299957275 0.03125 0 ) ( -99.1399993896 -2 201.0489959717 0.03125 -0.2773399949 ) ( -81.7779998779 -2 217.7469940186 0.03125 -0.5546900034 ) )
+( ( -85.6179962158 -0 166.2299957275 0.0390600003 0 ) ( -99.1399993896 -0 201.0489959717 0.0390600003 -0.2773399949 ) ( -81.7779998779 -0 217.7469940186 0.0390600003 -0.5546900034 ) )
+( ( -86.8020019531 -0 166.6529998779 0.0468799993 0 ) ( -100.3239974976 -0 201.4720001221 0.0468799993 -0.2773399949 ) ( -82.9619979858 -0 218.1699981689 0.0468799993 -0.5546900034 ) )
+( ( -89.4759979248 -0 167.2539978027 0.0546899997 0 ) ( -101.5090026855 -0 201.8959960938 0.0546899997 -0.2773399949 ) ( -84.1460037231 -0 218.5930023193 0.0546899997 -0.5546900034 ) )
+( ( -89.4759979248 -2 167.2539978027 0.0625 0 ) ( -101.5090026855 -2 201.8959960938 0.0625 -0.2773399949 ) ( -84.1460037231 -2 218.5930023193 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 14
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( 6 -2 -102 0 0 ) ( 38 -2 -22 0 -0.3125 ) ( -19.6830005646 -2 56.9199981689 0 -0.625 ) )
+( ( 6 -4 -102 0.0078099999 0 ) ( 38 -4 -22 0.0078099999 -0.3125 ) ( -19.6830005646 -4 56.9199981689 0.0078099999 -0.625 ) )
+( ( 8 -4 -102 0.0156199997 0 ) ( 40 -4 -22 0.0156199997 -0.3125 ) ( -18 -4 58 0.0156199997 -0.625 ) )
+( ( 10 -4 -102 0.0234399997 0 ) ( 42 -4 -22 0.0234399997 -0.3125 ) ( -16.3169994354 -4 59.0800018311 0.0234399997 -0.625 ) )
+( ( 10 -2 -102 0.03125 0 ) ( 42 -2 -22 0.03125 -0.3125 ) ( -16.3169994354 -2 59.0800018311 0.03125 -0.625 ) )
+( ( 10 0 -102 0.0390600003 0 ) ( 42 0 -22 0.0390600003 -0.3125 ) ( -16.3169994354 0 59.0800018311 0.0390600003 -0.625 ) )
+( ( 8 0 -102 0.0468799993 0 ) ( 40 0 -22 0.0468799993 -0.3125 ) ( -18 0 58 0.0468799993 -0.625 ) )
+( ( 6 0 -102 0.0546899997 0 ) ( 38 0 -22 0.0546899997 -0.3125 ) ( -19.6830005646 0 56.9199981689 0.0546899997 -0.625 ) )
+( ( 6 -2 -102 0.0625 0 ) ( 38 -2 -22 0.0625 -0.3125 ) ( -19.6830005646 -2 56.9199981689 0.0625 -0.625 ) )
+)
+}
+}
+// brush 15
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -208.6089935303 -2 343.8949890137 0 0 ) ( -230.7220001221 -2 373.1489868164 0 -0.2773399949 ) ( -219.3439941406 -2 394.3810119629 0 -0.5546900034 ) )
+( ( -208.6089935303 -4 343.8949890137 0.0078099999 0 ) ( -230.7220001221 -4 373.1489868164 0.0078099999 -0.2773399949 ) ( -219.3439941406 -4 394.3810119629 0.0078099999 -0.5546900034 ) )
+( ( -205.8800048828 -4 344.1459960938 0.0156199997 0 ) ( -229.4649963379 -4 373.1109924316 0.0156199997 -0.2773399949 ) ( -218.0870056152 -4 394.3429870605 0.0156199997 -0.5546900034 ) )
+( ( -204.6230010986 -4 344.108001709 0.0234399997 0 ) ( -228.2079925537 -4 373.0729980469 0.0234399997 -0.2773399949 ) ( -216.8300018311 -4 394.3049926758 0.0234399997 -0.5546900034 ) )
+( ( -204.6230010986 -2 344.108001709 0.03125 0 ) ( -228.2079925537 -2 373.0729980469 0.03125 -0.2773399949 ) ( -216.8300018311 -2 394.3049926758 0.03125 -0.5546900034 ) )
+( ( -204.6230010986 0 344.108001709 0.0390600003 0 ) ( -228.2079925537 0 373.0729980469 0.0390600003 -0.2773399949 ) ( -216.8300018311 0 394.3049926758 0.0390600003 -0.5546900034 ) )
+( ( -205.8800048828 0 344.1459960938 0.0468799993 0 ) ( -229.4649963379 0 373.1109924316 0.0468799993 -0.2773399949 ) ( -218.0870056152 0 394.3429870605 0.0468799993 -0.5546900034 ) )
+( ( -208.6089935303 0 343.8949890137 0.0546899997 0 ) ( -230.7220001221 0 373.1489868164 0.0546899997 -0.2773399949 ) ( -219.3439941406 0 394.3810119629 0.0546899997 -0.5546900034 ) )
+( ( -208.6089935303 -2 343.8949890137 0.0625 0 ) ( -230.7220001221 -2 373.1489868164 0.0625 -0.2773399949 ) ( -219.3439941406 -2 394.3810119629 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 16
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( 29.172000885 -2 178.7640075684 0 0 ) ( 50.9249992371 -2 208.2870025635 0 -0.2773399949 ) ( 74.516998291 -2 203.4199981689 0 -0.5546900034 ) )
+( ( 29.172000885 -4 178.7640075684 0.0078099999 0 ) ( 50.9249992371 -4 208.2870025635 0.0078099999 -0.2773399949 ) ( 74.516998291 -4 203.4199981689 0.0078099999 -0.5546900034 ) )
+( ( 30.188999176 -4 176.2189941406 0.0156199997 0 ) ( 51.2459983826 -4 207.0709991455 0.0156199997 -0.2773399949 ) ( 74.8379974365 -4 202.203994751 0.0156199997 -0.5546900034 ) )
+( ( 30.5109996796 -4 175.0030059814 0.0234399997 0 ) ( 51.5680007935 -4 205.8549957275 0.0234399997 -0.2773399949 ) ( 75.158996582 -4 200.9880065918 0.0234399997 -0.5546900034 ) )
+( ( 30.5109996796 -2 175.0030059814 0.03125 0 ) ( 51.5680007935 -2 205.8549957275 0.03125 -0.2773399949 ) ( 75.158996582 -2 200.9880065918 0.03125 -0.5546900034 ) )
+( ( 30.5109996796 -0 175.0030059814 0.0390600003 0 ) ( 51.5680007935 -0 205.8549957275 0.0390600003 -0.2773399949 ) ( 75.158996582 -0 200.9880065918 0.0390600003 -0.5546900034 ) )
+( ( 30.188999176 -0 176.2189941406 0.0468799993 0 ) ( 51.2459983826 -0 207.0709991455 0.0468799993 -0.2773399949 ) ( 74.8379974365 -0 202.203994751 0.0468799993 -0.5546900034 ) )
+( ( 29.172000885 -0 178.7640075684 0.0546899997 0 ) ( 50.9249992371 -0 208.2870025635 0.0546899997 -0.2773399949 ) ( 74.516998291 -0 203.4199981689 0.0546899997 -0.5546900034 ) )
+( ( 29.172000885 -2 178.7640075684 0.0625 0 ) ( 50.9249992371 -2 208.2870025635 0.0625 -0.2773399949 ) ( 74.516998291 -2 203.4199981689 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 17
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -16.3549995422 -2 191.9010009766 0 0 ) ( 16.0520000458 -2 171.6580047607 0 -0.2773399949 ) ( 9.8350000381 -2 147.3589935303 0 -0.5546900034 ) )
+( ( -16.3549995422 -4 191.9010009766 0.0078099999 0 ) ( 16.0520000458 -4 171.6580047607 0.0078099999 -0.2773399949 ) ( 9.8350000381 -4 147.3589935303 0.0078099999 -0.5546900034 ) )
+( ( -17.6790008545 -4 191.5229949951 0.0156199997 0 ) ( 14.7279996872 -4 171.2799987793 0.0156199997 -0.2773399949 ) ( 8.5109996796 -4 146.9810028076 0.0156199997 -0.5546900034 ) )
+( ( -19.0039997101 -4 191.1450042725 0.0234399997 0 ) ( 13.4029998779 -4 170.9019927979 0.0234399997 -0.2773399949 ) ( 7.1859998703 -4 146.6029968262 0.0234399997 -0.5546900034 ) )
+( ( -19.0039997101 -2 191.1450042725 0.03125 0 ) ( 13.4029998779 -2 170.9019927979 0.03125 -0.2773399949 ) ( 7.1859998703 -2 146.6029968262 0.03125 -0.5546900034 ) )
+( ( -19.0039997101 -0 191.1450042725 0.0390600003 0 ) ( 13.4029998779 0 170.9019927979 0.0390600003 -0.2773399949 ) ( 7.1859998703 0 146.6029968262 0.0390600003 -0.5546900034 ) )
+( ( -17.6790008545 -0 191.5229949951 0.0468799993 0 ) ( 14.7279996872 0 171.2799987793 0.0468799993 -0.2773399949 ) ( 8.5109996796 0 146.9810028076 0.0468799993 -0.5546900034 ) )
+( ( -16.3549995422 -0 191.9010009766 0.0546899997 0 ) ( 16.0520000458 0 171.6580047607 0.0546899997 -0.2773399949 ) ( 9.8350000381 0 147.3589935303 0.0546899997 -0.5546900034 ) )
+( ( -16.3549995422 -2 191.9010009766 0.0625 0 ) ( 16.0520000458 -2 171.6580047607 0.0625 -0.2773399949 ) ( 9.8350000381 -2 147.3589935303 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 18
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( 175.3269958496 -2 438.7040100098 0 0 ) ( 201.6150054932 -2 464.2730102539 0 -0.2773399949 ) ( 224.0930023193 -2 455.6140136719 0 -0.5546900034 ) )
+( ( 175.3269958496 -4 438.7040100098 0.0078099999 0 ) ( 201.6150054932 -4 464.2730102539 0.0078099999 -0.2773399949 ) ( 224.0930023193 -4 455.6140136719 0.0078099999 -0.5546900034 ) )
+( ( 175.9140014648 -4 436.0270080566 0.0156199997 0 ) ( 201.733001709 -4 463.0209960938 0.0156199997 -0.2773399949 ) ( 224.2109985352 -4 454.3619995117 0.0156199997 -0.5546900034 ) )
+( ( 176.0319976807 -4 434.7749938965 0.0234399997 0 ) ( 201.8509979248 -4 461.7690124512 0.0234399997 -0.2773399949 ) ( 224.328994751 -4 453.1099853516 0.0234399997 -0.5546900034 ) )
+( ( 176.0319976807 -2 434.7749938965 0.03125 0 ) ( 201.8509979248 -2 461.7690124512 0.03125 -0.2773399949 ) ( 224.328994751 -2 453.1099853516 0.03125 -0.5546900034 ) )
+( ( 176.0319976807 -0 434.7749938965 0.0390600003 0 ) ( 201.8509979248 -0 461.7690124512 0.0390600003 -0.2773399949 ) ( 224.328994751 -0 453.1099853516 0.0390600003 -0.5546900034 ) )
+( ( 175.9140014648 -0 436.0270080566 0.0468799993 0 ) ( 201.733001709 -0 463.0209960938 0.0468799993 -0.2773399949 ) ( 224.2109985352 -0 454.3619995117 0.0468799993 -0.5546900034 ) )
+( ( 175.3269958496 -0 438.7040100098 0.0546899997 0 ) ( 201.6150054932 -0 464.2730102539 0.0546899997 -0.2773399949 ) ( 224.0930023193 -0 455.6140136719 0.0546899997 -0.5546900034 ) )
+( ( 175.3269958496 -2 438.7040100098 0.0625 0 ) ( 201.6150054932 -2 464.2730102539 0.0625 -0.2773399949 ) ( 224.0930023193 -2 455.6140136719 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 19
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( 132.5610046387 -2 459.1090087891 0 0 ) ( 161.220993042 -2 433.8399963379 0 -0.2773399949 ) ( 151.1150054932 -2 410.8850097656 0 -0.5546900034 ) )
+( ( 132.5610046387 -4 459.1090087891 0.0078099999 0 ) ( 161.220993042 -4 433.8399963379 0.0078099999 -0.2773399949 ) ( 151.1150054932 -4 410.8850097656 0.0078099999 -0.5546900034 ) )
+( ( 131.1920013428 -4 458.9530029297 0.0156199997 0 ) ( 159.8529968262 -4 433.683013916 0.0156199997 -0.2773399949 ) ( 149.7460021973 -4 410.7279968262 0.0156199997 -0.5546900034 ) )
+( ( 129.824005127 -4 458.7969970703 0.0234399997 0 ) ( 158.4850006104 -4 433.5270080566 0.0234399997 -0.2773399949 ) ( 148.3780059814 -4 410.5719909668 0.0234399997 -0.5546900034 ) )
+( ( 129.824005127 -2 458.7969970703 0.03125 0 ) ( 158.4850006104 -2 433.5270080566 0.03125 -0.2773399949 ) ( 148.3780059814 -2 410.5719909668 0.03125 -0.5546900034 ) )
+( ( 129.824005127 0 458.7969970703 0.0390600003 0 ) ( 158.4850006104 -0 433.5270080566 0.0390600003 -0.2773399949 ) ( 148.3780059814 -0 410.5719909668 0.0390600003 -0.5546900034 ) )
+( ( 131.1920013428 0 458.9530029297 0.0468799993 0 ) ( 159.8529968262 -0 433.683013916 0.0468799993 -0.2773399949 ) ( 149.7460021973 -0 410.7279968262 0.0468799993 -0.5546900034 ) )
+( ( 132.5610046387 0 459.1090087891 0.0546899997 0 ) ( 161.220993042 -0 433.8399963379 0.0546899997 -0.2773399949 ) ( 151.1150054932 -0 410.8850097656 0.0546899997 -0.5546900034 ) )
+( ( 132.5610046387 -2 459.1090087891 0.0625 0 ) ( 161.220993042 -2 433.8399963379 0.0625 -0.2773399949 ) ( 151.1150054932 -2 410.8850097656 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 20
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( 103.9509963989 -2 326.0880126953 0 0 ) ( 118.6350021362 -2 395.5530090332 0 -0.2773399949 ) ( 175.595993042 -2 438.9289855957 0 -0.5546900034 ) )
+( ( 103.9509963989 -4 326.0880126953 0.0078099999 0 ) ( 118.6350021362 -4 395.5530090332 0.0078099999 -0.2773399949 ) ( 175.595993042 -4 438.9289855957 0.0078099999 -0.5546900034 ) )
+( ( 105.9079971313 -4 325.6740112305 0.0156199997 0 ) ( 120.591003418 -4 395.1390075684 0.0156199997 -0.2773399949 ) ( 177.5529937744 -4 438.5159912109 0.0156199997 -0.5546900034 ) )
+( ( 107.8639984131 -4 325.2609863281 0.0234399997 0 ) ( 122.547996521 -4 394.7260131836 0.0234399997 -0.2773399949 ) ( 179.5099945068 -4 438.1019897461 0.0234399997 -0.5546900034 ) )
+( ( 107.8639984131 -2 325.2609863281 0.03125 0 ) ( 122.547996521 -2 394.7260131836 0.03125 -0.2773399949 ) ( 179.5099945068 -2 438.1019897461 0.03125 -0.5546900034 ) )
+( ( 107.8639984131 0 325.2609863281 0.0390600003 0 ) ( 122.547996521 0 394.7260131836 0.0390600003 -0.2773399949 ) ( 179.5099945068 -0 438.1019897461 0.0390600003 -0.5546900034 ) )
+( ( 105.9079971313 0 325.6740112305 0.0468799993 0 ) ( 120.591003418 0 395.1390075684 0.0468799993 -0.2773399949 ) ( 177.5529937744 -0 438.5159912109 0.0468799993 -0.5546900034 ) )
+( ( 103.9509963989 0 326.0880126953 0.0546899997 0 ) ( 118.6350021362 0 395.5530090332 0.0546899997 -0.2773399949 ) ( 175.595993042 -0 438.9289855957 0.0546899997 -0.5546900034 ) )
+( ( 103.9509963989 -2 326.0880126953 0.0625 0 ) ( 118.6350021362 -2 395.5530090332 0.0625 -0.2773399949 ) ( 175.595993042 -2 438.9289855957 0.0625 -0.5546900034 ) )
+)
+}
+}
+// brush 21
+{
+patchDef2
+{
+wood/woodplank04
+( 9 3 0 0 0 )
+(
+( ( -22.827999115 -2 55.9910011292 0 0 ) ( -19.7000007629 -2 126.9219970703 0 -0.2773399949 ) ( 29.4009990692 -2 179.0299987793 0 -0.5546900034 ) )
+( ( -22.827999115 -4 55.9910011292 0.0078099999 0 ) ( -19.7000007629 -4 126.9219970703 0.0078099999 -0.2773399949 ) ( 29.4009990692 -4 179.0299987793 0.0078099999 -0.5546900034 ) )
+( ( -20.829000473 -4 55.9029998779 0.0156199997 0 ) ( -17.7019996643 -4 126.8339996338 0.0156199997 -0.2773399949 ) ( 31.3990001678 -4 178.9420013428 0.0156199997 -0.5546900034 ) )
+( ( -18.8309993744 -4 55.8149986267 0.0234399997 0 ) ( -15.704000473 -4 126.7460021973 0.0234399997 -0.2773399949 ) ( 33.3969993591 -4 178.8540039062 0.0234399997 -0.5546900034 ) )
+( ( -18.8309993744 -2 55.8149986267 0.03125 0 ) ( -15.704000473 -2 126.7460021973 0.03125 -0.2773399949 ) ( 33.3969993591 -2 178.8540039062 0.03125 -0.5546900034 ) )
+( ( -18.8309993744 0 55.8149986267 0.0390600003 0 ) ( -15.704000473 0 126.7460021973 0.0390600003 -0.2773399949 ) ( 33.3969993591 -0 178.8540039062 0.0390600003 -0.5546900034 ) )
+( ( -20.829000473 0 55.9029998779 0.0468799993 0 ) ( -17.7019996643 0 126.8339996338 0.0468799993 -0.2773399949 ) ( 31.3990001678 -0 178.9420013428 0.0468799993 -0.5546900034 ) )
+( ( -22.827999115 0 55.9910011292 0.0546899997 0 ) ( -19.7000007629 0 126.9219970703 0.0546899997 -0.2773399949 ) ( 29.4009990692 -0 179.0299987793 0.0546899997 -0.5546900034 ) )
+( ( -22.827999115 -2 55.9910011292 0.0625 0 ) ( -19.7000007629 -2 126.9219970703 0.0625 -0.2773399949 ) ( 29.4009990692 -2 179.0299987793 0.0625 -0.5546900034 ) )
+)
+}
+}
+}
