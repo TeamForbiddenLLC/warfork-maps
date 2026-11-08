@@ -3,7 +3,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"ambient_testradius" "400"
+"ambient_testradius" "300"
 "saturation" "2.5"
 "color" "#bf88f2"
 "rad_color_ratio" "1.0"
@@ -11,7 +11,7 @@
 "shading" "halflambert"
 "message" "Deeper Underground"
 "ambient" "15"
-"ambient_gatherradius" "1000"
+"ambient_gatherradius" "800"
 "rad_gridscale" "1.5"
 // brush 0
 {
@@ -7674,6 +7674,18 @@ brushDef
 ( 484 -700 72 ) ( 484 -692 72 ) ( 532 -692 72 ) ( ( 0 0.0156239998 0.625 ) ( -0.0156239998 0 0.8124801517 ) ) common/caulk 0 0 0
 }
 }
+// brush 632
+{
+brushDef
+{
+( -1032 130784 131072 ) ( -1032 -131360 131072 ) ( -1032 -131360 -131072 ) ( ( -0.015625 -0 0 ) ( 0 0.015625 0 ) ) common/playerclip 0 0 0
+( -936 -131360 131072 ) ( -936 130784 131072 ) ( -936 130784 -131072 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/playerclip 0 0 0
+( -131184 -680 131072 ) ( 130960 -680 131072 ) ( 130960 -680 -131072 ) ( ( 0.015625 -0 0.5 ) ( 0 0.015625 0 ) ) common/playerclip 0 0 0
+( 130960 -384 131072 ) ( -131184 -384 131072 ) ( -131184 -384 -131072 ) ( ( -0.015625 0 0.5 ) ( -0 0.015625 0 ) ) common/playerclip 0 0 0
+( 130960 -131360 196 ) ( 130960 130784 196 ) ( -131184 130784 196 ) ( ( 0 -0.015625 0.5 ) ( -0.015625 0 0 ) ) common/playerclip 0 0 0
+( 130960 130784 432 ) ( 130960 -131360 432 ) ( -131184 -131360 432 ) ( ( 0 0.015625 0.5 ) ( -0.015625 0 0 ) ) common/playerclip 0 0 0
+}
+}
 }
 // entity 1
 {
@@ -11005,7 +11017,7 @@ brushDef
 "angle" "90"
 "model" "models/mapobjects/jumppad1/jumppad1.obj"
 "origin" "1090 -320 -72"
-"vertexcolor" "#f8d300"
+"vertexcolor" "1 0.627451 0.0313726"
 }
 // entity 38
 {
@@ -11066,12 +11078,15 @@ brushDef
 // entity 45
 {
 "classname" "light"
-"softness" "10"
-"color" "#5f85de"
+"softness" "40"
+"color" "#7ba0f4"
 "target" "lite8"
-"_extradist" "100"
 "origin" "448 -792 444"
-"light" "325"
+"light" "425"
+"radius" "120"
+"_color" "0.482353 0.627451 0.956863"
+"cutoff" "5"
+"fadeout" "0.3"
 }
 // entity 46
 {
@@ -11083,12 +11098,13 @@ brushDef
 // entity 47
 {
 "classname" "light"
-"softness" "10"
-"color" "#5f85de"
+"softness" "40"
+"color" "#7ba0f4"
 "target" "lite9"
-"_extradist" "100"
 "origin" "256 -848 444"
-"light" "325"
+"light" "425"
+"radius" "120"
+"_color" "0.482353 0.627451 0.956863"
 }
 // entity 48
 {
@@ -11100,13 +11116,13 @@ brushDef
 // entity 49
 {
 "classname" "light"
-"softness" "10"
-"color" "#5b87ef"
+"softness" "40"
+"color" "#7ba0f4"
 "target" "lite10"
-"_extradist" "100"
 "origin" "160.000000 -256.000000 444.000000"
-"light" "325"
-"_color" "0.372549 0.521569 0.870588"
+"light" "425"
+"_color" "0.482353 0.627451 0.956863"
+"radius" "120"
 }
 // entity 50
 {
@@ -11251,7 +11267,7 @@ brushDef
 "collisiontype" "none"
 "model" "models/mapobjects/lights/fluo-light-wall-tiny-8u.obj"
 "origin" "-832 -614.56 432.045"
-"light" "425"
+"light" "375"
 "color" "1 1 0.75"
 "fadeout" "0.5"
 "softness" "20"
@@ -11263,7 +11279,7 @@ brushDef
 "collisiontype" "none"
 "model" "models/mapobjects/lights/fluo-light-wall-tiny-8u.obj"
 "origin" "-832 -486.56 432.045"
-"light" "425"
+"light" "375"
 "color" "1 1 0.75"
 "fadeout" "0.5"
 "softness" "20"
@@ -16477,15 +16493,6 @@ brushDef
 }
 // entity 145
 {
-"classname" "misc_decal"
-"scale" "1.0"
-"shader" "textures/decals/decal_health"
-"origin" "228 -808 4"
-"distance" "12"
-"angle" "-135"
-}
-// entity 146
-{
 "classname" "func_group"
 "vertexcolor" "#4e6ea0"
 // brush 0
@@ -16513,7 +16520,7 @@ brushDef
 }
 }
 }
-// entity 147
+// entity 146
 {
 "classname" "misc_text_decal"
 "origin" "-32 -552 260"
@@ -16526,7 +16533,7 @@ brushDef
 "align" "left"
 "vertexalpha" "0.4"
 }
-// entity 148
+// entity 147
 {
 "classname" "misc_text_decal"
 "origin" "108 -836 164"
@@ -16539,7 +16546,7 @@ brushDef
 "angles" "90 0 90"
 "vertexalpha" "0.65"
 }
-// entity 149
+// entity 148
 {
 "classname" "misc_text_decal"
 "origin" "204 596 308"
@@ -16552,7 +16559,7 @@ brushDef
 "vertexalpha" "0.75"
 "angles" "-30 90 0"
 }
-// entity 150
+// entity 149
 {
 "classname" "misc_model"
 "origin" "784 12 8"
@@ -16560,17 +16567,17 @@ brushDef
 "angle" "-90"
 "spawnflags" "4"
 }
-// entity 151
+// entity 150
 {
 "classname" "light"
 "attenuation" "soft"
 "_color" "1 0.760784 0.286275"
 "light" "1600"
 "origin" "824 14 12"
-"cutoff" "48"
-"fadeout" "0.5"
+"cutoff" "17"
+"fadeout" "0.75"
 }
-// entity 152
+// entity 151
 {
 "classname" "misc_model"
 "origin" "1247.38 -1191.38 214"
@@ -16578,7 +16585,7 @@ brushDef
 "angle" "-135"
 "spawnflags" "4"
 }
-// entity 153
+// entity 152
 {
 "classname" "light"
 "attenuation" "soft"
@@ -16588,7 +16595,7 @@ brushDef
 "cutoff" "8"
 "fadeout" "0.2"
 }
-// entity 154
+// entity 153
 {
 "classname" "light"
 "attenuation" "soft"
@@ -16602,13 +16609,13 @@ brushDef
 "radious" "50"
 "softness" "50"
 }
-// entity 155
+// entity 154
 {
 "classname" "target_position"
 "origin" "824 14 32"
 "targetname" "target_position6"
 }
-// entity 156
+// entity 155
 {
 "classname" "light"
 "attenuation" "soft"
@@ -16622,13 +16629,13 @@ brushDef
 "softness" "50"
 "haloscale" "4"
 }
-// entity 157
+// entity 156
 {
 "classname" "target_position"
 "origin" "1276 -1218 242"
 "targetname" "target_position9"
 }
-// entity 158
+// entity 157
 {
 "classname" "misc_model"
 "angles" "0 90 90"
@@ -16638,7 +16645,7 @@ brushDef
 "origin" "957.01 128 384.01"
 "_color" "1 0.811765 0.376471"
 }
-// entity 159
+// entity 158
 {
 "classname" "misc_model"
 "angles" "0 0 90"
@@ -16648,7 +16655,7 @@ brushDef
 "model" "models/mapobjects/lights/fluo-wall-small-24u.obj"
 "origin" "-64 482.99 384.01"
 }
-// entity 160
+// entity 159
 {
 "classname" "misc_model"
 "origin" "226 140 144"
@@ -16659,7 +16666,7 @@ brushDef
 "radius" "1500"
 "vertexcolor" "0.462028 0.582223 0.857855"
 }
-// entity 161
+// entity 160
 {
 "classname" "misc_model"
 "origin" "837 -772 561"
@@ -16673,7 +16680,7 @@ brushDef
 "softness" "0.0"
 "haloshader" "halo_large"
 }
-// entity 162
+// entity 161
 {
 "classname" "misc_model"
 "origin" "1208.78 -984.122 513.77"
@@ -16681,7 +16688,7 @@ brushDef
 "angles" "0 45 -90"
 "collisiontype" "none"
 }
-// entity 163
+// entity 162
 {
 "classname" "misc_model"
 "origin" "848.78 -624.122 513.77"
@@ -16689,7 +16696,7 @@ brushDef
 "angles" "0 45 -90"
 "collisiontype" "none"
 }
-// entity 164
+// entity 163
 {
 "classname" "misc_model"
 "origin" "1048.78 -1144.12 513.77"
@@ -16697,7 +16704,7 @@ brushDef
 "angles" "0 45 -90"
 "collisiontype" "none"
 }
-// entity 165
+// entity 164
 {
 "classname" "misc_model"
 "origin" "688.78 -784.122 513.77"
@@ -16705,49 +16712,49 @@ brushDef
 "angles" "0 45 -90"
 "collisiontype" "none"
 }
-// entity 166
+// entity 165
 {
 "classname" "misc_model"
 "origin" "-968 -704 352"
 "model" "models/mapobjects/supports/support_triangle_dark_320.ase"
 "modelscale" "0.5"
 }
-// entity 167
+// entity 166
 {
 "classname" "misc_model"
 "origin" "-968 -704 192"
 "model" "models/mapobjects/supports/support_triangle_dark_320.ase"
 "modelscale" "0.5"
 }
-// entity 168
+// entity 167
 {
 "classname" "misc_model"
 "origin" "-968 -456 192"
 "model" "models/mapobjects/supports/support_triangle_dark_320.ase"
 "modelscale" "0.5"
 }
-// entity 169
+// entity 168
 {
 "classname" "misc_model"
 "origin" "-968 -456 352"
 "model" "models/mapobjects/supports/support_triangle_dark_320.ase"
 "modelscale" "0.5"
 }
-// entity 170
+// entity 169
 {
 "classname" "misc_model"
 "origin" "-968 -704 32"
 "model" "models/mapobjects/supports/support_triangle_dark_320.ase"
 "modelscale" "0.5"
 }
-// entity 171
+// entity 170
 {
 "classname" "misc_model"
 "origin" "-968 -456 32"
 "model" "models/mapobjects/supports/support_triangle_dark_320.ase"
 "modelscale" "0.5"
 }
-// entity 172
+// entity 171
 {
 "classname" "misc_model"
 "origin" "-364 -225 363"
@@ -16756,7 +16763,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 173
+// entity 172
 {
 "classname" "misc_model"
 "origin" "-324 -225 363"
@@ -16765,7 +16772,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 174
+// entity 173
 {
 "classname" "misc_model"
 "origin" "-284 -225 363"
@@ -16774,7 +16781,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 175
+// entity 174
 {
 "classname" "misc_model"
 "origin" "-244 -225 363"
@@ -16783,7 +16790,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 176
+// entity 175
 {
 "classname" "misc_model"
 "origin" "-204 -225 363"
@@ -16792,7 +16799,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 177
+// entity 176
 {
 "classname" "misc_model"
 "origin" "-372 -593 371"
@@ -16801,7 +16808,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 178
+// entity 177
 {
 "classname" "misc_model"
 "origin" "-332 -593 371"
@@ -16810,7 +16817,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 179
+// entity 178
 {
 "classname" "misc_model"
 "origin" "-252 -593 371"
@@ -16819,7 +16826,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 180
+// entity 179
 {
 "classname" "misc_model"
 "origin" "-212 -593 371"
@@ -16828,7 +16835,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 181
+// entity 180
 {
 "classname" "misc_model"
 "origin" "-292 -593 371"
@@ -16837,7 +16844,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 182
+// entity 181
 {
 "classname" "misc_model"
 "origin" "-908 -505 193"
@@ -16846,7 +16853,7 @@ brushDef
 "angles" "0 0 -90"
 "collisiontype" "none"
 }
-// entity 183
+// entity 182
 {
 "classname" "misc_model"
 "origin" "-908 -425 193"
@@ -16855,7 +16862,7 @@ brushDef
 "angles" "0 0 -90"
 "collisiontype" "none"
 }
-// entity 184
+// entity 183
 {
 "classname" "misc_model"
 "origin" "-468 -265 195"
@@ -16864,7 +16871,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 185
+// entity 184
 {
 "classname" "misc_model"
 "origin" "-612 -265 195"
@@ -16873,7 +16880,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 186
+// entity 185
 {
 "classname" "misc_model"
 "origin" "-532 -265 195"
@@ -16882,7 +16889,7 @@ brushDef
 "angles" "0 90 -90"
 "collisiontype" "none"
 }
-// entity 187
+// entity 186
 {
 "classname" "misc_model"
 "origin" "-908 -665 193"
@@ -16891,7 +16898,7 @@ brushDef
 "angles" "0 0 -90"
 "collisiontype" "none"
 }
-// entity 188
+// entity 187
 {
 "classname" "misc_model"
 "origin" "-908 -585 193"
@@ -16900,7 +16907,7 @@ brushDef
 "angles" "0 0 -90"
 "collisiontype" "none"
 }
-// entity 189
+// entity 188
 {
 "classname" "misc_model"
 "origin" "-908 -745 193"
@@ -16909,7 +16916,7 @@ brushDef
 "angles" "0 0 -90"
 "collisiontype" "none"
 }
-// entity 190
+// entity 189
 {
 "classname" "func_trisoup"
 "shadeangle" "35"
@@ -17026,7 +17033,7 @@ brushDef
 }
 }
 }
-// entity 191
+// entity 190
 {
 "classname" "misc_model"
 "origin" "965 -900 561"
@@ -17040,7 +17047,7 @@ brushDef
 "softness" "0.0"
 "haloshader" "halo_large"
 }
-// entity 192
+// entity 191
 {
 "classname" "misc_model"
 "origin" "-331.993 92.0138 20"
@@ -17050,7 +17057,7 @@ brushDef
 "vertexcolor" "0.74902 0.752941 0.690196"
 "_color" "0.74902 0.752941 0.690196"
 }
-// entity 193
+// entity 192
 {
 "classname" "misc_model"
 "origin" "-343.994 88.0092 76"
@@ -17060,7 +17067,7 @@ brushDef
 "vertexcolor" "0.74902 0.752941 0.690196"
 "_color" "0.74902 0.752941 0.690196"
 }
-// entity 194
+// entity 193
 {
 "classname" "misc_model"
 "origin" "180.007 104.014 22"
@@ -17070,7 +17077,7 @@ brushDef
 "vertexcolor" "0.74902 0.752941 0.690196"
 "_color" "0.74902 0.752941 0.690196"
 }
-// entity 195
+// entity 194
 {
 "classname" "misc_model"
 "origin" "248 108 22"
@@ -17078,7 +17085,7 @@ brushDef
 "vertexcolor" "0.74902 0.752941 0.690196"
 "_color" "0.74902 0.752941 0.690196"
 }
-// entity 196
+// entity 195
 {
 "classname" "misc_model"
 "origin" "853.273 -757.238 573.565"
@@ -17086,7 +17093,7 @@ brushDef
 "angles" "23.2327 -135 0"
 "modelscale" "0.75"
 }
-// entity 197
+// entity 196
 {
 "classname" "misc_model"
 "origin" "545.456 -521.526 573.565"
@@ -17094,7 +17101,7 @@ brushDef
 "angles" "23.2327 45 0"
 "modelscale" "0.75"
 }
-// entity 198
+// entity 197
 {
 "classname" "misc_model"
 "origin" "571.244 -516.668 478.82"
@@ -17102,7 +17109,7 @@ brushDef
 "angles" "-81.2487 -134.525 12.7783"
 "modelscale_vec" "1.00197 0.905697 0.784504"
 }
-// entity 199
+// entity 198
 {
 "classname" "misc_model"
 "origin" "989.273 -893.238 573.565"
@@ -17110,7 +17117,7 @@ brushDef
 "angles" "23.2327 -135 0"
 "modelscale" "0.75"
 }
-// entity 200
+// entity 199
 {
 "classname" "misc_model"
 "origin" "949.456 -927.526 573.565"
@@ -17118,7 +17125,7 @@ brushDef
 "angles" "23.2327 45 0"
 "modelscale" "0.75"
 }
-// entity 201
+// entity 200
 {
 "classname" "func_trisoup"
 // brush 0
@@ -17202,7 +17209,7 @@ brushDef
 }
 }
 }
-// entity 202
+// entity 201
 {
 "classname" "func_trisoup"
 "subdivide" "12"
@@ -17246,7 +17253,7 @@ wsw_city1/cables1
 }
 }
 }
-// entity 203
+// entity 202
 {
 "classname" "func_trisoup"
 "subdivide" "12"
@@ -17277,7 +17284,7 @@ wsw_city1/cables1
 }
 }
 }
-// entity 204
+// entity 203
 {
 "classname" "func_trisoup"
 "subdivide" "12"
@@ -17308,7 +17315,7 @@ wsw_city1/cables1
 }
 }
 }
-// entity 205
+// entity 204
 {
 "classname" "misc_model"
 "origin" "584 -504 496"
@@ -17316,7 +17323,7 @@ wsw_city1/cables1
 "modelscale" "2"
 "angle" "45"
 }
-// entity 206
+// entity 205
 {
 "classname" "func_trisoup"
 // brush 0
@@ -17347,6 +17354,84 @@ plastic_vertex/vertex_grey75_nonsolid
 ( ( 898.7321777344 -788.239440918 -79 0.0625 -1.4375 ) ( 983.9149169922 -798.3952636719 -79 0.0625 -1.2578099966 ) ( 996.5748291016 -850.4978027344 -75 0.0625 -1.0781199932 ) ( 1031.3218994141 -901.6106567383 -75 0.0625 -0.8984400034 ) ( 1021.5236816406 -970.7530517578 -79 0.0625 -0.71875 ) ( 1005.3981933594 -1042.4116210938 -79 0.0625 -0.3593800068 ) ( 1145.2239990234 -1087.3000488281 -79 0.0625 0 ) )
 ( ( 898.7321777344 -788.239440918 -80 0.09375 -1.4375 ) ( 983.9149169922 -798.3952636719 -80 0.09375 -1.2578099966 ) ( 996.5748291016 -850.4978027344 -76 0.09375 -1.0781199932 ) ( 1031.3218994141 -901.6106567383 -76 0.09375 -0.8984400034 ) ( 1021.5236816406 -970.7530517578 -80 0.09375 -0.71875 ) ( 1005.3981933594 -1042.4116210938 -80 0.09375 -0.3593800068 ) ( 1145.2239990234 -1087.3000488281 -80 0.09375 0 ) )
 )
+}
+}
+}
+// entity 206
+{
+"classname" "misc_model"
+"angles" "0 0 90"
+"collisiontype" "none"
+"model" "models/mapobjects/lights/fluo-light-wall-tiny-8u.obj"
+"origin" "244 -788.56 88.045"
+"light" "175"
+"color" "1 1 0.75"
+"attenuation" "soft"
+"cutoff" "6"
+"fadeout" "0.5"
+"softness" "20"
+}
+// entity 207
+{
+"classname" "func_group"
+// brush 0
+{
+brushDef
+{
+( -972 -452 164 ) ( -964 -452 164 ) ( -964 -864.0117495223 164 ) ( ( -0.0078119999 -0 0 ) ( 0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( -972 -864.0117495394 156 ) ( -964 -864.0117495394 156 ) ( -964 -456 156 ) ( ( 0.0078119999 0 0 ) ( 0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( -972 -131616 -131348 ) ( -972 130528 -131348 ) ( -972 130528 130796 ) ( ( 0 -0.0078119999 0 ) ( -0.0078119999 0 0 ) ) plastic/black85_rough 134217728 0 0
+( -964 130528 -131348 ) ( -964 -131616 -131348 ) ( -964 -131616 130796 ) ( ( 0 0.0078119999 0 ) ( -0.0078119999 0 0 ) ) plastic/black85_rough 134217728 0 0
+( -964 -708.0117495394 156 ) ( -972 -708.0117495394 156 ) ( -972 -708.0117495223 164 ) ( ( 0.0139760002 -0 -3.3750660419 ) ( 0 0.0156239998 0 ) ) common/caulk 134217728 0 0
+( -964 -456 164 ) ( -972 -456 164 ) ( -972 -456 156 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 134217728 0 0
+}
+}
+// brush 1
+{
+brushDef
+{
+( 129908 130532 372 ) ( 129908 -131612 372 ) ( -132236 -131612 372 ) ( ( -0.0078119999 -0 0 ) ( 0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( 129908 -131612 164 ) ( 129908 130532 164 ) ( -132236 130532 164 ) ( ( 0.0078119999 0 0 ) ( 0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( 129908 -676 130796 ) ( 129908 -676 -131348 ) ( -132236 -676 -131348 ) ( ( 0.0078119999 -0 0 ) ( 0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( 129908 -660 -131348 ) ( 129908 -660 130796 ) ( -132236 -660 130796 ) ( ( -0.0078119999 0 -0 ) ( -0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( -972 -131612 -131348 ) ( -972 130532 -131348 ) ( -972 130532 130796 ) ( ( 0 -0.0078119999 -0 ) ( -0.0078119999 0 0 ) ) plastic/black85_rough 134217728 0 0
+( -964 130532 -131348 ) ( -964 -131612 -131348 ) ( -964 -131612 130796 ) ( ( 0 0.0078119999 0 ) ( -0.0078119999 0 0 ) ) plastic/black85_rough 134217728 0 0
+}
+}
+// brush 2
+{
+brushDef
+{
+( 129914 130532 372 ) ( 129914 -131612 372 ) ( -132230 -131612 372 ) ( ( 0.0372023806 0 0 ) ( 0 0.0372023806 0.2232142836 ) ) common/skip 134217728 0 0
+( 129914 -131612 164 ) ( 129914 130532 164 ) ( -132230 130532 164 ) ( ( 0.0372023806 0 0 ) ( 0 0.0372023806 0.2232142836 ) ) common/skip 134217728 0 0
+( 129914 -660 130796 ) ( 129914 -660 -131348 ) ( -132230 -660 -131348 ) ( ( 0.0372023806 0 0 ) ( 0 0.0372023806 0.2232142836 ) ) common/skip 134217728 0 0
+( 129914 -484 -131348 ) ( 129914 -484 130796 ) ( -132230 -484 130796 ) ( ( 0.0372023806 0 0 ) ( 0 0.0372023806 0.2232142836 ) ) common/skip 134217728 0 0
+( -974 -131612 -131348 ) ( -974 130532 -131348 ) ( -974 130532 130796 ) ( ( 0.0372023806 0 0 ) ( 0 0.0372023806 0 ) ) common/skip 134217728 0 0
+( -966 130532 -131348 ) ( -966 -131612 -131348 ) ( -966 -131612 130796 ) ( ( 0.0186011903 0 0 ) ( 0 0.0186011903 0 ) ) grates/simplegrid 134217728 0 0
+}
+}
+// brush 3
+{
+brushDef
+{
+( -972 -456 380 ) ( -964 -456 380 ) ( -964 -860.0002508496 380 ) ( ( -0.0078119999 -0 0 ) ( 0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( -972 -860.0002508325 372 ) ( -964 -860.0002508325 372 ) ( -964 -456 372 ) ( ( 0.0078119999 0 -0 ) ( 0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( -972 -131616 -131348 ) ( -972 130528 -131348 ) ( -972 130528 130796 ) ( ( 0 -0.0078119999 0.0625 ) ( -0.0078119999 0 0 ) ) plastic/black85_rough 134217728 0 0
+( -964 130528 -131348 ) ( -964 -131616 -131348 ) ( -964 -131616 130796 ) ( ( 0 0.0078119999 0.0625 ) ( -0.0078119999 0 0 ) ) plastic/black85_rough 134217728 0 0
+( -964 -704.0002508325 372 ) ( -972 -704.0002508325 372 ) ( -972 -704.0002508496 380 ) ( ( 0.0139760002 -0 -3.9000000954 ) ( 0 0.0156239998 0 ) ) common/caulk 134217728 0 0
+( -964 -456 380 ) ( -972 -456 380 ) ( -972 -456 372 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 134217728 0 0
+}
+}
+// brush 4
+{
+brushDef
+{
+( 129908 130536 372 ) ( 129908 -131608 372 ) ( -132236 -131608 372 ) ( ( -0.0078119999 0 -0.0312479995 ) ( 0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( 129908 -131608 164 ) ( 129908 130536 164 ) ( -132236 130536 164 ) ( ( 0.0078119999 0 -0.0312479995 ) ( 0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( 129908 -480 130796 ) ( 129908 -480 -131348 ) ( -132236 -480 -131348 ) ( ( 0.0078119999 0 0 ) ( 0 0.0078119999 0.0625 ) ) plastic/black85_rough 134217728 0 0
+( 129908 -464 -131348 ) ( 129908 -464 130796 ) ( -132236 -464 130796 ) ( ( -0.0078119999 0 0 ) ( 0 0.0078119999 0 ) ) plastic/black85_rough 134217728 0 0
+( -972 -131608 -131348 ) ( -972 130536 -131348 ) ( -972 130536 130796 ) ( ( 0 -0.0078119999 0 ) ( -0.0078119999 0 0.0312479995 ) ) plastic/black85_rough 134217728 0 0
+( -964 130536 -131348 ) ( -964 -131608 -131348 ) ( -964 -131608 130796 ) ( ( 0 0.0078119999 0 ) ( -0.0078119999 0 0.0312479995 ) ) plastic/black85_rough 134217728 0 0
 }
 }
 }
