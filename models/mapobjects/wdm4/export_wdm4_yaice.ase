@@ -27,11 +27,11 @@
 		*MATERIAL_FALLOFF In
 		*MATERIAL_XP_TYPE Filter
 		*MAP_DIFFUSE {
-			*MAP_NAME "mapobjects_wdm4_ice_axisz"
+			*MAP_NAME "textures/blxbis/ice_01"
 			*MAP_CLASS "Bitmap"
 			*MAP_SUBNO 1
 			*MAP_AMOUNT 1.0000
-			*BITMAP "mapobjects_wdm4_ice_axisz"
+			*BITMAP "textures/blxbis/ice_01"
 			*MAP_TYPE Screen
 			*UVW_U_OFFSET 0.0000
 			*UVW_V_OFFSET 0.0000
