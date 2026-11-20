@@ -33,7 +33,11 @@ The model texture maps have been modified to adapt to the game.
 The model texture maps have been modified to adapt to the game.
 
 
+==== FULL FREE LICENSE ====
+These don't require credit and can be modified and used for any purpose.
 
+- models/mapobjects/rocks/stylizedpack1 (set of rocks models: models/mapobjects/rocks/stylized_0*.obj)
+By Sereda - https://skfb.ly/onEs8
 
 
 

@@ -22431,6 +22431,7 @@ brushDef
 // entity 502
 {
 "classname" "func_group"
+"collisiontype" "none"
 // brush 0
 {
 brushDef
