@@ -21774,7 +21774,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "23.191288"
-"model" "models/mapobjects/wdm5/fasade1_simple.ase"
+"model" "models/mapobjects/city/fasade1_simple.obj"
 "origin" "251.030945 675.721741 2399.999756"
 "collisiontype" "none"
 }
@@ -21783,7 +21783,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "23.191288"
-"model" "models/mapobjects/wdm5/fasade1_simple.ase"
+"model" "models/mapobjects/city/fasade1_simple.obj"
 "origin" "486.344971 776.535034 2399.999756"
 "collisiontype" "none"
 }
@@ -21808,7 +21808,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "-97.529060"
-"model" "models/mapobjects/wdm5/fasade1_corner1_simple2v2.ase"
+"model" "models/mapobjects/city/fasade1_corner1_simple2v2.obj"
 "origin" "227.302979 -947.424561 2175.999512"
 "collisiontype" "none"
 }
@@ -21817,7 +21817,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "172.470947"
-"model" "models/mapobjects/wdm5/fasade1_simple.ase"
+"model" "models/mapobjects/city/fasade1_simple.obj"
 "origin" "568.319336 -895.640564 2175.999512"
 "collisiontype" "none"
 }
@@ -21880,7 +21880,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "172.470947"
-"model" "models/mapobjects/wdm5/fasade1_simple.ase"
+"model" "models/mapobjects/city/fasade1_simple.obj"
 "origin" "822.112183 -929.183960 2175.999512"
 "collisiontype" "none"
 }
@@ -21897,7 +21897,7 @@ brushDef
 "classname" "misc_model"
 "spawnflags" "4"
 "angle" "172.470947"
-"model" "models/mapobjects/wdm5/fasade1_corner1_simple2v2.ase"
+"model" "models/mapobjects/city/fasade1_corner1_simple2v2.obj"
 "origin" "1155.575317 -1086.302979 2175.999512"
 "collisiontype" "none"
 }

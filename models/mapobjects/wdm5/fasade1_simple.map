@@ -80,7 +80,7 @@ brushDef
 }
 // Entity 3
 {
-"model" "models/mapobjects/wdm5/fasade1_simple.ase"
+"model" "models/mapobjects/city/fasade1_simple.obj"
 "origin" "0 0 0"
 "classname" "misc_model"
 }
